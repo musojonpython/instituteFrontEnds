@@ -1,0 +1,9 @@
+.about-section{
+    max-width: 100%;
+}
+
+@media (max-width: 767px) {
+    .iframe-video-about{
+        min-height: 400px;
+    }
+  }

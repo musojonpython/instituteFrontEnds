@@ -1,0 +1,11 @@
+.rah-title{
+    font-size: 18px;
+    font-weight: 500;
+}
+.rah-date{
+    padding: 5px 20px;
+    background-color: #C4C4C4;
+    color: #000000;
+    display: inline-block;
+    font-size: 14px;
+}

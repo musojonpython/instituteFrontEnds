@@ -1,0 +1,18 @@
+.Navbar{
+     background: #03ae12; /*   #1976D2
+     /* position: sticky; */
+     top: -2px;
+     z-index: 99999999;
+     width: 100%;
+}
+
+.Navbar #basic-nav-dropdown, .Navbar .nav-link{
+    color: #fff !important;
+    font-size: 17px !important;
+}
+
+@media (max-width: 599px) {
+    .Navbar{
+        z-index: 900;
+    }
+}

@@ -1,0 +1,11 @@
+.ish-orin{
+    padding: 20px 10px;
+    background-color: #006D7C;
+    text-align: center;
+    color: #fff;
+    font-weight: 500;
+}
+
+.bosh-ish .accordion-button::after{
+    /* margin-left: 7px; */
+}

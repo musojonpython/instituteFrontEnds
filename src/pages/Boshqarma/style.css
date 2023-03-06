@@ -1,0 +1,109 @@
+
+  .sidenav .dropdown-item {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #000000;
+    display: block;
+  }
+  
+  .sidenav .dropdown-item:hover {
+    color: #f1f1f1;
+  }
+  
+  .main {
+     /* Same as the width of the sidenav */
+    font-size: 28px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+    /* background-color: #1976D2; */
+  }
+  
+  .item-content {
+    white-space: normal !important;
+  }
+
+  .sc-khQegj .cefTao.active{
+    color: #03ae12;
+  }
+
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+  .dropdown-item{
+      font-size: 17px !important;
+      word-wrap: break-word !important;
+  }
+
+  .dropdown-item:hover {
+      background-color: #03ae12 !important;
+  }
+
+
+  .sc-khQegj {
+    color: #000000 !important;
+    font-weight: 500 !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+  }
+
+  .sc-khQegj.active{
+    color: #fff !important;
+    background-color: #03ae12 !important;
+  }
+
+  .MuiPaper-root{
+    /* position: relative; */
+    margin-top: 187px !important;
+  }
+
+  .css-12i7wg6-MuiPaper-root-MuiDrawer-paper{
+    /* position: relative !important; */
+    background-color: #03ae12 !important;
+    color: #000000 !important;
+  }
+
+  .margin{
+    margin-top: 0 !important;
+  }
+  
+
+  .text-section{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+  
+
+@media (max-width: 700px) {
+  .text-section{
+      padding-left: 10px;
+      padding-right: 10px;
+      margin-left: 0;
+  }
+  .text-title-line{
+      display: none;
+  }
+}
+
+  @media (max-width: 599px) {
+    /* .sidenav {
+      position: relative;
+      transform: translateX(-100%);
+    } */
+    .css-zxtyt4-MuiPaper-root-MuiAppBar-root{
+      margin-top: 0 !important;
+    }
+    #sideNav{
+      top: 0 !important;
+    }
+    .MuiPaper-root{
+      margin-top: 0 !important;
+    }
+  }
+
+  #zindex{
+    position: relative;
+    z-index: 21 !important;
+  }
+

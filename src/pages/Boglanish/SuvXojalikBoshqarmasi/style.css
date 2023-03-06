@@ -1,0 +1,7 @@
+.table-tar td, .table-tar th{
+    padding: 15px;
+    font-weight: 500;
+}
+.table-tar th{
+    font-weight: 700;
+}
