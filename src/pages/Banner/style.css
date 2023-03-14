@@ -24,7 +24,7 @@
 }
 
 .address .icon , .phone .icon{
-    color:  #03ae12;
+    color:  #03ae12; 
     font-size: 38px;
 }
 
@@ -46,6 +46,7 @@
 
 .dropdown-menu {
     padding: 0 !important;
+    color: #03ae12;
 }
 
 .dropdown-item{

@@ -352,16 +352,3 @@ const qonunlar = [
 
 export default Qonunlar;
 
-
-
-
-// import React from 'react';
-// import PaginatedItems from './pagination';
-
-// export default function () {
-//   return (
-//     <div>
-//         <PaginatedItems itemsPerPage={4} />
-//     </div>
-//   )
-// }

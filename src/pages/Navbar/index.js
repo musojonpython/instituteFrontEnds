@@ -28,7 +28,7 @@ const NavbarMain = () => {
                             <Link className='nav-link' to="/datas">{t(`Malumotlar.${lang}`)}</Link>
                             <Link className='nav-link' to="/Hujjatlar">{t(`Hujjatlar.${lang}`)}</Link>
                             <Link className='nav-link' to="/Interaktive">{t(`Interaktiv.${lang}`)}</Link>
-                            <Link className='nav-link' to="/Boglanish">{t(`Boglanish.${lang}`)}</Link>
+                            {/* <Link className='nav-link' to="/Boglanish">{t(`Boglanish.${lang}`)}</Link> */}
                         </Nav>
                     </Navbar.Collapse>
                 </Container>

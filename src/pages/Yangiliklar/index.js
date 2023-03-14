@@ -43,13 +43,6 @@ const Sidebar = () => {
               <NavLink to="/News/Elonlar">
                 <CDBSidebarMenuItem className={setActiveClass('/News/Elonlar')} icon="bullhorn">{t(`Elonlar.${lang}`)}</CDBSidebarMenuItem>
               </NavLink>
-              {/* <NavLink to="/News/PresRelizlar">
-                <CDBSidebarMenuItem icon="chart-line">{t(`pres.${lang}`)}</CDBSidebarMenuItem>
-              </NavLink> */}
-              {/* <NavLink to="/News/OAVVakillar">
-                <CDBSidebarMenuItem icon="table">OAV Vakillar</CDBSidebarMenuItem>
-              </NavLink> */}
-
             </CDBSidebarMenu>
           </CDBSidebarContent>
         </CDBSidebar>

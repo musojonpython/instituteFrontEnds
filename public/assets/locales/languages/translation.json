@@ -6,9 +6,9 @@
     },
 
     "tName": {
-        "uz": "So'x-Oqtepa Irrigatsiya tizimi boshqarmasi",
-        "ru": "Сох-Октепинское управление ирригационных систем",
-        "en": "Sokh-Oktepa Irrigation System Department"
+        "uz": "Atrof muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti",
+        "ru": "Научно-исследовательский институт экологии и природоохранных технологий",
+        "en": "Research Institute of Environment and Nature Protection Technologies"
     },
     "contactCenter": {
         "uz": "A'loqa markazi",
@@ -26,14 +26,14 @@
         "en": "Address"
     },
     "tAddress": {
-        "uz": "Toshkent Shahar Yunusobod shaxri I.Buxoriy 5-uy",
-        "ru": "Toshkent Shahar Yunusobod shaxri I.Buxoriy 5-uy",
-        "en": "Toshkent Shahar Yunusobod shaxri I.Buxoriy 5-uy"
+        "uz": "Oʼzbekiston Respublikasi, Toshkent shahri, Chilonzor tumani, Bunyodkor shoh koʼchasi, 7-А uy",
+        "ru": "Республика Узбекистан, Чиланзарский район, г.Ташкент, улица Бунёдкор, дом 7-А",
+        "en": "House 7-A, Bunyodkor street, Chilonzor district, Tashkent city, Republic of Uzbekistan"
     },
     "Boshqarma": {
-        "uz": "Boshqarma",
-        "ru": "Управление",
-        "en": "Management"
+        "uz": "Institut",
+        "ru": "Институт",
+        "en": "Institute"
     },
     "Yangiliklar": {
         "uz": "Yangiliklar",
@@ -76,7 +76,7 @@
         "en": "Video material"
     },
     "Malumotlar": {
-        "uz": "Ma'lumotlar",
+        "uz": "Faoliyat",
         "ru": "Информация",
         "en": "Information"
     },
@@ -86,9 +86,9 @@
         "en": "Youth policy"
     },
     "Fidoiy": {
-        "uz": "Suv Xo'jaligi Fidoiylari",
-        "ru": "Волонтеры водного хозяйства",
-        "en": "Volunteers of Water Resources"
+        "uz": "Instituti Fidoiylari",
+        "ru": "Преданные Института",
+        "en": "Devotees of the Institute"
     },
     "FidoiyT": {
         "uz": "Ikki xalq oʻrtasida xurmat topgan mehnatsevar irrigator",
@@ -106,9 +106,9 @@
         "en": "Leadership Lectures"
     },
     "faol": {
-        "uz": "Suv Xo'jalik Faoliyati Tog'risida",
-        "ru": "О водохозяйственной деятельности",
-        "en": "On Water Management Activities"
+        "uz": "Instituti Faoliyati Tog'risida",
+        "ru": "О деятельности института",
+        "en": "About the activity of the institute"
     },
     "web": {
         "uz": "Rasmiy Web Sahifa",
@@ -121,9 +121,9 @@
         "en": "User Survey"
     },
     "sorovnomaT": {
-        "uz": "Axborotdan foydalanuvchilarning soʻrovnomasi asosida Soʻx-Oqtepa irrigatsiya tizimi boshqarmasi tomonidan axborotlarni taqdim etishga maʼsul shaxslar roʻyxati",
-        "ru": "Перечень лиц, ответственных за предоставление информации Сох-Октепинским управлением ирригационных систем на основании опроса пользователей информации",
-        "en": "List of persons responsible for providing information by Sokh-Oktepa Irrigation System Department based on a survey of information users"
+        "uz": "Axborotdan foydalanuvchilarning soʻrovnomasi asosida Atrof muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti tomonidan axborotlarni taqdim etishga maʼsul shaxslar roʻyxati",
+        "ru": "Перечень лиц, ответственных за предоставление информации НИИ Экологии и природоохранных технологий на основании анкеты пользователей информации",
+        "en": "List of persons responsible for providing information by the Research Institute of Environment and Nature Protection Technologies based on the questionnaire of information users"
     },
     "SName1": {
         "uz": "Kamolov Kenjaboy Abdugʻaniyevich",
@@ -196,9 +196,9 @@
         "en": "Executive Secretary"
     },
     "farmon": {
-        "uz": "Farmonlar",
-        "ru": "Указы",
-        "en": "Decrees"
+        "uz": "Amaldagi",
+        "ru": "На практике",
+        "en": "In practice"
     },
     "farmon1": {
         "uz": "SUV RESURSLARIDAN FOYDALANISh SOHASIDA DAVLAT BOShQARUVI VA NAZORAT TIZIMINI YaNADA TAKOMILLAShTIRISh HAMDA SUV XO‘JALIGI OB'EKTLARI XAVFSIZLIGINI TA'MINLASh ChORA-TADBIRLARI TO‘G‘RISIDA",
@@ -236,9 +236,9 @@
         "en": "ON THE STATE POLICY ON YOUTH"
     },
     "dastur": {
-        "uz": "Dasturlar",
-        "ru": "Software",
-        "en": "Программное обеспечение"
+        "uz": "Rejlashtirilayotgan",
+        "ru": "Being planned",
+        "en": "Планируется"
     },
     "dastur1": {
         "uz": "\"2020-yil - Ilm-maʼrifat va raqamli iqtisodiyotni rivojlantirish yili\"",
@@ -246,9 +246,9 @@
         "en": "«2020 год – год образования и развития цифровой экономики»"
     },
     "Loyihalar": {
-        "uz": "Loyihalar",
-        "ru": "Проекты",
-        "en": "Projects"
+        "uz": "Yakunlangan",
+        "ru": "Завершенный",
+        "en": "Completed"
     },
     "Loyiha1": {
         "uz": "OʻZBEKISTON RESPUBLIKASI QONUNI “GIDROTEXNIKA INShOOTLARINING XAVFSIZLIGI” TOʻGʻRISIDA (Yangi tahrir)",
@@ -256,9 +256,9 @@
         "en": "LAW OF THE REPUBLIC OF UZBEKISTAN ON \"SAFETY OF HYDRAULIC ENGINEERING\" (New edition)"
     },
     "Hujjatlar": {
-        "uz": "Hujjatlar",
-        "ru": "Документы",
-        "en": "Documents"
+        "uz": "Loyihalar",
+        "ru": "Проекты",
+        "en": "Projects"
     },
     "FooterAddress": {
         "uz": " Farg’ona viloyati, Bag’dod tumani, Bag’dod shaxarchasi 25-uy.",
@@ -271,9 +271,9 @@
         "en": "All rights reserved 2021-2022"
     },
     "Interaktiv": {
-        "uz": "Interaktiv",
-        "ru": "Интерактивный",
-        "en": "Interactive"
+        "uz": "Bog'lanish",
+        "ru": "Связь",
+        "en": "Contact"
     },
     "Alert": {
         "uz": "So'rovingiz qabul qilindi !",
@@ -301,9 +301,9 @@
         "en": "Reception Schedule"
     },
     "HeadDepartment": {
-        "uz": "Boshqarma boshligi",
-        "ru": "Начальник отдела",
-        "en": "Head of Department"
+        "uz": "Instituti  boshligi",
+        "ru": "Начальник институт",
+        "en": "Head of Institute"
     },
     "JismoniyJ1": {
         "name": {
@@ -485,9 +485,9 @@
         "en": "Work schedule"
     },
     "ishTartib1": {
-        "uz": "Boshqarmaning markaziy apparatida ish soat 8:00 da boshlanib, 17:00 da tugaydi.",
-        "ru": "Работа в центральном офисе ведомства начнется в 8:00 и закончится в 17:00.",
-        "en": "Work in the central office of the department will begin at 8:00 and end at 17:00."
+        "uz": "Institutining markaziy apparatida ish soat 8:00 da boshlanib, 17:00 da tugaydi.",
+        "ru": "Работа в центральном институт ведомства начнется в 8:00 и закончится в 17:00.",
+        "en": "Work in the central office of the Institute will begin at 8:00 and end at 17:00."
     },
     "ishTartib2": {
         "uz": "Tushlik tanaffusi 12:00 dan 13:00 gacha.",
@@ -515,9 +515,9 @@
         "en": "Contact information"
     },
     "AloqaXizmatiT": {
-        "uz": "So‘x-Oqtepa irrigasiya tizimi boshqarmasi  rahbariyatining Jismoniy shaxslar va yuridik shaxslar vakillarini qabul qilish jadvali",
-        "ru": "График приема руководства Сох-Октепинского управления ирригации для физических и юридических лиц",
-        "en": "Sokh-Oktepa Irrigation Department Management Reception schedule for individuals and legal entities"
+        "uz": "Atrof muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti rahbariyatining Jismoniy shaxslar va yuridik shaxslar vakillarini qabul qilish jadvali",
+        "ru": "График приема руководства Научно-исследовательский институт экологии и природоохранных технологий для физических и юридических лиц",
+        "en": "Research Institute of Environment and Nature Protection Technologies Reception schedule for individuals and legal entities"
     },
     "fikrMulohaza": {
         "uz": "Fikr mulohazalar qismi",
@@ -570,9 +570,9 @@
         "en": "Site map"
     },
     "bNizomTitle1": {
-        "uz": "Boshqarma nizomi",
-        "ru": "Совет директоров",
-        "en": "Board of Directors"
+        "uz": "Instituti nizomi",
+        "ru": "Устав института",
+        "en": "Statute of the institute"
     },
     "bNizomTitle2": {
         "uz": "Umumiy qoidalar.",
@@ -585,14 +585,14 @@
         "en": "1. This charter defines the status, main tasks, functions and rights of the Syrdarya-Sokh Irrigation Systems Basin Department under the Sokh-Oktepa Irrigation System Department (hereinafter referred to as the Irrigation System Department), as well as the organizational basis of its activities. \n 2. Sokh-Oktepa Irrigation System Department PF of the President of the Republic of Uzbekistan dated April 6, 2021 \"On measures to further improve the system of public administration and control in the use of water resources and ensure the safety of water facilities\" Decree No. 6200 and Resolution No. PP 5055 \"On measures to further improve the activities of the Ministry of Water Resources of the Republic of Uzbekistan\" and the Resolution of the Cabinet of Ministers of the Republic of Uzbekistan \"On measures to further improve the activities of the Ministry of Water Resources of the Republic of Uzbekistan\" was established on the basis of the Resolution No. 500 of July 3, 2018 \"On approval of regulatory legal acts\". \n  3. Sokh-Oktepa Irrigation System Department is a part of the Syrdarya-Sokh Irrigation Systems Department under the Basin Department and is an integral part of the management of water resources and regulation of their use. In the course of its activities, it reports to the Basin Department and the Ministry of Water Resources. \n  4. In accordance with the Constitution of the Republic of Uzbekistan, laws, resolutions of the chambers of the Oliy Majlis of the Republic of Uzbekistan, decrees, resolutions and orders of the President of the Republic of Uzbekistan, the Cabinet of Ministers of the Republic of Uzbekistan, the Cabinet of Ministers and the Cabinet of Ministers of the Republic of Uzbekistan. \n  5. Decisions taken by the Board within its competence shall be binding on the state and economic administration bodies, local state authorities and organizations, their officials, as well as legal entities and individuals. \n  6. The Board is a legal entity, stamps and letterheads with the image of the State Emblem of the Republic of Uzbekistan and its name in the state language, independent balance sheet, treasury personal account numbers in the treasury of the Ministry of Finance of the Republic of Uzbekistan, national and foreign bank accounts. \n  7. Official name of the Board: \n   - in the state language: full Syrdarya-Sokh Irrigation Systems Basin Department, abbreviated name Sokh-Oktepa IDB under Syrdarya-Sokh \n - in Russian: full-Management of irrigation systems Sokh-Oktepa at the abbreviated name-UIS Sokh-Oktepa at Syrdarya-Sokh BUIS. \n  8.  Address of the Sokh-Oktepa Irrigation Department (postal address) 150700 Fergana region, Kokand city, 5 Imam Bukhari Street. \n   Chapter 2. Duties and functions of the Board. The main tasks of the Board are: \n   - Effective implementation of the tasks and functions assigned to the Department of Irrigation Systems of the Ministry and the Basin Department. \n   - Cooperation with the sectors of complex socio-economic development.  \n  - Implement a single water management policy aimed at comprehensive modernization of the water management system, the introduction of scientific and technical achievements, modern water-saving technologies, advanced local and foreign practices.  \n  - Improving the principles and system of water resources management, ensuring their rational and rational use, improving the reclamation of irrigated lands, reconstruction and modernization of water facilities and hydraulic structures. \n  10. The Board performs the following functions in accordance with the main tasks assigned to it. \n  - Ensures the effective implementation of sectoral and regional programs for the development of the water sector. \n  - Coordinates the introduction of water-saving technologies in the economy, including agriculture.  \n  - In its activities, the Department of Water Resources complies with the Constitution of the Republic of Uzbekistan, laws of the Republic of Uzbekistan, resolutions and other documents of the Oliy Majlis of the Republic of Uzbekistan, decrees, resolutions and orders of the President of the Republic of Uzbekistan. and orders of the Ministry of Water Resources of the Republic of Uzbekistan, decisions and orders of the Basin Administration, as well as this Charter. \n  4. The management system is an organization. The State Emblem of the Republic of Uzbekistan shall have a stamp with the image and its name, account numbers in banking institutions. \n 5. Legal address of Sokh-Oktepa Irrigation System Department: 151200, 5 Istiqlol Street, Qoqon city, Fergana region. \n Tasks and functions of Section II  \n 6. The main tasks of the Board are: \n - Effective implementation of the tasks and functions assigned to the Department of Irrigation Systems of the Ministry and the Basin Department. \n - Cooperation with the sectors of complex socio-economic development. \n - Implementation of a single water management policy aimed at comprehensive modernization of the water management system, the introduction of scientific and technical achievements, modern water-saving technologies, advanced local and foreign practices. \n - Improving the principles and system of water resources management, ensuring their efficient and rational use, improving the reclamation of irrigated lands, reconstruction and modernization of water facilities and hydraulic structures. \n 10. The Board performs the following functions in accordance with the main tasks assigned to it: \n - Effectively implements sectoral and regional programs for the development of the water sector: \n - Ensures the effective implementation of sectoral and regional programs for the development of the water sector. \n - Coordinates the introduction of water-saving technologies in the economy, including agriculture. \n - Integrated management and rational use of water resources, increase their efficiency, active introduction of innovative technologies and mechanisms of water use and consumption, organization and improvement of water resources accounting. \n - Provides methodological and practical assistance in the formation of water users 'organizations and other associations, coordinates the technical operation, reconstruction and repair of water facilities of water consumers' organizations. \n - Participates in the development and implementation of regional programs for the development of irrigation and improvement of reclamation of irrigated lands. \n - Assists in the introduction of science-based irrigation regimes, drip irrigation systems and other irrigation technologies. \n - Rehabilitation and development of on-farm irrigation systems, as well as the introduction of water-saving technologies. \n - Analyzes the use of water resources and makes proposals on setting water supply limits in administrative districts, encouraging water users and water consumers to use water sparingly. \n - Assists and coordinates water consumption organizations with the conclusion of contracts for water consumption, water management of irrigation networks and equipping them with water meters. \n - Participates in the implementation of concepts, strategies and comprehensive measures to develop the infrastructure of water facilities, strengthening their material and technical base, as well as regulatory documents. \n - Monitors the implementation of contracts between water consumers and service providers. \n - Helps to organize training of personnel and specialists in the field of water management, including leaders and specialists of water consumers' organizations. \n - Helps to organize training of personnel and specialists in the field of water management, including leaders and specialists of water consumer organizations. \n - Cooperates in the organization of educational and production activities of students of higher education institutions and students of professional colleges in the field of water management. \n Chapter 3. Rights and obligations of the Board. \n 11. The Board has the following rights to perform the tasks and functions assigned to it: \n - Request and receive information necessary for the resolution of issues within its competence from the territorial subdivisions of state and economic administration bodies, local state authorities in the prescribed manner. \n - Make proposals for consideration by the district administration, territorial subdivisions of the Ministry and local authorities on issues within its competence. \n - Giving conclusions on the draft resolutions submitted for approval on the use of water resources. \n - Make proposals to bring to justice those responsible for violations of water legislation. \n - Submission of applications to economic courts to protect the interests of water management organizations. \n- The Board may have other rights provided by law. \n 12. Management Board:  \n - Ensuring the timely and quality performance of assigned tasks and functions. \n - The final results and consequences of the draft documents and proposals submitted to the local authorities and territorial divisions of the region. \n - Preparation and introduction of proposals for the inclusion of current issues in the interests of water management organizations, as well as in the program for the development of water infrastructure. \n - Responsible for the effective implementation of guidelines, action plans, \"road maps\" and other guidelines for the development of water management and problem solving. \n - The board may have other obligations in accordance with the law. \n Chapter 4. The main function of management \n Obligations include: \n - Compliance with the requirements of the Constitution and laws of the Republic of Uzbekistan, as well as other normative legal acts. \n - Implementation of general management of the Board's activities. \n - Ensuring that their merits are guaranteed, as well as the distribution of their professional skills in personnel, to determine their level of responsibility. \n - President of Uzbekistan and Uzbekistan Vazirlar Maxkamasining qarorlari and topşiriqlariining ʙjuaƶarilişini ta'minlaş, Uzbekistan Prezidentining Uzbekistan Pre5zidentining xuƶƶatlari and topşiriqlarini samarali and natiƶali implemented etiş, Shuningdek implemented intizomni mustahkamlaş ucun Uzbekistan Prezidentining State maslahatcilari, Vazirlar Mahkamasi uning komplekslari, maslahatcilari, Resolution of the Cabinet of Ministers No. PP-2881 of April 11, 2017 \"On the personal responsibility of the heads of the Cabinet of Ministers and its complexes, state and water management bodies at all levels, as well as In accordance with the Resolution No. 12 of January 12, the implementation of a set of practical measures to strengthen the executive discipline in the activities of the Irrigation Department, the timely implementation of the tasks of the Department staff. Take measures to increase personal responsibility to ensure quality implementation. \n - Ensuring the timely and quality implementation of decisions, orders of the Ministry, orders and instructions of the Minister and his deputies, orders and instructions of the district administration, decisions and orders of local government. \n - Interaction with local governments and integrated socio-economic development sectors on issues within the scope of activities of the Ministry and the district administration. \n - Submission of proposals on selection and placement of personnel, their professionalism, level of education, practical experience and high level of activity and moral and spiritual knowledge of the executive body of the Cabinet of Ministers of the Republic of Uzbekistan. Ensuring compliance with the requirements of the Code of Conduct for employees of the Ministry, issued in accordance with the Resolution No. 62 of March 2, 2016. \n - Interaction with local governments and integrated socio-economic development sectors on issues within the scope of activities of the Ministry and the Basin Department. \n - Making proposals on the selection and placement of personnel, their professionalism, level of education, practical experience and high level of activity and moral and spiritual knowledge Ensuring compliance with the requirements of the Code of Conduct for employees of the Ministry, issued in accordance with the Resolution No. 62 of March 2, 2016. \n - To take measures to prevent corruption and other violations in accordance with the requirements of the Law of the Republic of Uzbekistan \"On Combating Corruption\". to develop and implement measures to combat them. \n - Make proposals to the district administration and the Ministry on the payment of bonuses to employees of the department, bonuses, financial assistance, incentives and the application of disciplinary measures, awarding them with state awards and departmental awards. \n - Ensuring the accountability of information included in the categories of state secrets and classified information protected by law. \n  Chapter 5. Organizing the activities of the Board. \n - The board is headed by the boss. The head of the department is appointed on the recommendation of the governor in accordance with the agreement of the Deputy Minister for Water Resources. \n 14.Head of the Board: \n - The Board manages the activities on a supervisory basis and is personally responsible for the implementation of the tasks and functions assigned to the Board. \n - The head of the department nominates the candidate for the position of the deputy head of the irrigation system to the district department. \n - On a competitive basis, the staff of the department is appointed to the position, as well as the heads of subordinate hydraulic sections in coordination with the irrigation system of the basin department. \n - Exercises other powers within the powers established by the legislation. \n 15. Appoints and dismisses employees of the department. \n 16. Issues orders and directives, gives instructions to employees of the department, which must be carried out. \n Chapter 6. Property of the Board. \n 17. Property of the Department (buildings, agricultural machinery, budget funds and other non-residential property) is responsible for management. \n 18. The administration shall dispose of the property transferred for personal use only in accordance with the procedure established by the permission of the head of the basin. \n Chapter 7. Financing and logistics of the administration, remuneration of employees and their financial incentives. \n 19. Sources of financing of the department are the funds of the state budget, the income of the department from economic activities, as well as other funds not prohibited by law. In this case, salaries, bonuses in the amount of two months' salary and financial assistance in the amount of monthly salary, as well as other expenses are financed from the budget. \n 20. The Ministry of Water Resources of the Republic of Uzbekistan and the Ministry of Water Resources of the Republic of Uzbekistan approve monthly bonuses and incentives for employees on the basis of long-term services. \n Chapter 8. Report to the District Basin Board. \n 21. Regularly reports on the activities of the Department to the Basin Department. \n Chapter 9. Closing rule. \n 22. Reorganization and liquidation of the Board shall be carried out in accordance with the procedure established by law."
     },
     "bNizomTitleBottom": {
-        "uz": "Soʻx-Oqtepa irrigatsiya tizimi boshqarmasi boshligʻi",
-        "ru": "Начальник Сух-Октепинского управления ирригационных систем",
-        "en": "Head of Sukh-Oktepa Irrigation System Department"
+        "uz": "Atrof-muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti boshligʻi",
+        "ru": "Начальник Научно-исследовательский институт экологии и природоохранных технологий",
+        "en": "Head of Research Institute of Environment and Nature Protection Technologies"
     },
     "bHaqidaTitle1": {
-        "uz": "Boshqarma haqida",
-        "ru": "О Совете",
-        "en": "About the Board"
+        "uz": "Instituti haqida",
+        "ru": "О институт",
+        "en": "About the Institute"
     },
     "bfunksiyavazifa":{
         "uz": "Vazifa va Funksiyalar",
@@ -630,19 +630,19 @@
     },
 
     "bHaqidaTitleBottom": {
-        "uz": "Soʻx-Oqtepa irrigatsiya tizimi boshqarmasi boshligʻi",
-        "ru": "Начальник Сох-Октепинского отдела ирригационных систем",
-        "en": "Head of Soh-Oktepa Irrigation System Department"
+        "uz": "Atrof-muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti boshligʻi",
+        "ru": "Начальник Научно-исследовательский институт экологии и природоохранных технологий",
+        "en": "Head of Research Institute of Environment and Nature Protection Technologies"
     },
     "bTuzilmaTitle1": {
-        "uz": "Boshqarma tuzilmasi",
-        "ru": "Структура управления",
-        "en": "Management structure"
+        "uz": "Instituti tuzilmasi",
+        "ru": "Структура институт",
+        "en": "Institute structure"
     },
     "bTuzilmaTitle2": {
-        "uz": "SOʻX-OQTEPA IRRIGATsIYa TIZIMI BOShQARMASINING STRUKTURASI",
-        "ru": "СТРУКТУРА УПРАВЛЕНИЯ СОХ-ОКТЕПИНСКОЙ ИРРИГАЦИОННОЙ СИСТЕМОЙ",
-        "en": "STRUCTURE OF SOKH-OKTEPA IRRIGATION SYSTEM MANAGEMENT"
+        "uz": "Atrof-muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti strukturasi",
+        "ru": "Структура НИИ экологии и природоохранных технологий",
+        "en": "Structure of the Research Institute of Environment and Nature Protection Technologies"
     },
     "load": {
         "uz": "Yuklanmoqda",
@@ -700,9 +700,9 @@
         "ru": "Центральный офис"
     },
     "Hayat": {
-        "uz": "Hayat",
-        "en": "Team",
-        "ru": "Команда"
+        "uz": "Ilmiy kengash",
+        "en": "Scientific council",
+        "ru": "Ученый совет"
     },
     "HayatT": {
         "uz": "Бошқарма ички буйруғи",
@@ -710,9 +710,9 @@
         "ru": "Внутренний порядок правления"
     },
     "SuvBolimlari": {
-        "uz": "Suv bo’limlari",
-        "en": "Water departments",
-        "ru": "Водные ведомства"
+        "uz": "Institut bo’limlari",
+        "en": "Institute departments",
+        "ru": "институт ведомства"
     },
     "SuvBolimlariT": {
         "uz": "Sariqo‘rg‘on Bosh inshooati suv bo‘limi",

@@ -87,7 +87,7 @@ const OchiqMalumot = () => {
                         <div className='qonun-date d-flex justify-content-between align-items-center' style={{marginBottom:"13px"}}>
                             <span className='p-1 bg-secondary text-white'>Byudjet 3 oylik balansi</span>
                             <div>
-                                    <a href='/files/Ochiq malumotlar/бюджет 3 ой баланс.pdf' target="_blank" rel="noopener noreferrer">
+                                    <a href='/files/Ochiq   /бюджет 3 ой баланс.pdf' target="_blank" rel="noopener noreferrer">
                                         <button className='btn btn-success ml-3' type="button">
                                             <FileDownloadIcon />  {t(`download.${lang}`)}
                                         </button>

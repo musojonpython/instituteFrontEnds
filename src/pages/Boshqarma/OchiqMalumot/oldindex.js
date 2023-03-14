@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { useT } from '../../../custom/hooks/useT';
-import FileDownloadIcon from '@mui/icons-material/FileDownload';
 import { OPENBUDGET_NAME, OPENBUDGET_FILES } from '../../../api/Urls';
 import baseApi from '../../../api/baseApi';
 import { useEffect } from 'react';
@@ -25,7 +24,7 @@ const OchiqMalumot = () => {
     }, []);
 
     return (
-        
+        <>
         // <section className='text-section'>
         //     <div className='container-fluid'>
         //         <div className='row'>
@@ -268,6 +267,7 @@ const OchiqMalumot = () => {
                
         //     </div>
         // </section>
+        </>
     )
 }
 

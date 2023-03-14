@@ -49,12 +49,13 @@ const Sidebar = () => {
                 {/* <NavLink to="/datas/SuvXojalikFaoliyatiTogrisida">
                   <CDBSidebarMenuItem className={setActiveClass('/datas/SuvXojalikFaoliyatiTogrisida')} icon="table">{t(`faol.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink> */}
-                <NavLink to="/datas/RasmiyWebSahifa">
+                {/* <NavLink to="/datas/RasmiyWebSahifa">
                   <CDBSidebarMenuItem className={setActiveClass('/datas/RasmiyWebSahifa')} icon="globe">{t(`web.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink>
-                <NavLink to="/datas/AxborotdanFoydalanuvchilarningSorovnomasi">
+                </NavLink> */}
+
+                {/* <NavLink to="/datas/AxborotdanFoydalanuvchilarningSorovnomasi">
                   <CDBSidebarMenuItem className={setActiveClass('/datas/AxborotdanFoydalanuvchilarningSorovnomasi')} icon="file">{t(`sorovnoma.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink>
+                </NavLink> */}
               </CDBSidebarMenu>
             </CDBSidebarContent>
           </CDBSidebar>

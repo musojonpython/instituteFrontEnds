@@ -2,7 +2,6 @@ import { Accordion, AccordionDetails, AccordionSummary, Typography } from '@mui/
 import React, { useCallback, useEffect, useState } from 'react';
 import { Card, Col, Row, Table } from 'react-bootstrap';
 import { useT } from '../../../custom/hooks/useT';
-// import { baseApi } from '../../../api/baseApi';
 import { CENTRALHARDWARE_URL } from '../../../api/Urls';
 import baseApi from '../../../api/baseApi';
 import './style.css';

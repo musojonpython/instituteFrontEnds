@@ -87,10 +87,6 @@
 }
 
   @media (max-width: 599px) {
-    /* .sidenav {
-      position: relative;
-      transform: translateX(-100%);
-    } */
     .css-zxtyt4-MuiPaper-root-MuiAppBar-root{
       margin-top: 0 !important;
     }

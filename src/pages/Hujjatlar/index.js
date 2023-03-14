@@ -6,7 +6,7 @@ import {
   CDBSidebarMenu,
   CDBSidebarMenuItem,
 } from 'cdbreact';
-import { Link, NavLink, Outlet, useLocation } from 'react-router-dom';
+import {NavLink, Outlet, useLocation } from 'react-router-dom';
 import { useT } from '../../custom/hooks/useT';
 import '../Boshqarma/style.css';
 
@@ -33,18 +33,17 @@ const Sidebar = () => {
             </CDBSidebarHeader>
             <CDBSidebarContent className="sidebar-content">
               <CDBSidebarMenu>
-                <Link to="/Hujjatlar">
+                {/* <Link to="/Hujjatlar">
                   <CDBSidebarMenuItem className={setActiveClass('/Hujjatlar')} icon="columns">{t(`laws.${lang}`)}</CDBSidebarMenuItem>
-                </Link>
-                <NavLink to="/Hujjatlar/Qarorlar">
+                </Link> */}
+                
+                {/* <NavLink to="/Hujjatlar/Qarorlar">
                   <CDBSidebarMenuItem className={setActiveClass('/Hujjatlar/Qarorlar')} icon="file">{t(`Decisions.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink>
+                </NavLink> */}
+
                 <NavLink to="/Hujjatlar/Farmonlar">
                   <CDBSidebarMenuItem className={setActiveClass('/Hujjatlar/Farmonlar')} icon="table">{t(`farmon.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
-                {/* <NavLink to="/Hujjatlar/NormativHujjatlar">
-                  <CDBSidebarMenuItem className={setActiveClass('/Hujjatlar/NormativHujjatlar')} icon="folder-open">{t(`normative.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink> */}
                 <NavLink to="/Hujjatlar/Dasturlar">
                   <CDBSidebarMenuItem className={setActiveClass('/Hujjatlar/Dasturlar')} icon="table">{t(`dastur.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
@@ -55,9 +54,9 @@ const Sidebar = () => {
             </CDBSidebarContent>
           </CDBSidebar>
         </div>
-          <div className='w-100'>
-            <Outlet />
-          </div>
+        <div className='w-100'>
+          <Outlet />
+        </div>
       </div>
     </div>
   );

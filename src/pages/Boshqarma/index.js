@@ -16,7 +16,6 @@ import PersonIcon from '@mui/icons-material/Person';
 const Sidebar = () => {
   const {pathname} = useLocation();
   const { t, lang } = useT();
-  const [active, setActive] = useState(false);
   const setActiveClass = (path) => {
     if (pathname === path) {
       return "active";
@@ -70,9 +69,7 @@ const Sidebar = () => {
                   </Dropdown.Menu>
                 </Dropdown>
 
-                {/* <NavLink to="/boshqarma/suvBolimlari">
-                  <CDBSidebarMenuItem className={setActiveClass("/boshqarma/suvBolimlari")} icon="puzzle-piece">{t(`SuvBolimlari.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink> */}
+                
                 <NavLink to="/boshqarma/markaziyAparat">
                   <CDBSidebarMenuItem className={setActiveClass("/boshqarma/markaziyAparat")} icon="cogs">{t(`Mapparat.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
@@ -82,17 +79,18 @@ const Sidebar = () => {
                 <NavLink to="/boshqarma/ochiqMalumotlar">
                   <CDBSidebarMenuItem className={setActiveClass("/boshqarma/ochiqMalumotlar")} icon="database">{t(`Ochiqma'lumotlar.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
-                <NavLink to="/boshqarma/elektronHukumat">
+                {/* <NavLink to="/boshqarma/elektronHukumat">
                   <CDBSidebarMenuItem className={setActiveClass("/boshqarma/elektronHukumat")} icon="university">{t(`Elektronhukumat.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink>
+                </NavLink> */}
                 <NavLink to="/boshqarma/boshIsh">
                   <CDBSidebarMenuItem className={setActiveClass("/boshqarma/boshIsh")} icon="address-book">{t(`ishOrni.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
 
 
-                <NavLink to="/boshqarma/tenderlarTanlov">
+                {/* <NavLink to="/boshqarma/tenderlarTanlov">
                   <CDBSidebarMenuItem className={setActiveClass("/boshqarma/tenderlarTanlov")} icon="calendar-check">{t(`tendrTanlov.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink>
+                </NavLink> */}
+
                 <NavLink to="/boshqarma/tadbirlar">
                   <CDBSidebarMenuItem className={setActiveClass("/boshqarma/tadbirlar")} icon="calendar">{t(`tadbir.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>

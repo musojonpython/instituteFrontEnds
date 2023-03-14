@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import { BrowserRouter, Route, Routes, useLocation } from 'react-router-dom';
+import {Route, Routes, useLocation } from 'react-router-dom';
 import Banner from './pages/Banner';
 import NavbarMain from './pages/Navbar';
 import Home from './pages/Home';
@@ -15,16 +15,17 @@ import SuvBolimlari from './pages/Boshqarma/SuvBolimlari';
 import MarkaziyApparat from './pages/Boshqarma/MarkaziyApparat';
 import ByudjetQonun from './pages/Boshqarma/ByudjetQonun';
 import OchiqMalumot from './pages/Boshqarma/OchiqMalumot';
-import ElektronJamiyat from './pages/Boshqarma/ElektronJamiyat';
 import BoshIshOrnlari from './pages/Boshqarma/BoshIshOrnlari';
-import TenderlarTanlovlar from './pages/Boshqarma/TenderlarTanlovlar';
 import Tadbirlar from './pages/Boshqarma/Tadbirlar';
 import Hayat from './pages/Boshqarma/Hayat';
+// import ElektronJamiyat from './pages/Boshqarma/ElektronJamiyat';
+// import TenderlarTanlovlar from './pages/Boshqarma/TenderlarTanlovlar';
 
 import News from './pages/Yangiliklar'
 import Yangiliklar from './pages/Yangiliklar/Yangiliklar';
 import AxborotXizmati from './pages/Yangiliklar/AxborotXizmati';
 import Elonlar from './pages/Yangiliklar/Elonlar';
+
 import PresRelizlar from './pages/Yangiliklar/PresRelizlar';
 import OAVVakillar from './pages/Yangiliklar/OAV';
 
@@ -62,8 +63,8 @@ import IshTartibi from './pages/InteraktivXizmatlar/IshTartibi';
 import FoydaliMaslahatlar from './pages/FoydaliMaslahatlar/index';
 import Boglanish from './pages/Boglanish/index';
 import Section4Home from './pages/Footer';
-import Tenddetails from './pages/Boshqarma/TenderlarTanlovlar/tendDetails';
-import TadDetails from './pages/Boshqarma/Tadbirlar/tadDetails';
+// import Tenddetails from './pages/Boshqarma/TenderlarTanlovlar/tendDetails';
+// import TadDetails from './pages/Boshqarma/Tadbirlar/tadDetails';
 import Newdetails from './pages/Yangiliklar/Yangiliklar/newDetails';
 import ElonDetails from './pages/Yangiliklar/Elonlar/elonDetails';
 import FotoDetails from './pages/Mediagalereya/Fotogalereya/fotoDetails';
@@ -71,6 +72,7 @@ import VideoDetails from './pages/Mediagalereya/VideoMaterial/videoDetails';
 import DasturlarDetails from './pages/Hujjatlar/Dasturlar/farmonlarDetails';
 import { fallbackLng, languages } from './constants';
 import i18next from 'i18next';
+
 import SuvXojalikBoshqarmasi from './pages/Boglanish/SuvXojalikBoshqarmasi';
 import MurojatYollashBoglanish from './pages/Boglanish/MurojatYollash';
 import Normative from './pages/Boshqarma/YoshlargaOidYangiliklar/normative';
@@ -118,15 +120,15 @@ function App() {
             <Route path='markaziyAparat' element={<MarkaziyApparat />} />
             <Route path='byudjetQonun' element={<ByudjetQonun />} />
             <Route path='ochiqMalumotlar' element={<OchiqMalumot />} />
-            <Route path='elektronHukumat' element={<ElektronJamiyat />} />
+            {/* <Route path='elektronHukumat' element={<ElektronJamiyat />} /> */}
             <Route path='normativ' element={<Normative />} />
             <Route path='yoshYangilik' element={<YoshlarYangiliklar />} />
             <Route path='yoshYangilik/:id' element={<YoshlarDetails />} />
             <Route path='boshIsh' element={<BoshIshOrnlari />} />
-            <Route path='tenderlarTanlov' element={<TenderlarTanlovlar />} />
-            <Route path="tenderlarTanlov/:id" element={<Tenddetails />} />
+            {/* <Route path='tenderlarTanlov' element={<TenderlarTanlovlar />} /> */}
+            {/* <Route path="tenderlarTanlov/:id" element={<Tenddetails />} /> */}
+            {/* <Route path='tadbirlar/:id' element={<TadDetails />} /> */}
             <Route path='tadbirlar' element={<Tadbirlar />} />
-            <Route path='tadbirlar/:id' element={<TadDetails />} />
           </Route>
 
           <Route path='News' element={<News />}>
@@ -178,8 +180,14 @@ function App() {
 
           <Route path='FoydaliMaslahatlar' element={<FoydaliMaslahatlar />} />
           <Route path='Boglanish' element={<Boglanish />} >
-            <Route index element={<SuvXojalikBoshqarmasi />} />
-            <Route path='murojat' element={<MurojatYollashBoglanish />} />
+            <Route index element={<JismoniyVaYuridikShaxslarMurojati />} />
+            <Route path='MurojatYollash' element={<MurojatYollash />} />
+            <Route path='TarjimaiHol' element={<TarjimaiHol />} />
+            <Route path='IshTartibi' element={<IshTartibi />} />
+            
+            {/* <Route index element={<SuvXojalikBoshqarmasi />} />
+            <Route path='murojat' element={<MurojatYollashBoglanish />} /> */}
+
           </Route>
         </Routes>
         <Section4Home />

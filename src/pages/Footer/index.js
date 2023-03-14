@@ -63,22 +63,7 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-            {/* <div className='footer-bot'>
-                <div className='container-fluid footer-bottom text-black'>
-                    <div className='row pt-1 pb-1'>
-                        <div className='col-md-6 col-lg-4 d-flex align-items-center'>
-                            <img src='/img/firma.jpg' width="150px" alt='iFraganus' />
-                            iFraganus IT & Design Group
-                        </div>
-                        <div className='col-md-6 col-lg-6 d-flex align-items-center'>
-                            {t(`iFraganus.${lang}`)}
-                        </div>
-                        <div className='col-md-6 col-lg-2 d-flex align-items-center'>
-                            <a className='text-black' href='tel:998909256308 '>+998 90 925 63 08 </a>
-                        </div>
-                    </div>
-                </div>
-            </div> */}
+          
         </footer>
     );
 }

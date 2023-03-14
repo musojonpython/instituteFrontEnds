@@ -1,4 +1,3 @@
-import { t } from 'i18next';
 import React from 'react';
 import {useT} from '../../../custom/hooks/useT'
 
@@ -19,12 +18,11 @@ const BoshqarmaTuzilmasi = () => {
                 </div>
                 <div className='row pl-5'>
                     <div className='col'>
-                        {/* <h5 className='mt-3 mb-3'>{t(`bTuzilmaTitle2.${lang}`)}</h5> */}
                     </div>
                 </div>
                 <div className='row pl-3 pr-3'>
                     <div className='col mb-5 pr-5 pl-5 mr-5 ml-5'>
-                        <img src='/img/struktura.png' width="100%" alt='struktura image' />
+                        <img src='/img/tuzilma.jpg' width="100%" alt='struktura image' />
                     </div>
                 </div>
             </div>

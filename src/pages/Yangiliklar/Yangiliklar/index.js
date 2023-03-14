@@ -38,32 +38,30 @@ const Yangiliklar = () => {
                     </div>
                 </div>
                 <div className='row pl-5 pr-5'>
-                    {
-                        isLoading ? <h5>Loading...</h5> : news.map((item) => (
-                            <div key={item.created_at} className='col-lg-6 col-xl-4 mb-3'>
-                                <div className="card mb-3" style={{minHeight: "500px"}}>
-                                    <img style={{ objectFit: "cover", height: "300px" }} src={item.image} className="card-img-top" alt="image" />
-                                    <div className="card-body">
-                                        <p className="card-text text-right d-flex justify-content-start mb-2 m-0">
-                                            <div>
-                                                <CalendarToday sx={{ fontSize: "18px", color: "gray" }} />
-                                                <small className="text-muted">
-                                                    {item.created_at.slice(0, 10)} / {item.created_at.slice(11, 16)}
-                                                </small>
-                                            </div>
-                                        </p>
+                {
+                    isLoading ? <h5>Loading...</h5> : news.map((item) => (
+                        <div key={item.created_at} className='col-lg-6 col-xl-4 mb-3'>
+                            <div className="card mb-3" style={{minHeight: "500px"}}>
+                                <img style={{ objectFit: "cover", height: "300px" }} src={item.image} className="card-img-top" alt="image" />
+                                <div className="card-body">
+                                    <p className="card-text text-right d-flex justify-content-start mb-2 m-0">
                                         <div>
-                                            <Link to={`${item.created_at}`} className="card-title text-dark hover-blue">
-                                                <h5>{item.title}</h5>
-                                            </Link>
+                                            <CalendarToday sx={{ fontSize: "18px", color: "gray" }} />
+                                            <small className="text-muted">
+                                                {item.created_at.slice(0, 10)} / {item.created_at.slice(11, 16)}
+                                            </small>
                                         </div>
-                                        {/* <p className="card-text">{item.content.slice(0, 150)}....</p> */}
-                                        {/* <h5 className='text-right'>{item.author}</h5> */}
+                                    </p>
+                                    <div>
+                                        <Link to={`${item.created_at}`} className="card-title text-dark hover-blue">
+                                            <h5>{item.title}</h5>
+                                        </Link>
                                     </div>
+                                    
                                 </div>
                             </div>
-                        ))
-                    }
+                        </div>
+                       ))}
                 </div>
             </div>
         </section>

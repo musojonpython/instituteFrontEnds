@@ -1,7 +1,6 @@
 import React from 'react';
 import './style.css';
 import PhoneIcon from '@mui/icons-material/Phone';
-import HomeIcon from '@mui/icons-material/Home';
 import { changeLang, setLang, getLang } from '../../helpers';
 import { useT } from '../../custom/hooks/useT';
 import FacebookIcon from '@mui/icons-material/Facebook';
@@ -41,35 +40,21 @@ const Banner = () => {
     <section className='banner-section'>
           
       <div className="container-fluid d-flex justify-content-between align-items-center">
-        <div className='flag d-flex align-items-center'>
-          <img src='/img/flag.jpg' alt='flag' />
-          <font className='logo-title '>{t(`welcomeP.${lang}`)}</font>
+        <div className='logo d-flex align-items-center'>
+          <img src='/img/logo.png' style={{marginRight:"15px"}} alt='Logo' />
+          <font className='logo-title' style={{}}>{t(`welcomeP.${lang}`)}</font>
         </div>
 
         <div className='ummmm d-flex align-items-center'>
-          <div className='logo d-flex align-items-center'>
-            <img src='/img/logo.png' alt='logo' />
-          </div>
-          <div className='d-flex flex-column mx-3'>
-            <div className='phone d-flex align-items-center d-none d-lg-flex'>
+            <div className='phone d-flex align-items-center d-none d-lg-flex' style={{marginRight:"15px"}}>
               <PhoneIcon className='icon' sx={{ fontSize: 33 }} />
               <div className="m-2">
                 <span>{t(`contactCenter.${lang}`)}</span>
                 <h6><a style={{color:'#03ae12'}} className='text-decoration-none' href="tel: +998 71 207-11-07">+998 71 207-11-07</a></h6>
               </div>
-            </div>
-           
-            <div className='address d-flex align-items-center d-none d-lg-flex'>
-              <HomeIcon className='icon' sx={{ fontSize: 33 }} />
-              <div className="m-2">
-                <span>{t(`address.${lang}`)}</span>
-                <h6 style={{ fontSize: "14px", maxWidth: "150px" }}>{t(`tAddress.${lang}`)}</h6>
-              </div>
-            </div>
-          </div>
-          
-        <div className="dropdown language" style={{ zIndex: "999898989898898" }}>
-          <button className="btn btn-outline-primary dropdown-toggle text-uppercase" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+            </div>          
+        <div className="dropdown language" style={{ zIndex: "999898989898898"}}>
+          <button className="btn btn-outline-primary dropdown-toggle text-uppercase"  type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
             {getLang()}
           </button>
           <ul id='langu' className="dropdown-menu" aria-labelledby="dropdownMenuButton1">
@@ -78,24 +63,20 @@ const Banner = () => {
                 <li
                   onClick={() => handleChangeLng(code)}
                   key={country_code}>
-                  <a className="dropdown-item" href="#">{country_code}</a>
+                  <a className="dropdown-item" style={{color:"#03ae12"}} href="#">{country_code}</a>
                 </li>
               ))
             }
           </ul>
         </div>        
-
         </div>
-      </div>
-      <div className="container-fluid d-flex justify-content-between align-items-right">
-        <div className='d-flex flex-column mx-3'>
-          <div className='phone d-flex align-items-center d-none d-lg-flex'>
-              <a  href='https://www.facebook.com/Uzecology/'> <FacebookIcon style={{fontSize:'30px', marginRight:'20px'}} />  </a>
-              <a href='https://www.instagram.com/ekologiyadavlatqomitasi/'> <InstagramIcon style={{fontSize:'30px', marginRight:'20px'}} />  </a>
-              <a href='https://t.me/ecogovuz'> <TelegramIcon style={{fontSize:'30px', marginRight:'20px'}} />  </a>
-              <a href='https://www.youtube.com/channel/UCiaUoLECuViPTHW1X72wsrw'> <YouTubeIcon style={{fontSize:'30px', marginRight:'20px'}} />  </a>
-          </div>
+        <div className='phone d-flex align-items-center d-none d-lg-flex'>
+          <a  href='https://www.facebook.com/Uzecology/'> <FacebookIcon style={{fontSize:'30px', marginRight:'20px', color:'#03ae12'}} />  </a>
+          <a href='https://www.instagram.com/ekologiyadavlatqomitasi/'> <InstagramIcon style={{fontSize:'30px', marginRight:'20px', color:'#03ae12'}} />  </a>
+          <a href='https://t.me/ecogovuz'> <TelegramIcon style={{fontSize:'30px', marginRight:'20px', color:'#03ae12'}} />  </a>
+          <a href='https://www.youtube.com/channel/UCiaUoLECuViPTHW1X72wsrw'> <YouTubeIcon style={{fontSize:'30px', marginRight:'20px', color:'#03ae12'}} />  </a>
         </div>
+      
       </div>
     </section>
   );
