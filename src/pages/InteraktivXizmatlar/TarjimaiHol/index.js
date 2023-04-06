@@ -1,8 +1,8 @@
 import axios from 'axios';
-import React, { useState, useCallback, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Button, Form } from 'react-bootstrap';
-import baseApi from '../../../api/baseApi';
-import { AUTOBI_URL } from '../../../api/Urls';
+// import baseApi from '../../../api/baseApi';
+// import { AUTOBI_URL } from '../../../api/Urls';
 import { useT } from '../../../custom/hooks/useT';
 
 const TarjimaiyHol = () => {

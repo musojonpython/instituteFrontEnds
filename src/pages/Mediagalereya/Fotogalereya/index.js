@@ -42,10 +42,12 @@ const Fotogalereya = () => {
                             isLoading ? <h5>Loading...</h5> : photos.map((item) => (
                                 <div key={item.created_at} className='col-md-6 col-lg-4 mb-4'>
                                     <div className="card">
-                                        <img src={item.detail[0].image} className="card-img-top" alt={item.title} />
+                                        <img src={item.image1} className="card-img-top" alt="" />
+                                        <img src={item.image2} className="card-img-top" alt="" />
+                                        <img src={item.image3} className="card-img-top" alt="" />
                                         <div className="card-body">
                                             <div className='d-flex justify-content-between flex-wrap'>
-                                            <Link to={`${item.created_at}`} className="card-title"><h5>{item.title}</h5></Link>
+                                                <h5 className="card-title">{item.name}</h5>
                                                 <p className="card-text"><small className="text-muted"><CalendarToday sx={{fontSize: "18px", color: "gray"}} /> {item.created_at.slice(0,10)}</small></p>
                                             </div>
                                         </div>

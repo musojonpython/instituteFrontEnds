@@ -41,12 +41,12 @@ const VideoMaterial = () => {
                         isLoading ? <h5>Loading...</h5> : videos.map((item) => (
                             <div key={item.created_at} className='col-md-6 col-lg-4 mb-4'>
                                 <div class="card">
-                                    <iframe width="100%" height="315"
-                                        src={`https://www.youtube.com/embed/${item.detail[0].video.substr(32)}`} allowFullScreen>
+                                    <iframe width="100%" height="315" title="This is a unique title"
+                                        src={`https://www.youtube.com/embed/${item.detail.substr(32)}`} allowFullScreen>
                                     </iframe>
                                     <div class="card-body">
                                         <div className='d-flex justify-content-between flex-wrap'>
-                                            <Link to={`${item.created_at}`} className="card-title"><h5>{item.title}</h5></Link>
+                                            <div className="card-title"><h5>{item.name}</h5></div>
                                             <p class="card-text"><small class="text-muted">{item.created_at.slice(0, 10)}</small></p>
                                         </div>
                                     </div>

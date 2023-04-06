@@ -1,9 +1,9 @@
-import { t } from 'i18next';
+// import { t } from 'i18next';
 import React from 'react';
 import { useT } from '../../../custom/hooks/useT';
 import './style.css'
 
-const BoshqarmaHaqida = () => {
+const FunksiyaVazifalar = () => {
 
     const {t, lang} = useT();
 
@@ -41,4 +41,4 @@ const BoshqarmaHaqida = () => {
     );
 }
 
-export default BoshqarmaHaqida;
+export default FunksiyaVazifalar;

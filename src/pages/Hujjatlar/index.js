@@ -41,14 +41,14 @@ const Sidebar = () => {
                   <CDBSidebarMenuItem className={setActiveClass('/Hujjatlar/Qarorlar')} icon="file">{t(`Decisions.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink> */}
 
-                <NavLink to="/Hujjatlar/Farmonlar">
-                  <CDBSidebarMenuItem className={setActiveClass('/Hujjatlar/Farmonlar')} icon="table">{t(`farmon.${lang}`)}</CDBSidebarMenuItem>
+                <NavLink to="/projects/doingprojects">
+                  <CDBSidebarMenuItem className={setActiveClass('/projects/doingprojects')} icon="table">{t(`farmon.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
-                <NavLink to="/Hujjatlar/Dasturlar">
-                  <CDBSidebarMenuItem className={setActiveClass('/Hujjatlar/Dasturlar')} icon="table">{t(`dastur.${lang}`)}</CDBSidebarMenuItem>
+                <NavLink to="/projects/plannedprojects">
+                  <CDBSidebarMenuItem className={setActiveClass('/projects/plannedprojects')} icon="table">{t(`dastur.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
-                <NavLink to="/Hujjatlar/Loyihalar">
-                  <CDBSidebarMenuItem className={setActiveClass('/Hujjatlar/Loyihalar')} icon="list-alt">{t(`Loyihalar.${lang}`)}</CDBSidebarMenuItem>
+                <NavLink to="/projects/finishedprojects">
+                  <CDBSidebarMenuItem className={setActiveClass('/projects/finishedprojects')} icon="list-alt">{t(`Loyihalar.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
               </CDBSidebarMenu>
             </CDBSidebarContent>

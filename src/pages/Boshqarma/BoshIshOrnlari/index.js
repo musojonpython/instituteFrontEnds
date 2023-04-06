@@ -1,4 +1,3 @@
-import { t } from 'i18next';
 import React, { useCallback, useEffect, useState } from 'react';
 import { Accordion, ListGroup } from 'react-bootstrap';
 import baseApi from '../../../api/baseApi';
@@ -8,14 +7,14 @@ import './style.css'
 
 const BoshIshOrinlari = () => {
 
-    const [expanded, setExpanded] = React.useState(false);
+    // const [expanded, setExpanded] = React.useState(false);
     const [isLoading, setisloading] = useState(true);
     const [vacancy, setvacancy] = useState([]);
     const {t, lang} = useT();
 
-    const handleChange = (panel) => (event, isExpanded) => {
-        setExpanded(isExpanded ? panel : false);
-    };
+    // const handleChange = (panel) => (event, isExpanded) => {
+    //     setExpanded(isExpanded ? panel : false);
+    // };
 
     const getVacancy = useCallback(
         async () => {

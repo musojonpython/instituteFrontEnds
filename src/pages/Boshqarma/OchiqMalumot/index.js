@@ -6,7 +6,7 @@ import baseApi from '../../../api/baseApi';
 import { Card, Col, Row, Table } from 'react-bootstrap';
 
 const OchiqMalumot = () => {
-    const [openBudgetName, setOpenBudgetName] = useState([])
+    // const [openBudgetName, setOpenBudgetName] = useState([])
     const [openBudgetFiles, setOpenBudgetFiles] = useState([])
     const [isLoading, setisLoading] = useState(true)
     const { t, lang } = useT()

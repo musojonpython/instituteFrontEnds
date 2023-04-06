@@ -7,6 +7,7 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 import YouTubeIcon from '@mui/icons-material/YouTube';
 import TelegramIcon from '@mui/icons-material/Telegram';
 import InstagramIcon from '@mui/icons-material/Instagram';
+import { Link } from 'react-router-dom';
 
 const language = [
   {
@@ -33,18 +34,17 @@ const handleChangeLng = (code) => {
 }
 
 const Banner = () => {
-
   const { t, lang } = useT()
 
   return (
-    <section className='banner-section'>
-          
+    <section className='banner-section'> 
       <div className="container-fluid d-flex justify-content-between align-items-center">
         <div className='logo d-flex align-items-center'>
-          <img src='/img/logo.png' style={{marginRight:"15px"}} alt='Logo' />
+        <Link className="navbar-brand" to="/">
+            <img src='/img/logo.png' style={{marginRight:"15px"}} alt='Logo' />
+          </Link>
           <font className='logo-title' style={{}}>{t(`welcomeP.${lang}`)}</font>
         </div>
-
         <div className='ummmm d-flex align-items-center'>
             <div className='phone d-flex align-items-center d-none d-lg-flex' style={{marginRight:"15px"}}>
               <PhoneIcon className='icon' sx={{ fontSize: 33 }} />
@@ -71,12 +71,11 @@ const Banner = () => {
         </div>        
         </div>
         <div className='phone d-flex align-items-center d-none d-lg-flex'>
-          <a  href='https://www.facebook.com/Uzecology/'> <FacebookIcon style={{fontSize:'30px', marginRight:'20px', color:'#03ae12'}} />  </a>
-          <a href='https://www.instagram.com/ekologiyadavlatqomitasi/'> <InstagramIcon style={{fontSize:'30px', marginRight:'20px', color:'#03ae12'}} />  </a>
-          <a href='https://t.me/ecogovuz'> <TelegramIcon style={{fontSize:'30px', marginRight:'20px', color:'#03ae12'}} />  </a>
-          <a href='https://www.youtube.com/channel/UCiaUoLECuViPTHW1X72wsrw'> <YouTubeIcon style={{fontSize:'30px', marginRight:'20px', color:'#03ae12'}} />  </a>
+          <a target={'_blank'} href='https://www.facebook.com/Uzecology/'> <FacebookIcon style={{fontSize:'30px', marginRight:'20px', color:'#03ae12'}} />  </a>
+          <a target={'_blank'} href='https://www.instagram.com/ekologiyadavlatqomitasi/'> <InstagramIcon style={{fontSize:'30px', marginRight:'20px', color:'#03ae12'}} />  </a>
+          <a target={'_blank'} href='https://t.me/ecogovuz'> <TelegramIcon style={{fontSize:'30px', marginRight:'20px', color:'#03ae12'}} />  </a>
+          <a target={'_blank'} href='https://www.youtube.com/channel/UCiaUoLECuViPTHW1X72wsrw'> <YouTubeIcon style={{fontSize:'30px', marginRight:'20px', color:'#03ae12'}} />  </a>
         </div>
-      
       </div>
     </section>
   );

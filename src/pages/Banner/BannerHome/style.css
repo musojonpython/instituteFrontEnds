@@ -1,0 +1,102 @@
+.banner-section{
+    /* width: 100%;
+    padding: 5px 0;
+    background-color: #fff; */
+    
+    /* /* position: absolute; */
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    width: 100%;
+}
+.logo img{
+    max-width: 100px;
+}
+.logo-title{
+    max-width: 740px;
+    font-size: 22px;
+    font-weight: 500;
+    color: #03ae12;
+    margin-left: 10px;
+}
+.address span, .phone span{
+    font-size: 15px;
+    color: #C4C4C4;
+}
+
+.address h6, .phone h6{
+    color: #03ae12;
+}
+
+.address .icon , .phone .icon{
+    color:  #03ae12; 
+    font-size: 38px;
+}
+
+.address, .phone{
+    line-height: 100%;
+}
+
+#langu{
+    min-width: auto !important;
+}
+
+#language #dropdownMenuButton1{
+    color: #03ae12 !important;
+}
+
+#lang .dropdown-item:hover li{
+    background-color: #03ae12 !important;
+}
+
+.dropdown-menu {
+    padding: 0 !important;
+    color: #03ae12;
+}
+
+.dropdown-item{
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    transition: all 0.3s ease-in-out;
+}
+
+.dropdown-item:hover{
+    background-color: #03ae12 !important;
+    transition: all 0.3s ease-in-out;
+    color: #fff !important;
+}
+
+.flag img{
+    max-width: 200px;
+}
+
+@media (max-width: 504px) {
+    .flag{
+        display: flex;
+        flex-direction: column;
+       
+    }
+    .ummmm{
+        display: flex;
+        flex-direction: column;
+    }
+    .flag img, .logo{
+        margin-bottom: 20px;
+    }
+    .logo img{
+        max-width: 70px;
+    }
+    .logo-title{
+        max-width: 100% !important;
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 800px) {
+    .flag img{
+        max-width: 150px;
+    }
+    .logo-title{
+        font-size: 13px;
+        line-height: 1.3;
+    }
+}

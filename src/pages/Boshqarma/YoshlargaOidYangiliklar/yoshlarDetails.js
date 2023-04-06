@@ -7,6 +7,7 @@ import { Person } from '@mui/icons-material';
 import { useParams } from 'react-router-dom';
 
 export default function YoshlarDetails() {
+
     const [loading, setisLoading] = useState(true);
     const {t, lang} = useT();
     const [news, setNews] = useState([]);
@@ -25,6 +26,8 @@ export default function YoshlarDetails() {
         getNews()
     }, [])
 
+    console.log(news);
+
     return (
         <section className='text-section'>
             <div className='container-fluid'>
@@ -37,6 +40,7 @@ export default function YoshlarDetails() {
                     </div>
                 </div>
                 <div className='row pl-3 pr-3 pt-4'>
+
                     {
                         loading ? <h5>{t(`load.${lang}`)}</h5> : news.filter(card => card.title == id).map((item, inx) => (
                             <div className='col-12'>

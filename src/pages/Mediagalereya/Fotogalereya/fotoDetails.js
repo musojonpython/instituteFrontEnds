@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useState } from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 import { SRLWrapper } from "simple-react-lightbox";
 import baseApi from '../../../api/baseApi';
 import { PHOTO_URL } from '../../../api/Urls';
@@ -42,7 +42,6 @@ const FotoDetails = () => {
                             isLoading ? <h5>Loading...</h5> : photos.filter(item => item.created_at == id).map(card => (
                                 card.detail.map(item => (
                                     <div className='col-md-6 col-lg-4 mb-4'>
-
                                         <a href={item.image}>
                                             <img className='galery_image' src={item.image} width="100%" alt=" " />
                                         </a>

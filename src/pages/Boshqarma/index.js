@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import {
   CDBSidebar,
   CDBSidebarHeader,
@@ -35,64 +35,49 @@ const Sidebar = () => {
             </CDBSidebarHeader>
             <CDBSidebarContent className="sidebar-content">
               <CDBSidebarMenu>
-                <NavLink to="/boshqarma">
-                  <CDBSidebarMenuItem className={setActiveClass("/boshqarma")} icon="columns" > {t(`bHaqidaTitle1.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink>
-                <NavLink to="/boshqarma/funksiyavazifalar">
-                  <CDBSidebarMenuItem className={setActiveClass("/boshqarma/funksiyavazifalar")} icon="columns" > {t(`bfunksiyavazifa.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink>
-                <NavLink to="/boshqarma/raxbariyat">
-                  <CDBSidebarMenuItem className={setActiveClass("/boshqarma/raxbariyat")} icon="user">{t(`rahbariyat.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink>
-                
-                <NavLink to="/boshqarma/boshqarmaNizomi">
-                  <CDBSidebarMenuItem className={setActiveClass("/boshqarma/boshqarmaNizomi")} icon="table">{t(`bNizomTitle1.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink>
-                <NavLink to="/boshqarma/boshqarmaTuzilmasi">
-                  <CDBSidebarMenuItem className={setActiveClass("/boshqarma/boshqarmaTuzilmasi")} icon="id-card">{t(`bTuzilmaTitle1.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink>
-                <NavLink to="/boshqarma/hayat">
-                  <CDBSidebarMenuItem className={setActiveClass("/boshqarma/hayat")} icon="users">{t(`Hayat.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink>
-                <Dropdown style={{ paddingLeft: "18px" }}>
-                  <Dropdown.Toggle className={setActiveClass("/boshqarma/normativ")} style={{ fontWeight: "500", outline: "none", border: "none" }} variant="white" id="dropdown-basic">
+              <Dropdown style={{ paddingLeft: "18px" }}>
+                  <Dropdown.Toggle className={setActiveClass("/organisation/history")} style={{ fontWeight: "500", outline: "none", border: "none" }} variant="white" id="dropdown-basic">
                     <PersonIcon style={{ marginRight: "15px" }} /> {t(`yoshlargaOid.${lang}`)}
                   </Dropdown.Toggle>
-
                   <Dropdown.Menu>
-                    <NavLink to="/boshqarma/normativ">
+                    <NavLink to="/organisation/history">
                       <Dropdown.Item href="#/action-1">{t(`normativeNavbar.${lang}`)}</Dropdown.Item>
                     </NavLink>
-                    <NavLink to="/boshqarma/yoshYangilik">
+                    <NavLink to="/organisation/today">
                       <Dropdown.Item href="#/action-2">{t(`YangiliklarYoshlar.${lang}`)}</Dropdown.Item>
                     </NavLink>
                   </Dropdown.Menu>
                 </Dropdown>
-
+                {/* <NavLink to="/organisation">
+                  <CDBSidebarMenuItem className={setActiveClass("/organisation")} icon="columns" > {t(`bHaqidaTitle1.${lang}`)}</CDBSidebarMenuItem>
+                </NavLink> */}
+                <NavLink to="/organisation/functionduty">
+                  <CDBSidebarMenuItem className={setActiveClass("/organisation/functionduty")} icon="columns" > {t(`bfunksiyavazifa.${lang}`)}</CDBSidebarMenuItem>
+                </NavLink>
+                <NavLink to="/organisation/cheif">
+                  <CDBSidebarMenuItem className={setActiveClass("/organisation/cheif")} icon="user">{t(`rahbariyat.${lang}`)}</CDBSidebarMenuItem>
+                </NavLink>
                 
-                <NavLink to="/boshqarma/markaziyAparat">
-                  <CDBSidebarMenuItem className={setActiveClass("/boshqarma/markaziyAparat")} icon="cogs">{t(`Mapparat.${lang}`)}</CDBSidebarMenuItem>
+                <NavLink to="/organisation/boshqarmaNizomi">
+                  <CDBSidebarMenuItem className={setActiveClass("/organisation/boshqarmaNizomi")} icon="table">{t(`bNizomTitle1.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
-                <NavLink to="/boshqarma/byudjetQonun">
-                  <CDBSidebarMenuItem className={setActiveClass("/boshqarma/byudjetQonun")} icon="table">{t(`Byudjetto’g’risidagiqonunchilik.${lang}`)}</CDBSidebarMenuItem>
+                <NavLink to="/organisation/organisation">
+                  <CDBSidebarMenuItem className={setActiveClass("/organisation/organisation")} icon="id-card">{t(`bTuzilmaTitle1.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
-                <NavLink to="/boshqarma/ochiqMalumotlar">
-                  <CDBSidebarMenuItem className={setActiveClass("/boshqarma/ochiqMalumotlar")} icon="database">{t(`Ochiqma'lumotlar.${lang}`)}</CDBSidebarMenuItem>
+                <NavLink to="/organisation/central">
+                  <CDBSidebarMenuItem className={setActiveClass("/organisation/central")} icon="cogs">{t(`Mapparat.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
-                {/* <NavLink to="/boshqarma/elektronHukumat">
-                  <CDBSidebarMenuItem className={setActiveClass("/boshqarma/elektronHukumat")} icon="university">{t(`Elektronhukumat.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink> */}
-                <NavLink to="/boshqarma/boshIsh">
-                  <CDBSidebarMenuItem className={setActiveClass("/boshqarma/boshIsh")} icon="address-book">{t(`ishOrni.${lang}`)}</CDBSidebarMenuItem>
+                <NavLink to="/organisation/rulefinance">
+                  <CDBSidebarMenuItem className={setActiveClass("/organisation/rulefinance")} icon="table">{t(`Byudjetto’g’risidagiqonunchilik.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
-
-
-                {/* <NavLink to="/boshqarma/tenderlarTanlov">
-                  <CDBSidebarMenuItem className={setActiveClass("/boshqarma/tenderlarTanlov")} icon="calendar-check">{t(`tendrTanlov.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink> */}
-
-                <NavLink to="/boshqarma/tadbirlar">
-                  <CDBSidebarMenuItem className={setActiveClass("/boshqarma/tadbirlar")} icon="calendar">{t(`tadbir.${lang}`)}</CDBSidebarMenuItem>
+                <NavLink to="/organisation/opendata">
+                  <CDBSidebarMenuItem className={setActiveClass("/organisation/opendata")} icon="database">{t(`Ochiqma'lumotlar.${lang}`)}</CDBSidebarMenuItem>
+                </NavLink>
+                <NavLink to="/organisation/vacansy">
+                  <CDBSidebarMenuItem className={setActiveClass("/organisation/vacansy")} icon="address-book">{t(`ishOrni.${lang}`)}</CDBSidebarMenuItem>
+                </NavLink>
+                <NavLink to="/organisation/events">
+                  <CDBSidebarMenuItem className={setActiveClass("/organisation/events")} icon="calendar">{t(`tadbir.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
 
               </CDBSidebarMenu>

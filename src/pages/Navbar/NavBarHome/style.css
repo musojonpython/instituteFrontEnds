@@ -1,0 +1,31 @@
+.Navbar{
+     /* background: #03ae12;
+      position: sticky;
+     top: -2px;
+     z-index: 99999999;
+     width: 100%; */
+
+     width: 100%; 
+    padding: 5px 0;
+    
+    position: absolute;
+
+
+    /* bottom: 0; */
+     background: rgb(0, 0, 0); 
+    background: rgba(0, 0, 0, 0.5); 
+    /* color: #f1f1f1; */
+    /* width: 100%;
+    padding: 20px; */
+}
+
+.Navbar #basic-nav-dropdown, .Navbar .nav-link{
+    color: #fff !important;
+    font-size: 17px !important;
+}
+
+@media (max-width: 599px) {
+    .Navbar{
+        z-index: 900;
+    }
+}

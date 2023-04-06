@@ -3,13 +3,11 @@ import React, { useCallback, useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import baseApi from '../../../api/baseApi';
 import { ANONC_URL } from '../../../api/Urls';
-import { useT } from '../../../custom/hooks/useT';
 
 const ElonDetails = () => {
     const { id } = useParams();
     const [Anonc, setAnonc] = useState([]);
     const [isLoading, setisLoading] = useState(true);
-    const { t, lang } = useT();
 
     const getAnonc = useCallback(
         async () => {

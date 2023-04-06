@@ -12,10 +12,8 @@
   }
   
   .main {
-     /* Same as the width of the sidenav */
-    font-size: 28px; /* Increased text to enable scrolling */
+    font-size: 28px;
     padding: 0px 10px;
-    /* background-color: #1976D2; */
   }
   
   .item-content {
@@ -54,12 +52,10 @@
   }
 
   .MuiPaper-root{
-    /* position: relative; */
     margin-top: 187px !important;
   }
 
   .css-12i7wg6-MuiPaper-root-MuiDrawer-paper{
-    /* position: relative !important; */
     background-color: #03ae12 !important;
     color: #000000 !important;
   }

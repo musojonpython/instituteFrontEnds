@@ -25,7 +25,6 @@ i18n
     backend: {
       loadPath: "/assets/locales/languages/translation.json"
     },
-
   });
 
 
@@ -36,8 +35,6 @@ const loading = (
     </div>
   </div>
 )
-
-
 ReactDOM.render(
   <Suspense fallback={loading}>
     <React.StrictMode>

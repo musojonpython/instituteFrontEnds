@@ -19,14 +19,14 @@ const NavbarMain = () => {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">
-                            <Link className='nav-link' to="/boshqarma">{t(`Boshqarma.${lang}`)}</Link>
-                            <Link className='nav-link' to="/News">{t(`Yangiliklar.${lang}`)}</Link>
+                            <Link className='nav-link' to="/organisation">{t(`Boshqarma.${lang}`)}</Link>
+                            <Link className='nav-link' to="/news">{t(`Yangiliklar.${lang}`)}</Link>
                             <NavDropdown title={t(`Mediagalereya.${lang}`)} id="basic-nav-dropdown">
                                 <Link className='dropdown-item' to="/Fotogalereya">{t(`Fotogalereya.${lang}`)}</Link>
                                 <Link className='dropdown-item' to="/VideoMaterial">{t(`VideoMaterial.${lang}`)}</Link>
                             </NavDropdown>
                             <Link className='nav-link' to="/datas">{t(`Malumotlar.${lang}`)}</Link>
-                            <Link className='nav-link' to="/Hujjatlar">{t(`Hujjatlar.${lang}`)}</Link>
+                            <Link className='nav-link' to="/projects">{t(`Hujjatlar.${lang}`)}</Link>
                             <Link className='nav-link' to="/Interaktive">{t(`Interaktiv.${lang}`)}</Link>
                             {/* <Link className='nav-link' to="/Boglanish">{t(`Boglanish.${lang}`)}</Link> */}
                         </Nav>

@@ -19,10 +19,10 @@ const Footer = () => {
                         <h4 className='footer-title'>{t(`footerSmap.${lang}`)}</h4>
                         <ul>
                             <li>
-                                <Link to="boshqarma">{t(`bHaqidaTitle1.${lang}`)}</Link>
+                                <Link to="organisation">{t(`bHaqidaTitle1.${lang}`)}</Link>
                             </li>
                             <li>
-                                <Link to="News">{t(`Yangiliklar.${lang}`)}</Link>
+                                <Link to="news">{t(`Yangiliklar.${lang}`)}</Link>
                             </li>
                             <li>
                                 <Link to="Fotogalereya">{t(`Mediagalereya.${lang}`)}</Link>
@@ -31,7 +31,7 @@ const Footer = () => {
                                 <Link to="datas">{t(`Malumotlar.${lang}`)}</Link>
                             </li>
                             <li>
-                                <Link to="Hujjatlar">{t(`Hujjatlar.${lang}`)}</Link>
+                                <Link to="projects">{t(`Hujjatlar.${lang}`)}</Link>
                             </li>
                             <li>
                                 <Link to="Interaktive">{t(`Interaktiv.${lang}`)}</Link>
@@ -39,10 +39,9 @@ const Footer = () => {
                         </ul>
                     </div>
                     <div className='col-lg-5 col-md-6 mt-4 mt-lg-0'>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6064.445469975147!2d70.9263!3d40.536668!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6a092642bef45223!2zNDDCsDMyJzEyLjAiTiA3MMKwNTUnMzQuNyJF!5e0!3m2!1suz!2s!4v1645180463732!5m2!1suz!2s" width="100%" height="100%"
-                            style={{ border: "0", minHeight: "270px" }}
-                            allowFullScreen loading="lazy"></iframe>
-
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6064.445469975147!2d70.9263!3d40.536668!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6a092642bef45223!2zNDDCsDMyJzEyLjAiTiA3MMKwNTUnMzQuNyJF!5e0!3m2!1suz!2s!4v1645180463732!5m2!1suz!2s" 
+                         title="This is a unique title"   width="100%" height="100%"  style={{ border: "0", minHeight: "270px" }} allowFullScreen loading="lazy">
+                        </iframe>
                     </div>
                     <div className='col-lg-3 col-md-6 mt-5 mt-md-0'>
                         <h4 className='footer-title'>{t(`Boglanish.${lang}`)}</h4>

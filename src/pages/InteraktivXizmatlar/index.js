@@ -37,14 +37,14 @@ const Sidebar = () => {
                   <Link to="/Interaktive">
                     <CDBSidebarMenuItem className={setActiveClass("/Interaktive")} icon="users">{t(`Jismoniy.${lang}`)}</CDBSidebarMenuItem>
                   </Link>
-                  <NavLink to="/Interaktive/MurojatYollash">
-                    <CDBSidebarMenuItem className={setActiveClass("/Interaktive/MurojatYollash")} icon="user">{t(`murojat.${lang}`)}</CDBSidebarMenuItem>
+                  <NavLink to="/Interaktive/sendmessage">
+                    <CDBSidebarMenuItem className={setActiveClass("/Interaktive/sendmessage")} icon="user">{t(`murojat.${lang}`)}</CDBSidebarMenuItem>
                   </NavLink>
-                  <NavLink to="/Interaktive/TarjimaiHol">
-                    <CDBSidebarMenuItem className={setActiveClass("/Interaktive/TarjimaiHol")} icon="address-card">{t(`tarjimaiy.${lang}`)}</CDBSidebarMenuItem>
+                  <NavLink to="/Interaktive/biography">
+                    <CDBSidebarMenuItem className={setActiveClass("/Interaktive/biography")} icon="address-card">{t(`tarjimaiy.${lang}`)}</CDBSidebarMenuItem>
                   </NavLink>
-                  <NavLink to="/Interaktive/IshTartibi" spy={true} smooth={true} offset={50} duration={500}>
-                    <CDBSidebarMenuItem className={setActiveClass("/Interaktive/IshTartibi")} icon="calendar">{t(`ishTartib.${lang}`)}</CDBSidebarMenuItem>
+                  <NavLink to="/Interaktive/worktime" spy={true} smooth={true} offset={50} duration={500}>
+                    <CDBSidebarMenuItem className={setActiveClass("/Interaktive/worktime")} icon="calendar">{t(`ishTartib.${lang}`)}</CDBSidebarMenuItem>
                   </NavLink>
                 </CDBSidebarMenu>
               </CDBSidebarContent>

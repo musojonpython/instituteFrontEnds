@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useState } from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 import { NEWS_URL } from '../../../api/Urls';
 import baseApi from '../../../api/baseApi';
 import { CalendarToday } from '@mui/icons-material';
