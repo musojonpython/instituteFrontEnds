@@ -39,11 +39,11 @@ function Weather(){
                         {data.main ? <h3>{((data.main.temp-32)*0.555).toFixed()}°C </h3> : null}
                     </th>
                     <th>
-                        {data.weather ? <p>{data.weather[0].main == "Clear" ? t(`clear.${lang}`): null}</p> : null}
-                        {data.weather ? <p>{data.weather[0].main == "Clouds" ? t(`Clouds.${lang}`): null}</p> : null}
-                        {data.weather ? <p>{data.weather[0].main == "Rain" ? t(`Rain.${lang}`): null}</p> : null}
-                        {data.weather ? <p>{data.weather[0].main == "Snow" ? t(`Snow.${lang}`): null}</p> : null}
-                        {data.weather ? <p>{data.weather[0].main == "Haze" ? t(`Haze.${lang}`): null}</p> : null}
+                        <h4>{data.weather ? <p>{data.weather[0].main == "Clear" ? t(`clear.${lang}`): null}</p> : null}</h4>
+                        <h4>{data.weather ? <p>{data.weather[0].main == "Clouds" ? t(`Clouds.${lang}`): null}</p> : null}</h4>
+                        <h4>{data.weather ? <p>{data.weather[0].main == "Rain" ? t(`Rain.${lang}`): null}</p> : null}</h4>
+                        <h4>{data.weather ? <p>{data.weather[0].main == "Snow" ? t(`Snow.${lang}`): null}</p> : null}</h4>
+                        <h4>{data.weather ? <p>{data.weather[0].main == "Haze" ? t(`Haze.${lang}`): null}</p> : null}</h4>
                     </th>
                     <th>
                         {data.wind ? <span className='bold'> <WaterIcon/> {data.main.humidity.toFixed()} %</span> : null}
