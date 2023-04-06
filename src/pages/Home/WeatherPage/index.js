@@ -27,7 +27,7 @@ function Weather(){
             <table style={{width:"100%", marginBottom:"-8px"}}>
                 <tr>
                     <th style={{width:"15%"}}><h3><LocationOnIcon/> {data.name} </h3></th>
-                    <th style={{width:"15%"}}>{data.name !== undefined && <div style={{width:"25%"}}>
+                    <th style={{width:"15%"}}>{data.name !== undefined && <div style={{width:"25%", marginBottom:"7%"}}>
                         {data.weather[0].main == "Clear" ? <img style={{width:"100%"}} src='./clear.png' alt='clear'/> : null}
                         {data.weather[0].main == "Clouds" ? <img style={{width:"100%"}} src='./cloud.png' alt='clouds'/> : null}
                         {data.weather[0].main == "Rain" ? <img style={{width:"100%"}} src='./rain.png' alt='rain'/> : null}
