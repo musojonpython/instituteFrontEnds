@@ -5,7 +5,6 @@ import { useT } from '../../../custom/hooks/useT';
 
 const SuvBolimlari = () => {
     const { t, lang } = useT();
-    // const [loading, isLoading] = useState();
 
     const datas = [
         {

@@ -24,13 +24,12 @@ const HomeSection1 = () => {
                     </div>
                     <div className='col-md-5'>
                         <Card style={{ width: '100%' }}>
-                            <Card.Img variant="top" src='/img/1.png' />
                             <Card.Body>
                                 <Card.Title className='text-dark'>{t(`AboutUs.${lang}`)}</Card.Title>
                                 <Card.Text>
-                                    {t(`bHaqida.${lang}`).slice(0,400)}...
+                                    {t(`bHaqidatoday.${lang}`).slice(0,400)}...
                                 </Card.Text>
-                                <Link to="boshqarma"><Button variant="primary">{t(`ReadMore.${lang}`)}</Button></Link>
+                                <Link to="organisation/today"><Button variant="primary">{t(`ReadMore.${lang}`)}</Button></Link>
                             </Card.Body>
                         </Card>
                     </div>

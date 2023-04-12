@@ -3,7 +3,6 @@ import axios from 'axios'
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import WaterIcon from '@mui/icons-material/Water';
 import AirIcon from '@mui/icons-material/Air';
-// import './style.css'
 import { useT } from '../../../custom/hooks/useT';
 
 function Weather(){
@@ -21,13 +20,13 @@ function Weather(){
     useEffect(() => {
         searchLocation();
     }, []);
-
+    // style={{width:"100%", marginBottom:"-8px", filter: "blur(8px)"}}
     return (
         <div className='container'>
-            <table style={{width:"100%", marginBottom:"-8px"}}>
+            <table>
                 <tr>
-                    <th style={{width:"15%"}}><h3><LocationOnIcon/> {data.name} </h3></th>
-                    <th style={{width:"15%"}}>{data.name !== undefined && <div style={{width:"25%", marginBottom:"7%"}}>
+                    <th style={{width:"15%"}}><h4><LocationOnIcon/> {data.name} </h4></th>
+                    <th style={{width:"5%"}}>{data.name !== undefined && <div style={{marginBottom:"7%"}}>
                         {data.weather[0].main == "Clear" ? <img style={{width:"100%"}} src='./clear.png' alt='clear'/> : null}
                         {data.weather[0].main == "Clouds" ? <img style={{width:"100%"}} src='./cloud.png' alt='clouds'/> : null}
                         {data.weather[0].main == "Rain" ? <img style={{width:"100%"}} src='./rain.png' alt='rain'/> : null}
@@ -36,7 +35,7 @@ function Weather(){
                         </div>}
                     </th>
                     <th>
-                        {data.main ? <h3>{((data.main.temp-32)*0.555).toFixed()}°C </h3> : null}
+                        {data.main ? <h4>{((data.main.temp-32)*0.555).toFixed()}°C </h4> : null}
                     </th>
                     <th>
                         <h4>{data.weather ? <p>{data.weather[0].main == "Clear" ? t(`clear.${lang}`): null}</p> : null}</h4>
@@ -47,35 +46,14 @@ function Weather(){
                     </th>
                     <th>
                         {data.wind ? <span className='bold'> <WaterIcon/> {data.main.humidity.toFixed()} %</span> : null}
-                        <p>{t(`humidity.${lang}`)}</p>
+                        <h5>{t(`humidity.${lang}`)}</h5>
                     </th>
                     <th>
                         {data.wind ? <span className='bold'> <AirIcon/> {data.wind.speed.toFixed()} MPH</span> : null}
-                        <p>{t(`wind.${lang}`)}</p>
+                        <h5>{t(`wind.${lang}`)}</h5>
                     </th>
                 </tr>
             </table>
-                {/* <div style={{display:"inlineBlock", width:"10%"}}>
-                    <h3><LocationOnIcon/> {data.name} </h3>
-                </div>
-                {data.name !== undefined && <div style={{display:"inlineBlock"}}>
-                    <div style={{display:"inlineBlock"}}>
-                        {data.weather[0].main == "Clear" ? <img style={{width:"5%"}} src='./clear.png' alt='clear'/> : null}
-                        {data.weather[0].main == "Clouds" ? <img src='./cloud.png' alt='clouds'/> : null}
-                        {data.weather[0].main == "Rain" ? <img src='./rain.png' alt='rain'/> : null}
-                        {data.weather[0].main == "Snow" ? <img src='./snow.png' alt='snow'/> : null}
-                        {data.weather[0].main == "Haze" ? <img src='./mist.png' alt='mist'/> : null}
-                    </div>
-                </div>}
-                <div style={{display:"inlineBlock", width:"20%"}}>
-                    {data.main ? <h1>{((data.main.temp-32)*0.555).toFixed()}°C </h1> : null}
-                    {data.weather ? <p>{data.weather[0].main}</p> : null}
-                    {data.wind ? <span className='bold'> <WaterIcon/> {data.main.humidity.toFixed()} %</span> : null}
-                    <p>{t(`humidity.${lang}`)}</p>
-                    {data.wind ? <span className='bold'> <AirIcon/> {data.wind.speed.toFixed()} MPH</span> : null}
-                    <p>{t(`wind.${lang}`)}</p>
-                </div> */}
-                 
         </div>
     )
 }

@@ -22,7 +22,6 @@ import News from './pages/Yangiliklar'
 import Yangiliklar from './pages/Yangiliklar/Yangiliklar';
 import AxborotXizmati from './pages/Yangiliklar/AxborotXizmati';
 import Elonlar from './pages/Yangiliklar/Elonlar';
-
 import Fotogalereya from './pages/Mediagalereya/Fotogalereya';
 import VideoMaterial from './pages/Mediagalereya/VideoMaterial';
 

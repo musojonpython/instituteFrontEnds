@@ -9,9 +9,9 @@ import './style.css';
 const Home = () => {
     return (
         <div className='homeee'>
-            <Weather />
+            {/* <Weather /> */}
             <Carousels />
-            {/* <Section1 /> */}
+            <Section1 />
             <Section2 />
             <Section3Home />
         </div>

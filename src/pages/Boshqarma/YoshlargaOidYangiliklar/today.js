@@ -27,13 +27,11 @@ const BoshqarmaHaqida = () => {
                 </div>
                 <div className='row pl-3 pr-3'>
                     <div className='col'>
-                        {
-                            letter.map(item => (
-                                <p key={item} style={{textIndent: "30px", marginBottom: "20px"}}>
-                                {item}<br/>
-                                </p>
-                            ))
-                        }
+                        {letter.map(item => (
+                            <p key={item} style={{textIndent: "30px", marginBottom: "20px"}}>
+                            {item}<br/>
+                            </p>
+                        ))}
                     </div>
                 </div>
             </div>

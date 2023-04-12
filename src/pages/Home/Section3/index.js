@@ -21,37 +21,38 @@ const Section3Home = () => {
                     
                     <div className='col-sm-6 col-md-4 col-lg-3 mb-4'>
                         <div className='sta-item text-center'>
-                            <GroupIcon sx={{ fontSize: "60px", marginBottom: "20px" }} />
+                            {/* <GroupIcon sx={{ fontSize: "60px", marginBottom: "20px" }} /> */}
+                            <img style={{fontSize: "80px", marginBottom:"20px"}} src="./earth-day.png" alt='Ecology'/>
                             <div className='sta-number-text'>
-                                <h3>138</h3>
-                                <p>Jami ishchilar soni.</p>
+                                <h3>51</h3>
+                                <p>Tugatilgan loyhalar</p>
                             </div>
                         </div>
                     </div>
                     <div className='col-sm-6 col-md-4 col-lg-3 mb-4'>
                         <div className='sta-item text-center'>
-                            <ComputerIcon sx={{ fontSize: "60px", marginBottom: "20px" }} />
+                        <img style={{fontSize: "80px", marginBottom:"20px"}} src="./green.png" alt='Ecology'/>
                             <div className='sta-number-text'>
-                                <h3>16</h3>
-                                <p>Jami kompyuter soni</p>
+                                <h3>50</h3>
+                                <p>Atrof muhitni muhofaza qilishda erishilgan yutuqlar</p>
                             </div>
                         </div>
                     </div>
                     <div className='col-sm-6 col-md-4 col-lg-3 mb-4'>
                         <div className='sta-item text-center'>
-                            <BusinessCenterIcon sx={{ fontSize: "60px", marginBottom: "20px" }} />
+                        <img style={{fontSize: "80px", marginBottom:"20px"}} src="./agriculture.png" alt='Ecology'/>
                             <div className='sta-number-text'>
-                                <h3>327</h3>
-                                <p>Jami gidrotexnik inshoatlar soni.</p>
+                                <h3>15</h3>
+                                <p>Hamkorlikda erishilgan ijobiy natijalar.</p>
                             </div>
                         </div>
                     </div>
                     <div className='col-sm-6 col-md-4 col-lg-3 mb-4'>
                         <div className='sta-item text-center'>
-                            <BusinessCenterIcon sx={{ fontSize: "60px", marginBottom: "20px" }} />
+                        <img style={{fontSize: "80px", marginBottom:"20px"}} src="./tree.png" alt='Ecology'/>
                             <div className='sta-number-text'>
-                                <h3>327</h3>
-                                <p>Jami gidrotexnik inshoatlar soni.</p>
+                                <h3>45</h3>
+                                <p>Targ'ibot va tashbiqot ishlari.</p>
                             </div>
                         </div>
                     </div>

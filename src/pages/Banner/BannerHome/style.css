@@ -1,9 +1,4 @@
 .banner-section{
-    /* width: 100%;
-    padding: 5px 0;
-    background-color: #fff; */
-    
-    /* /* position: absolute; */
     background: rgb(0, 0, 0); /* Fallback color */
     background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
     width: 100%;

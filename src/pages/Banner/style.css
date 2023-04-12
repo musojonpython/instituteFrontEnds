@@ -2,21 +2,16 @@
     width: 100%;
     padding: 5px 0;
     background-color: #fff;
-    
-    /* position: absolute;
-    background: rgb(0, 0, 0); /* Fallback color */
-    /*background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-    /*width: 100%; */
 }
 .logo img{
-    max-width: 100px;
+    max-width: 50px;
 }
 .logo-title{
-    max-width: 740px;
+    max-width: 868px;
     font-size: 22px;
     font-weight: 500;
     color: #03ae12;
-    margin-left: 10px;
+    margin-left: -11px;
 }
 .address span, .phone span{
     font-size: 15px;
