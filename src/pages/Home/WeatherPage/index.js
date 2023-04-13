@@ -25,8 +25,8 @@ function Weather(){
         <div className='container'>
             <table>
                 <tr>
-                    <th style={{width:"15%"}}><h4><LocationOnIcon/> {data.name} </h4></th>
-                    <th style={{width:"5%"}}>{data.name !== undefined && <div style={{marginBottom:"7%"}}>
+                    <th style={{width:"15%"}}><h6><LocationOnIcon/> {data.name} </h6></th>
+                    <th style={{width:"4%"}}>{data.name !== undefined && <div style={{marginBottom:"30%"}}>
                         {data.weather[0].main == "Clear" ? <img style={{width:"100%"}} src='./clear.png' alt='clear'/> : null}
                         {data.weather[0].main == "Clouds" ? <img style={{width:"100%"}} src='./cloud.png' alt='clouds'/> : null}
                         {data.weather[0].main == "Rain" ? <img style={{width:"100%"}} src='./rain.png' alt='rain'/> : null}
@@ -35,22 +35,22 @@ function Weather(){
                         </div>}
                     </th>
                     <th>
-                        {data.main ? <h4>{((data.main.temp-32)*0.555).toFixed()}°C </h4> : null}
+                        {data.main ? <h6>{((data.main.temp-32)*0.555).toFixed()}°C </h6> : null}
                     </th>
                     <th>
-                        <h4>{data.weather ? <p>{data.weather[0].main == "Clear" ? t(`clear.${lang}`): null}</p> : null}</h4>
-                        <h4>{data.weather ? <p>{data.weather[0].main == "Clouds" ? t(`Clouds.${lang}`): null}</p> : null}</h4>
-                        <h4>{data.weather ? <p>{data.weather[0].main == "Rain" ? t(`Rain.${lang}`): null}</p> : null}</h4>
-                        <h4>{data.weather ? <p>{data.weather[0].main == "Snow" ? t(`Snow.${lang}`): null}</p> : null}</h4>
-                        <h4>{data.weather ? <p>{data.weather[0].main == "Haze" ? t(`Haze.${lang}`): null}</p> : null}</h4>
+                        <h6>{data.weather ? <p>{data.weather[0].main == "Clear" ? t(`clear.${lang}`): null}</p> : null}</h6>
+                        <h6>{data.weather ? <p>{data.weather[0].main == "Clouds" ? t(`Clouds.${lang}`): null}</p> : null}</h6>
+                        <h6>{data.weather ? <p>{data.weather[0].main == "Rain" ? t(`Rain.${lang}`): null}</p> : null}</h6>
+                        <h6>{data.weather ? <p>{data.weather[0].main == "Snow" ? t(`Snow.${lang}`): null}</p> : null}</h6>
+                        <h6>{data.weather ? <p>{data.weather[0].main == "Haze" ? t(`Haze.${lang}`): null}</p> : null}</h6>
                     </th>
                     <th>
                         {data.wind ? <span className='bold'> <WaterIcon/> {data.main.humidity.toFixed()} %</span> : null}
-                        <h5>{t(`humidity.${lang}`)}</h5>
+                        <h6>{t(`humidity.${lang}`)}</h6>
                     </th>
                     <th>
                         {data.wind ? <span className='bold'> <AirIcon/> {data.wind.speed.toFixed()} MPH</span> : null}
-                        <h5>{t(`wind.${lang}`)}</h5>
+                        <h6>{t(`wind.${lang}`)}</h6>
                     </th>
                 </tr>
             </table>

@@ -11,7 +11,7 @@ import Rahbariyat from './pages/Boshqarma/Rahbariyat';
 import FunksiyaVazifalar from './pages/Boshqarma/FunksiyaVazifalar';
 import BoshqarmaNizomi from './pages/Boshqarma/BoshqarmaNizomi';
 import BoshqarmaTuzilmasi from './pages/Boshqarma/BoshqarmaTuzilmasi';
-import SuvBolimlari from './pages/Boshqarma/SuvBolimlari';
+// import SuvBolimlari from './pages/Boshqarma/SuvBolimlari';
 import MarkaziyApparat from './pages/Boshqarma/MarkaziyApparat';
 import ByudjetQonun from './pages/Boshqarma/ByudjetQonun';
 import OchiqMalumot from './pages/Boshqarma/OchiqMalumot';
@@ -96,7 +96,7 @@ function App() {
             <Route path='functionduty' element={<FunksiyaVazifalar />} />
             <Route path='boshqarmaNizomi' element={<BoshqarmaNizomi />} />
             <Route path='organisation' element={<BoshqarmaTuzilmasi />} />
-            <Route path='suvBolimlari' element={<SuvBolimlari />} />
+            {/* <Route path='suvBolimlari' element={<SuvBolimlari />} /> */}
             <Route path='central' element={<MarkaziyApparat />} />
             <Route path='rulefinance' element={<ByudjetQonun />} />
             <Route path='opendata' element={<OchiqMalumot />} />

@@ -13,7 +13,7 @@ const NavbarMain = () => {
         <div className='Navbar'>
             <Navbar expand="lg">
                 <Container>
-                    <Link className="navbar-brand" to="/">
+                    <Link className="navbar-brand" style={{marginRight:"-330px", marginLeft:"185px"}} to="/">
                         <HomeIcon sx={{ color: 'white' }} fontSize="large" />
                     </Link>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />

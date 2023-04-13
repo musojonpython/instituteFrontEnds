@@ -1,9 +1,10 @@
 import React from 'react';
 import PetsIcon from '@mui/icons-material/Pets';
 import LocalFloristIcon from '@mui/icons-material/LocalFlorist';
-import { Carousel } from 'react-bootstrap';
+import { Carousel, Navbar } from 'react-bootstrap';
 import GrassIcon from '@mui/icons-material/Grass';
 import Weather from '../WeatherPage';
+import NavbarMain from "../../Navbar"
 import './style.css';
 
 const Carousels = () => {
@@ -13,24 +14,8 @@ const Carousels = () => {
         <div class="container-fluid p-0" className='w-100 h-100' style={{position: "relative", textAlign: "center", color: "white"}} >
         {/* <Weather /> */}
         <img height='100%' className="d-block w-100" src='./1.png' alt="First slide" />
-            {/* <Carousel>
-                <Carousel.Item>
-                    <img height='100%' className="d-block w-100" src='./1.png' alt="First slide" />
-                </Carousel.Item>  */}
-                {/* <Carousel.Item>
-                    <img height='100%' className="d-block w-100" src="./2.jpg" alt="Second slide" />
-                </Carousel.Item> 
-                <Carousel.Item>
-                    <img height='100%' className="d-block w-100" src="./3.jpg" alt="Third slide"/>
-                </Carousel.Item> 
-                <Carousel.Item>
-                    <img height='100%' className="d-block w-100" src="./4.jpg" alt="Third slide"/>
-                </Carousel.Item>
-                <Carousel.Item>
-                    <img height='100%' className="d-block w-100" src="./5.jpg" alt="Third slide"/>
-                </Carousel.Item>   */}
-            {/* </Carousel>  */}
-            <div style={{position: 'absolute', top: "5%", left: "52%", transform: "translate(-50%, -50%)", color:"black", width:"52%"}}>
+          
+            <div style={{position: 'absolute', top: "4%", left: "47%", transform: "translate(-50%, -50%)", color:"black", width:"38%"}}>
                 <Weather />
             </div>
             <div style={{position: "absolute", bottom: "8px", left: "15%"}}>
