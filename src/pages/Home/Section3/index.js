@@ -1,7 +1,4 @@
 import React from 'react';
-import BusinessCenterIcon from '@mui/icons-material/BusinessCenter';
-import ComputerIcon from '@mui/icons-material/Computer';
-import GroupIcon from '@mui/icons-material/Group';
 import './style.css';
 import {useT} from '../../../custom/hooks/useT';
 
@@ -21,8 +18,7 @@ const Section3Home = () => {
                     
                     <div className='col-sm-6 col-md-4 col-lg-3 mb-4'>
                         <div className='sta-item text-center'>
-                            {/* <GroupIcon sx={{ fontSize: "60px", marginBottom: "20px" }} /> */}
-                            <img style={{fontSize: "80px", marginBottom:"20px"}} src="./earth-day.png" alt='Ecology'/>
+                            <img className="image-style" src="./earth-day.png" alt='Ecology'/>
                             <div className='sta-number-text'>
                                 <h3>51</h3>
                                 <p>Tugatilgan loyhalar</p>
@@ -31,7 +27,7 @@ const Section3Home = () => {
                     </div>
                     <div className='col-sm-6 col-md-4 col-lg-3 mb-4'>
                         <div className='sta-item text-center'>
-                        <img style={{fontSize: "80px", marginBottom:"20px"}} src="./green.png" alt='Ecology'/>
+                        <img className="image-style" src="./green.png" alt='Ecology'/>
                             <div className='sta-number-text'>
                                 <h3>50</h3>
                                 <p>Atrof muhitni muhofaza qilishda erishilgan yutuqlar</p>
@@ -40,7 +36,7 @@ const Section3Home = () => {
                     </div>
                     <div className='col-sm-6 col-md-4 col-lg-3 mb-4'>
                         <div className='sta-item text-center'>
-                        <img style={{fontSize: "80px", marginBottom:"20px"}} src="./agriculture.png" alt='Ecology'/>
+                        <img className="image-style" src="./agriculture.png" alt='Ecology'/>
                             <div className='sta-number-text'>
                                 <h3>15</h3>
                                 <p>Hamkorlikda erishilgan ijobiy natijalar.</p>
@@ -49,7 +45,7 @@ const Section3Home = () => {
                     </div>
                     <div className='col-sm-6 col-md-4 col-lg-3 mb-4'>
                         <div className='sta-item text-center'>
-                        <img style={{fontSize: "80px", marginBottom:"20px"}} src="./tree.png" alt='Ecology'/>
+                        <img className="image-style" src="./tree.png" alt='Ecology'/>
                             <div className='sta-number-text'>
                                 <h3>45</h3>
                                 <p>Targ'ibot va tashbiqot ishlari.</p>

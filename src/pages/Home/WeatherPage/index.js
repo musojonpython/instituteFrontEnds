@@ -4,6 +4,7 @@ import LocationOnIcon from '@mui/icons-material/LocationOn';
 import WaterIcon from '@mui/icons-material/Water';
 import AirIcon from '@mui/icons-material/Air';
 import { useT } from '../../../custom/hooks/useT';
+import './style.css'
 
 function Weather(){
     const {t, lang} = useT();
@@ -20,40 +21,38 @@ function Weather(){
     useEffect(() => {
         searchLocation();
     }, []);
-    // style={{width:"100%", marginBottom:"-8px", filter: "blur(8px)"}}
     return (
         <div className='container'>
-            <table>
-                <tr>
-                    <th style={{width:"15%"}}><h6><LocationOnIcon/> {data.name} </h6></th>
-                    <th style={{width:"4%"}}>{data.name !== undefined && <div style={{marginBottom:"30%"}}>
-                        {data.weather[0].main == "Clear" ? <img style={{width:"100%"}} src='./clear.png' alt='clear'/> : null}
-                        {data.weather[0].main == "Clouds" ? <img style={{width:"100%"}} src='./cloud.png' alt='clouds'/> : null}
-                        {data.weather[0].main == "Rain" ? <img style={{width:"100%"}} src='./rain.png' alt='rain'/> : null}
-                        {data.weather[0].main == "Snow" ? <img style={{width:"100%"}} src='./snow.png' alt='snow'/> : null}
-                        {data.weather[0].main == "Haze" ? <img style={{width:"100%"}} src='./mist.png' alt='mist'/> : null}
-                        </div>}
-                    </th>
-                    <th>
-                        {data.main ? <h6>{((data.main.temp-32)*0.555).toFixed()}°C </h6> : null}
-                    </th>
-                    <th>
-                        <h6>{data.weather ? <p>{data.weather[0].main == "Clear" ? t(`clear.${lang}`): null}</p> : null}</h6>
-                        <h6>{data.weather ? <p>{data.weather[0].main == "Clouds" ? t(`Clouds.${lang}`): null}</p> : null}</h6>
-                        <h6>{data.weather ? <p>{data.weather[0].main == "Rain" ? t(`Rain.${lang}`): null}</p> : null}</h6>
-                        <h6>{data.weather ? <p>{data.weather[0].main == "Snow" ? t(`Snow.${lang}`): null}</p> : null}</h6>
-                        <h6>{data.weather ? <p>{data.weather[0].main == "Haze" ? t(`Haze.${lang}`): null}</p> : null}</h6>
-                    </th>
-                    <th>
-                        {data.wind ? <span className='bold'> <WaterIcon/> {data.main.humidity.toFixed()} %</span> : null}
-                        <h6>{t(`humidity.${lang}`)}</h6>
-                    </th>
-                    <th>
-                        {data.wind ? <span className='bold'> <AirIcon/> {data.wind.speed.toFixed()} MPH</span> : null}
-                        <h6>{t(`wind.${lang}`)}</h6>
-                    </th>
-                </tr>
-            </table>
+            <div className='weather-section'>
+                <div className='icon-style'>
+                     <span> <LocationOnIcon /> {data.name}</span>
+                </div>
+                    {data.name !== undefined && <div className='images-items'>
+                        {data.weather[0].main === "Clear" ? <img src='./clear.png' alt='clear'/> : null}
+                        {data.weather[0].main === "Clouds" ? <img src='./cloud.png' alt='clouds'/> : null}
+                        {data.weather[0].main === "Rain" ? <img src='./rain.png' alt='rain'/> : null}
+                        {data.weather[0].main === "Snow" ? <img src='./snow.png' alt='snow'/> : null}
+                        {data.weather[0].main === "Haze" ? <img src='./mist.png' alt='mist'/> : null}
+                    </div>}
+                <div className='temp'>
+                    {data.main ? <span>{((data.main.temp-32)*0.555).toFixed()}°C </span>  : null}
+                </div>
+                <div className='weather'>
+                    {data.weather ? <span>{data.weather[0].main === "Clear" ? t(`clear.${lang}`): null}</span> : null}
+                    {data.weather ? <span>{data.weather[0].main === "Clouds" ? t(`Clouds.${lang}`): null}</span> : null}
+                    {data.weather ? <span>{data.weather[0].main === "Rain" ? t(`Rain.${lang}`): null}</span> : null}
+                    {data.weather ? <span>{data.weather[0].main === "Snow" ? t(`Snow.${lang}`): null}</span> : null}
+                    {data.weather ? <span>{data.weather[0].main === "Haze" ? t(`Haze.${lang}`): null}</span> : null}
+                </div>
+                <div className='water'>
+                    {data.wind ? <span className='bold'>  <WaterIcon/> {data.main.humidity.toFixed()} %</span> : null}
+                   <span> {t(`humidity.${lang}`)} </span>
+                </div>
+                <div className='airIcon'>
+                    {data.wind ? <span className='bold'> <AirIcon/> {data.wind.speed.toFixed()} MPH</span> : null}
+                         <span> {t(`wind.${lang}`)} </span>
+                </div>
+            </div>
         </div>
     )
 }

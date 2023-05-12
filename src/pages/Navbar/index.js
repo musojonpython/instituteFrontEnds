@@ -10,30 +10,30 @@ const NavbarMain = () => {
     const { t, lang } = useT();
 
     return (
-        <div className='Navbar'>
-            <Navbar expand="lg">
-                <Container>
-                    <Link className="navbar-brand" style={{marginRight:"-330px", marginLeft:"185px"}} to="/">
-                        <HomeIcon sx={{ color: 'white' }} fontSize="large" />
-                    </Link>
-                    <Navbar.Toggle aria-controls="basic-navbar-nav" />
-                    <Navbar.Collapse id="basic-navbar-nav">
-                        <Nav className="me-auto">
-                            <Link className='nav-link' to="/organisation">{t(`Boshqarma.${lang}`)}</Link>
-                            <Link className='nav-link' to="/news">{t(`Yangiliklar.${lang}`)}</Link>
-                            <NavDropdown title={t(`Mediagalereya.${lang}`)} id="basic-nav-dropdown">
-                                <Link className='dropdown-item' to="/Fotogalereya">{t(`Fotogalereya.${lang}`)}</Link>
-                                <Link className='dropdown-item' to="/VideoMaterial">{t(`VideoMaterial.${lang}`)}</Link>
-                            </NavDropdown>
-                            <Link className='nav-link' to="/datas">{t(`Malumotlar.${lang}`)}</Link>
-                            <Link className='nav-link' to="/projects">{t(`Hujjatlar.${lang}`)}</Link>
-                            <Link className='nav-link' to="/Interaktive">{t(`Interaktiv.${lang}`)}</Link>
-                            {/* <Link className='nav-link' to="/Boglanish">{t(`Boglanish.${lang}`)}</Link> */}
-                        </Nav>
-                    </Navbar.Collapse>
-                </Container>
-            </Navbar>
-        </div>
+    <div className='Navbar'>
+        <Navbar expand="lg">
+            <Container>
+                <Link className="navbar-brand change-postion" to="/">
+                    <HomeIcon sx={{ color: 'white' }} fontSize="large" />
+                </Link>
+                <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                <Navbar.Collapse id="basic-navbar-nav">
+                    <Nav className="me-auto">
+                        <Link className='nav-link' to="/organisation">{t(`Boshqarma.${lang}`)}</Link>
+                        <Link className='nav-link' to="/news">{t(`Yangiliklar.${lang}`)}</Link>
+                        <NavDropdown title={t(`Mediagalereya.${lang}`)} id="basic-nav-dropdown">
+                            <Link className='dropdown-item' to="/Fotogalereya">{t(`Fotogalereya.${lang}`)}</Link>
+                            <Link className='dropdown-item' to="/VideoMaterial">{t(`VideoMaterial.${lang}`)}</Link>
+                        </NavDropdown>
+                        <Link className='nav-link' to="/datas">{t(`Malumotlar.${lang}`)}</Link>
+                        <Link className='nav-link' to="/projects">{t(`Hujjatlar.${lang}`)}</Link>
+                        <Link className='nav-link' to="/Interaktive">{t(`Interaktiv.${lang}`)}</Link>
+                        <Link className='nav-link' to="/Boglanish">{t(`jurnal.${lang}`)}</Link>
+                    </Nav>
+                </Navbar.Collapse>
+            </Container>
+        </Navbar>
+    </div>
     );
 }
 

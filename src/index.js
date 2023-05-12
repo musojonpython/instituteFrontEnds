@@ -27,11 +27,10 @@ i18n
     },
   });
 
-
 const loading = (
   <div style={{ position: 'fixed', backgroundColor: '#fff', display: 'flex', width: '100%', height: '100%', justifyContent: "center", alignItems: "center" }}>
     <div className="spinner-border" role="status">
-      <span className="visually-hidden">Loading...</span>
+      <span className="visually">Yuklash...</span>
     </div>
   </div>
 )

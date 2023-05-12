@@ -11,6 +11,11 @@
     font-size: 17px !important;
 }
 
+.change-postion {
+    margin-right: -330px; 
+    margin-left:185px;
+}
+
 @media (max-width: 599px) {
     .Navbar{
         z-index: 900;

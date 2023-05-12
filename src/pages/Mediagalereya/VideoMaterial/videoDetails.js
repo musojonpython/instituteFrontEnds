@@ -36,7 +36,7 @@ const VideoDetails = () => {
                 </div>
                 <div className='row'>
                     {
-                        isLoading ? <h5>Loading...</h5> : videos.filter(item => item.created_at == id).map(card => (
+                        isLoading ? <h5>Loading...</h5> : videos.filter(item => item.created_at === id).map(card => (
                             card.detail.map(item => (
                                 <div className='col-md-6 mb-4'>
                                     <iframe width="100%" height="315" title="This is a unique title"

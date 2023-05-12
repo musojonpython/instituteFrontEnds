@@ -1,7 +1,7 @@
 import React, { useCallback, useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import './style.css';
-import { BASE_URL, NEWS_URL } from '../../../api/Urls';
+import { NEWS_URL } from '../../../api/Urls';
 import baseApi from '../../../api/baseApi';
 import { useT } from '../../../custom/hooks/useT';
 import { CalendarToday } from '@mui/icons-material';
@@ -57,11 +57,10 @@ const Yangiliklar = () => {
                                             <h5>{item.title}</h5>
                                         </Link>
                                     </div>
-                                    
                                 </div>
                             </div>
                         </div>
-                       ))}
+                        ))}
                 </div>
             </div>
         </section>

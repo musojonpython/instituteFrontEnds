@@ -48,18 +48,11 @@ const Sidebar = () => {
                     </NavLink>
                   </Dropdown.Menu>
                 </Dropdown>
-                {/* <NavLink to="/organisation">
-                  <CDBSidebarMenuItem className={setActiveClass("/organisation")} icon="columns" > {t(`bHaqidaTitle1.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink> */}
                 <NavLink to="/organisation/functionduty">
                   <CDBSidebarMenuItem className={setActiveClass("/organisation/functionduty")} icon="columns" > {t(`bfunksiyavazifa.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
                 <NavLink to="/organisation/cheif">
                   <CDBSidebarMenuItem className={setActiveClass("/organisation/cheif")} icon="user">{t(`rahbariyat.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink>
-                
-                <NavLink to="/organisation/boshqarmaNizomi">
-                  <CDBSidebarMenuItem className={setActiveClass("/organisation/boshqarmaNizomi")} icon="table">{t(`bNizomTitle1.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
                 <NavLink to="/organisation/organisation">
                   <CDBSidebarMenuItem className={setActiveClass("/organisation/organisation")} icon="id-card">{t(`bTuzilmaTitle1.${lang}`)}</CDBSidebarMenuItem>
@@ -67,9 +60,7 @@ const Sidebar = () => {
                 <NavLink to="/organisation/central">
                   <CDBSidebarMenuItem className={setActiveClass("/organisation/central")} icon="cogs">{t(`Mapparat.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
-                <NavLink to="/organisation/rulefinance">
-                  <CDBSidebarMenuItem className={setActiveClass("/organisation/rulefinance")} icon="table">{t(`Byudjetto’g’risidagiqonunchilik.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink>
+              
                 <NavLink to="/organisation/opendata">
                   <CDBSidebarMenuItem className={setActiveClass("/organisation/opendata")} icon="database">{t(`Ochiqma'lumotlar.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>

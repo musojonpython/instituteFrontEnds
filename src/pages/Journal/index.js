@@ -33,15 +33,15 @@ const Sidebar = () => {
             </CDBSidebarHeader>
             <CDBSidebarContent className="sidebar-content">
               <CDBSidebarMenu>
-                <NavLink to="/projects/doingprojects">
-                  <CDBSidebarMenuItem className={setActiveClass('/projects/doingprojects')} icon="table">{t(`farmon.${lang}`)}</CDBSidebarMenuItem>
+                <NavLink to="/Journal/">
+                  <CDBSidebarMenuItem className={setActiveClass('/Journal/')} icon="table">{t(`farmon.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
-                <NavLink to="/projects/plannedprojects">
+                {/* <NavLink to="/projects/plannedprojects">
                   <CDBSidebarMenuItem className={setActiveClass('/projects/plannedprojects')} icon="table">{t(`dastur.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
                 <NavLink to="/projects/finishedprojects">
                   <CDBSidebarMenuItem className={setActiveClass('/projects/finishedprojects')} icon="list-alt">{t(`Loyihalar.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink>
+                </NavLink> */}
               </CDBSidebarMenu>
             </CDBSidebarContent>
           </CDBSidebar>

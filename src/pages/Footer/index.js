@@ -39,9 +39,8 @@ const Footer = () => {
                         </ul>
                     </div>
                     <div className='col-lg-5 col-md-6 mt-4 mt-lg-0'>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6064.445469975147!2d70.9263!3d40.536668!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6a092642bef45223!2zNDDCsDMyJzEyLjAiTiA3MMKwNTUnMzQuNyJF!5e0!3m2!1suz!2s!4v1645180463732!5m2!1suz!2s" 
-                         title="This is a unique title"   width="100%" height="100%"  style={{ border: "0", minHeight: "270px" }} allowFullScreen loading="lazy">
-                        </iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2997.6486414220926!2d69.2254687!3d41.2947508!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38ae8b62ad6c0735%3A0x2260c74fb009b861!2z0I7Qt9Cx0LXQutC40YHRgtC-0L0g0KDQtdGB0L_Rg9Cx0LvQuNC60LDRgdC4INCt0LrQvtC70L7Qs9C40Y8g0LLQsCDQsNGC0YDQvtGEINC80YPSs9C40YLQvdC4INC80YPSs9C-0YTQsNC30LAg0pvQuNC70LjRiCDQtNCw0LLQu9Cw0YIg0pvRntC80LjRgtCw0YHQuA!5e0!3m2!1sen!2s!4v1682565479652!5m2!1sen!2s"
+                         title="This is a unique title"   width="100%" height="100%"  style={{ border: "0", minHeight: "270px" }} allowFullScreen loading="lazy"></iframe>
                     </div>
                     <div className='col-lg-3 col-md-6 mt-5 mt-md-0'>
                         <h4 className='footer-title'>{t(`Boglanish.${lang}`)}</h4>

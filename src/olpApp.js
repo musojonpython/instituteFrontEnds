@@ -11,7 +11,9 @@ import Rahbariyat from './pages/Boshqarma/Rahbariyat';
 import FunksiyaVazifalar from './pages/Boshqarma/FunksiyaVazifalar';
 import BoshqarmaNizomi from './pages/Boshqarma/BoshqarmaNizomi';
 import BoshqarmaTuzilmasi from './pages/Boshqarma/BoshqarmaTuzilmasi';
+// import SuvBolimlari from './pages/Boshqarma/SuvBolimlari';
 import MarkaziyApparat from './pages/Boshqarma/MarkaziyApparat';
+import ByudjetQonun from './pages/Boshqarma/ByudjetQonun';
 import OchiqMalumot from './pages/Boshqarma/OchiqMalumot';
 import BoshIshOrnlari from './pages/Boshqarma/BoshIshOrnlari';
 import Tadbirlar from './pages/Boshqarma/Tadbirlar';
@@ -42,11 +44,12 @@ import DoingProjects from './pages/Hujjatlar/DoingProjects';
 import FinishedProjects from './pages/Hujjatlar/FinishedProjects';
 
 import Interaktive from './pages/InteraktivXizmatlar'
-import Murojatlar from './pages/InteraktivXizmatlar/Murojatlar';
+import JismoniyVaYuridikShaxslarMurojati from './pages/InteraktivXizmatlar/JismoniyVaYuridikShaxslarMurojati';
 import MurojatYollash from './pages/InteraktivXizmatlar/MurojatYollash';
 import TarjimaiHol from './pages/InteraktivXizmatlar/TarjimaiHol';
 import IshTartibi from './pages/InteraktivXizmatlar/IshTartibi';
 import JournalFiles from './pages/Journal/JournalFiles'
+import Journal from './pages/Journal'
 
 import FooterPages from './pages/Footer';
 import Newdetails from './pages/Yangiliklar/Yangiliklar/newDetails';
@@ -54,6 +57,9 @@ import History from './pages/Boshqarma/YoshlargaOidYangiliklar/history';
 import Today from './pages/Boshqarma/YoshlargaOidYangiliklar/today';
 import FotoDetails from './pages/Mediagalereya/Fotogalereya/fotoDetails';
 import VideoDetails from './pages/Mediagalereya/VideoMaterial/videoDetails';
+import SuvXojalikBoshqarmasi from './pages/Boglanish/SuvXojalikBoshqarmasi';
+import MurojatYollashBoglanish from './pages/Boglanish/MurojatYollash';
+import Boglanish from './pages/Boglanish/index';
 import { fallbackLng, languages } from './constants';
 import i18next from 'i18next';
 
@@ -110,10 +116,10 @@ function App() {
             <Route path='announce' element={<Elonlar />} />
           </Route>
 
-          <Route path='Fotogalereya' element={<Fotogalereya />} />
-          <Route path='Fotogalereya/:id' element={<FotoDetails />} />
-          <Route path='VideoMaterial' element={<VideoMaterial />} />
-          <Route path='VideoMaterial/:id' element={<VideoDetails />} />
+            <Route path='Fotogalereya' element={<Fotogalereya />} />
+            <Route path='Fotogalereya/:id' element={<FotoDetails />} />
+            <Route path='VideoMaterial' element={<VideoMaterial />} />
+            <Route path='VideoMaterial/:id' element={<VideoDetails />} />
 
           <Route path='datas' element={<Datas />}>
             <Route index element={<Faoliyat1 />} />
@@ -136,16 +142,16 @@ function App() {
           </Route>
 
           <Route path='Interaktive' element={<Interaktive />}>
-            <Route index element={<Murojatlar />} />
+            <Route index element={<JismoniyVaYuridikShaxslarMurojati />} />
             <Route path='sendmessage' element={<MurojatYollash />} />
             <Route path='biography' element={<TarjimaiHol />} />
             <Route path='worktime' element={<IshTartibi />} />
-            {/* <Route path='journal' element={<JournalFiles />} /> */}
+            <Route path='journal' element={<JournalFiles />} />
           </Route>
 
-          <Route path='Boglanish' element={<JournalFiles />} >
-            {/* <Route index element={<SuvXojalikBoshqarmasi />} />
-            <Route path='murojat' element={<MurojatYollashBoglanish />} /> */}
+          <Route path='Boglanish' element={<Boglanish />} >
+            <Route index element={<SuvXojalikBoshqarmasi />} />
+            <Route path='murojat' element={<MurojatYollashBoglanish />} />
           </Route>
         </Routes>
         <FooterPages />

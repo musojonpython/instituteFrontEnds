@@ -7,7 +7,8 @@
 
 .carousel img {
     width: 100%;
-    max-height: 700px;
+    height: 100%;
+    max-height: 800px;
     object-fit: cover;
     object-position: 50% 50%;
 }
@@ -32,4 +33,125 @@
     padding: 0;
     overflow: hidden;
     width: 100%;
+}
+
+div.weather-style {
+    position: absolute;
+    top: 4%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+    color:black;
+    width:45%;
+}
+
+.carousel{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.circle {
+    position: absolute;
+    bottom: 15px;
+    left: 15%
+}
+.circle-items {
+    background-color:#4894c6;
+    border-radius: 50%;
+}
+.circle-item {
+    margin: 0 auto;
+    padding: 0 1.4375rem;
+    width: 12.5rem;
+    height: 12.5rem;
+    position: relative;
+}
+
+div.circle-item img {
+    font-size: 5rem;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.circle-item__number {
+    padding-top: 50%;
+    font-size:2.25rem;
+    margin-top:54%;
+    font-weight:500;
+}
+
+.circle-item__text {
+    font-size: 1.125rem;
+    font-weight: 300
+}
+
+.circle-middle {
+    position: absolute;
+    top: 65%;
+    left: 48%;
+    transform: translate(-50%, -50%)
+}
+
+.circle-middle-items {
+    background-color:#9f77c8;
+    border-radius: 50%;
+    display:block
+}
+.circle-left {
+    position: absolute;
+    bottom: 15px;
+    right: 18.5%
+}
+
+.circle-left-items{
+    background-color:#e67552;
+    border-radius: 70%;
+    display:block
+}
+
+@media only screen and (max-width: 1120px){
+    div.weather-style {
+        width: 57%;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+   
+    .circle-middle {
+        top: 45%;
+        /* background-color: green */
+    }
+    .circle-item {
+        width: 7.5rem;
+        height: 7.5rem;
+    }
+    div.circle-item img {
+        width: 30%;
+    }
+    .circle-item__text, .circle-item__number {
+        font-size: 14px;
+    }
+    div.weather-style {
+        width: 70%;
+    }
+}
+@media only screen and (max-width: 600px) {
+   
+    /* .circle-left-items {
+        background-color: red
+    } */
+    .circle-item {
+        width: 5.0rem;
+        height: 5.0rem;
+    }
+    div.circle-item img {
+        width: 20%;
+    }
+    .circle-item__text, .circle-item__number {
+        font-size: 10px;
+    }
+    div.weather-style {
+        width: 100%;
+    }
 }

@@ -1,11 +1,9 @@
 import { CalendarToday } from '@mui/icons-material';
 import React, { useCallback, useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
 import baseApi from '../../../api/baseApi';
 import { PHOTO_URL } from '../../../api/Urls';
 import { useT } from '../../../custom/hooks/useT';
 import './style.css'
-
 
 const Fotogalereya = () => {
 
