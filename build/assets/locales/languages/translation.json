@@ -1,0 +1,954 @@
+{
+    "changelang": {
+        "uz": "Uz",
+        "ru": "Ru",
+        "en": "En"
+    },
+    "working": {
+        "uz": "Web sayt test rejimida ishlayapti.",
+        "ru": "Сайт находится в тестовом режиме.",
+        "en": "The website is in test mode."
+    },
+
+    "tName": {
+        "uz": "Atrof muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti",
+        "ru": "Научно-исследовательский институт экологии и природоохранных технологий",
+        "en": "Research Institute of Environment and Nature Protection Technologies"
+    },
+    "contactCenter": {
+        "uz": "A'loqa markazi",
+        "ru": "Контактный центр",
+        "en": "Contact Center"
+    },
+    "SocialMedia": {
+        "uz": "Ijtimoiy Tarmoqlar",
+        "ru": "Сосиал Медиа",
+        "en": "Social Media"
+    },
+    "jurnal":{
+        "uz":"Ijtimoiy Jurnal",
+        "ru":"Социальный журнал",
+        "en":"Social Journal"
+    },
+    "address": {
+        "uz": "Manzil",
+        "ru": "Адрес",
+        "en": "Address"
+    },
+    "yuklash": {
+        "uz": "Yuklab olish",
+        "en":"Download",
+        "ru":"Скачать"
+    },
+    "tAddress": {
+        "uz": "Oʼzbekiston Respublikasi, Toshkent shahri, Chilonzor tumani, Bunyodkor shoh koʼchasi, 7-А uy",
+        "ru": "Республика Узбекистан, Чиланзарский район, г.Ташкент, улица Бунёдкор, дом 7-А",
+        "en": "House 7-A, Bunyodkor street, Chilonzor district, Tashkent city, Republic of Uzbekistan"
+    },
+    "Boshqarma": {
+        "uz": "Institut",
+        "ru": "Институт",
+        "en": "Institute"
+    },
+    "Yangiliklar": {
+        "uz": "Yangiliklar",
+        "ru": "Новости",
+        "en": "News"
+    },
+    "YangiliklarYoshlar": {
+        "uz": "Buguni",
+        "ru": "Молодежные новости ",
+        "en": "Youth news"
+    },
+    "AXizmati": {
+        "uz": "Axborot Xizmati",
+        "ru": "Информационная служба",
+        "en": "Information Service"
+    },
+    "Elonlar": {
+        "uz": "E'lonlar",
+        "ru": "Объявления",
+        "en": "Announcements"
+    },
+    "pres": {
+        "uz": "Pres Relizlar",
+        "ru": "Пресс-релизы",
+        "en": "Press releases"
+    },
+    "Mediagalereya": {
+        "uz": "Mediagalereya",
+        "ru": "Медиа-галерея",
+        "en": "Media gallery"
+    },
+    "Fotogalereya": {
+        "uz": "Fotogalereya",
+        "ru": "Фотогалерея",
+        "en": "Photo gallery"
+    },
+    "VideoMaterial": {
+        "uz": "Video material",
+        "ru": "Видео материал",
+        "en": "Video material"
+    },
+    "Malumotlar": {
+        "uz": "Faoliyat",
+        "ru": "Информация",
+        "en": "Information"
+    },
+    "yoshlargaOid": {
+        "uz": "Institut haqida",
+        "ru": "Молодежная политика",
+        "en": "Youth policy"
+    },
+    "faoliyat1": {
+        "uz": "Atmosfera xavosini muxofaza labaratoriyasi",
+        "ru": "Лаборатория охраны атмосферного воздуха",
+        "en": "Atmospheric air protection laboratory"
+    }, 
+    "Aboutfaoliyat1": {
+        "uz": "- atmosfera havosining joriy holatini, undagi ifloslantiruvchi moddalarning atrof-muhit va tabiatga ta’sirini tahlil qilish masalalari bo‘yicha chuqur fundamental va amaliy tadqiqotlarni o‘tkazish;\n- atmosfera havosining ifloslanishini kamaytirishni ta’minlovchi mutlaqo yangi va samarali uslub va texnologiyalarni ishlab chiqish;\n- atmosfera havosini muhofaza qilish sohasidagi ilg‘or xorijiy texnologiyalar va innovatsiyalarni moslashtirish va amaliyotga tatbiq etish;\n- atmosfera havosini muhofaza qilish masalalari bo‘yicha talab va standartlarni ishlab chiqishda ishtirok etish;\n- atmosfera havosini muhofaza qilish sohasida xorijiy ilmiy-tadqiqot muassasalari va markazlari bilan hamkorlikni rivojlantirishda, ilmiy konferensiyalarda, seminarlarda, qo‘shma tadqiqotlarda, loyihalarda, xodimlarning malakasini oshirish va ularni o‘qitishni tashkil etishda ishtirok etish;\n- xalqaro standartlar darajasida yuqori malakali kadrlar tayyorlash, ekologiya va atrof-muhitni muhofaza qilish sohasidagi oliy o‘quv muassasalari o‘qituvchilari hamda mutaxassislarini qayta tayyorlash va ularning malakasini oshirishda ishtirok etish.",
+        "ru": "- проведение углубленных фундаментальных и практических исследований по анализу современного состояния атмосферного воздуха, влияния содержащихся в нем загрязняющих веществ на окружающую среду и природу; вывод;\n- адаптация и внедрение передовых зарубежных технологий и инноваций в области охрана атмосферного воздуха;\n- участие в разработке требований и нормативов по вопросам охраны атмосферного воздуха;\n- участие в области охраны атмосферного воздуха в развитии сотрудничества с зарубежными научно-исследовательскими учреждениями и центрами, в научных конференциях, семинарах, совместные исследования, проекты, повышение квалификации работников и организация их обучения;-участие в переподготовке преподавателей и специалистов высших учебных заведений в области охраны окружающей среды и повышении их квалификации.",
+        "en": "- conducting in-depth fundamental and practical research on the analysis of the current state of atmospheric air, the impact of pollutants in it on the environment and nature; output;\n- adaptation and implementation of advanced foreign technologies and innovations in the field of atmospheric air protection;\n- participation in the development of requirements and standards for atmospheric air protection issues;\n- in the field of atmospheric air protection participation in the development of cooperation with foreign research institutions and centers, in scientific conferences, seminars, joint researches, projects, improving the qualifications of employees and organizing their training; -participation in retraining of teachers and specialists of higher educational institutions in the field of environmental protection and improving their qualifications."
+    },
+    
+    "faoliyat2": {
+        "uz": "AKT va axborot resurslari bo‘limi",
+        "ru": "Отдел ИКТ и информационных ресурсов",
+        "en": "Department of ICT and information resources"
+    }, 
+    "Aboutfaoliyat2": {
+        "uz": "- O‘zbekiston Respublikasi Axborot, texnologiyalari va kommunikatsiyalarini rivojlantirish vazirligining vakolati doirasida davlat boshqaruvi, iqtisodiyotning barcha sohalariga axborot resurslari, ma’lumot bazalari, axborot tizimlari va interaktiv davlat xizmatlari joriy etish bo‘yicha qabul qilingan qarorlari ijrosini ta’minlash;\n- O‘zbekiston Respublikasi Axborot, texnologiyalari va kommunikatsiyalarini rivojlantirish vazirligiga axborot kommunikatsiya texnologiyalarini joriy etish va rivojlantirish bo‘yicha dasturlarning ijrosi yuzasidan axborot kiritib borish;\n- Institut tizimidagi bo‘lim va laboratoriyalarda zamonaviy axborot texnologiyalaridan, dasturiy mahsulotlardan va ma’lumotlarni qayta ishlovchi vositalardan, aloqa va ma’lumotlar uzatish vositalaridan foydalanish hamda axborot havfsizligini ta’minlash, ularni rivojlantirish masalalari yuzasidan takliflar tayyorlash va rahbariyatga taqdim etish;\n- Istitutning xarajatlar smetalarida ishlab chiqarish jarayonlarini avtomatlashtirish bo‘yicha axborot-kommunikatsiya texnologiyalari tizimlarini joriy etish va rivojlantirish, axborot xavfsizligi ta’minlash hamda xodimlarni malakasini oshirish bo‘yicha alohida bandlar kiritilishi yuzasidan takliflar ishlab chiqish;\n- Institutda axborot-kommunikatsiya texnologiyalarini rivojlantirish va axborot havfsizligi ta’minlash bo‘yicha rejalar ishlab chiqish, o‘rnatilgan tartibda tasdiqlash uchun taqdim etish;\n- Institutning korporativ tarmog‘ini, axborot-kommunikatsiya texnologiyalari va telekommunikatsiya tarmoqlarini, dasturiy vositalari, ma’lumotlar almashish va saqlash tizimlarini yaratish bo‘yicha loyihalarni ishlab chiqish va amalga oshirish;\n- Institutning veb-saytini takomillashtirish, texnik jihatdan ishlashini ta’minlash;\n- Axborot-kommunikatsiya texnologiyalaridan foydalanish bo‘yicha kadrlarni tayyorlash va ularning malakasini oshirish bo‘yicha samarali tizimlarni tashkil etish.",
+        "ru": "- Обеспечение выполнения решений, принятых Министерством развития информации, технологий и коммуникаций Республики Узбекистан по внедрению информационных ресурсов, баз данных, информационных систем и интерактивных государственных услуг во все сферы государственного управления и экономики;\n- Внесение информации в Министерство развития информации, технологий и коммуникаций Республики Узбекистан о реализации программ внедрения и развития информационно-коммуникационных технологий, использовании средств, средств связи и передачи данных, а также обеспечении информационной безопасности , подготовка и внесение предложений руководству по вопросам их развития; , разработка предложений по введению отдельных пунктов по обеспечению информационной безопасности и повышению квалификации сотрудников; разработка и реализация проектов по созданию корпоративной сети Института, информационной и коммуникационных технологий и телекоммуникационных сетей, программных средств, систем обмена и хранения данных;\n- совершенствование веб-сайта Института, технического обеспечения его функционирования;\n- организация эффективных систем обучения персонала использованию информации и связи технологий и повышения своей квалификации.",
+        "en": "- Ensuring the implementation of the decisions made by the Ministry of Information, Technologies and Communications Development of the Republic of Uzbekistan on the introduction of information resources, databases, information systems and interactive public services to all areas of public administration and economy;\n- Submitting information to the Ministry of Information, Technologies and Communications Development of the Republic of Uzbekistan on the implementation of programs for the introduction and development of information and communication technologies; use of tools, means of communication and data transmission, as well as ensuring information security, preparing and presenting proposals to the management regarding issues of their development; , development of proposals for the introduction of separate clauses on ensuring information security and improving the qualifications of employees; development and implementation of projects for the creation of the Institute's corporate network, information and communication technologies and telecommunication networks, software tools, data exchange and storage systems;\n- improvement of the Institute's website, technical to ensure its functioning;\n- to organize effective systems for the training of personnel in the use of information and communication technologies and improving their qualifications."
+    },
+    "faoliyat3": {
+        "uz": "Bioxilmaxillikni saqlash laboratoriyasi",
+        "ru": "Лаборатория сохранения биоразнообразия",
+        "en": "Biodiversity Conservation Laboratory"
+    },
+    "Aboutfaoliyat3": {
+        "uz": "- biologik xilmaxillikning joriy holatini, hozirgi kunda noyob va yo‘q bo‘lib ketish arafasida turgan o‘simlik va hayvon turlarining tabiatga hamda tabiiy bioxilmaxillikning buzilishiga ta’sirini tahlil qilish masalalari bo‘yicha chuqur fundamental va amaliy tadqiqotlarni o‘tkazish;\n- noyob o‘simlik va hayvon turlarini yo‘q bo‘lib ketishini oldini olishni ta’minlovchi mutlaqo yangi va samarali uslub va texnologiyalarni ishlab chiqish;\n- noyob o‘simlik va hayvon turlarini yo‘q bo‘lib ketishini oldini olishni ta’minlovchi ilg‘or xorijiy texnologiyalar va innovatsiyalarni moslashtirish va amaliyotga tatbiq etish;\n-biologik xilmaxillikni saqlash masalalari bo‘yicha talab va standartlarni ishlab chiqishda ishtirok etish;\n- tabiiy bioxilmaxillikni saqlash sohasida xorijiy ilmiy-tadqiqot muassasalari va markazlari bilan hamkorlikni rivojlantirishda, ilmiy konferensiyalarda, seminarlarda, qo‘shma tadqiqotlarda, loyihalarda, xodimlarning malakasini oshirish va ularni o‘qitishni tashkil etishda ishtirok etish;\n- xalqaro standartlar darajasida yuqori malakali kadrlar tayyorlash, ekologiya va atrof-muhitni muhofaza qilish sohasidagi oliy o‘quv muassasalari o‘qituvchilari hamda mutaxassislarini qayta tayyorlash va ularning malakasini oshirishda ishtirok etish.",
+        "ru": "- проведение углубленных фундаментальных и практических исследований по анализу современного состояния биологического разнообразия, влияния редких и исчезающих видов растений и животных на природу и уничтожения естественного биоразнообразия;\n - разработка совершенно новых и эффективных методов и технологий по предотвращению исчезновения редких видов растений и животных;\n- по предотвращению исчезновения редких видов растений и животных по адаптации и внедрению передовых зарубежных технологий и инноваций;\n-участие в разработке требований и нормативов по сохранению биологического разнообразия;\n- в развитии сотрудничества с зарубежными научно-исследовательскими учреждениями и центрами в области сохранения природного биоразнообразия, участии в научных конференциях, семинарах, совместных исследованиях, проектах, повышении квалификации сотрудников и организации их обучения; участие в переподготовка преподавателей и специалистов и повышение их квалификации.",
+        "en": "- Conducting in-depth fundamental and practical research on the analysis of the current state of biological diversity, the impact of rare and endangered plant and animal species on nature and the destruction of natural biodiversity;\n - development of completely new and effective methods and technologies to prevent the extinction of rare plant and animal species;\n- to prevent the extinction of rare plant and animal species adaptation and implementation of advanced foreign technologies and innovations;\n-participation in the development of requirements and standards for the preservation of biological diversity;\n- in the development of cooperation with foreign research institutions and centers in the field of natural biodiversity preservation , participating in scientific conferences, seminars, joint researches, projects, improving the qualifications of employees and organizing their training; participation in the retraining of teachers and specialists and improvement of their qualifications."
+    },
+    "faoliyat4": {
+        "uz": "Yer resurslarini muhofaza qilish laboratoriyasi",
+        "ru": "Лаборатория Охрана недр",
+        "en": "Earth Resources Protection Laboratory"
+    },
+    "Aboutfaoliyat4": {
+        "uz": "- yer resurslarini muhofaza qilishga qaratilgan ilmiy tadqiqotlar olib borish, yerlardagi degradatsiya jarayoniga qarshi kurashish va uning oldini olish bo‘yicha ilmiy asoslangan takliflar ishlab chiqish;\n- yer resurslarini muhofaza qilishda tuproqlarning ifloslanishi, degradatsiyalanishi, eroziyalanishi, cho‘llanish, sho‘rlanish kabi mezonlarning darajasini baholash;\n- yer resurslarini muhofaza qilishda tuproq unumdorligini saqlash, tuproqlarning fizik, kimyoviy, agrokimyoviy va boshqa xossalari bo‘yicha ekologik-meliorativ holatini yaxshilashga qaratilgan chora-tadbirlar ishlab chiqish;\n- yerlarni suv va shamol eroziyasidan, qayta sho‘rlanishdan, sahrolanishdan, ishlab chiqarish chiqindilari bilan kimyoviy ifloslanishidan muhofaza qilish ham degradatsiyalanishni oldini olishga texnologiyalarini ishlab chiqish;\n- yer resurslari muhofazasida sho‘rtoblanishga duchor yerlarda sho‘rtoblangan tuproqlarning singdirish kompleksidagi natriy kationini tabiiy meliorantlar orqali siqib chiqarish texnologiyasini ishlab chiqish hamda tuproq unumdorligini saqlash va muhofaza qilishga ilmiy asoslangan tavsiyalar berish;\n- yer resurslarini muhofaza qilishda degradatsiyaga uchragan yerlarni rekultivatsiya qilish, qaytadan ekin maydonlari oborotiga kiritish, tuproq unumdorligini saqlash va muhofaza qilish bo‘yicha yo‘riqnoma va tavsiyalar ishlab chiqish;\n- ilmiy-tadqiqot ishlarini olib boruvchi xodimlarni va doktorantlarning ilmiy ishlanmalarini Innovatsion rivojlantirish vazirligi tomonidan e’lon qilinadigan loyihalarga jalb qilish;\n- intellektual mulk obyektlariga mavjud mualliflarning monografiyalarini, maqolasini, patentini amalga oshirishda shartnomalarni tuzish ustida ishlar olib borish;\n- laboratoriyada yaratilgan ishlanmalar va ilmiy tadqiqot faoliyatni mukammallashtirish sohasida axborot resurslaridagi ma’lumotlarni o‘rganish, to‘plash asosida yangi loyihalarni yaratish;\n- laboratoriya ilmiy-tadqiqot xodimlari tomonidan raqobatbardosh ilmiy-tadqiqot ishlanmalarini ishlab chiqishda, targ‘ibot qilishda monografiya, maqola va tezis shaklida intellektual faoliyat natijalarini amalda qo‘llash maqsadida respublika va horijiy davlatlarda maqolalarni e’lon qilish bilan bog‘liq bo‘lgan hollarda qo‘llab-quvvatlashni ta’minlash;\n- laboratoriya o‘z faoliyat yo‘nalishi bo‘yicha normativ, metodik va patent hujjatlari bo‘yicha ishini muvofiqlashtirish;\n- shartnomalarni tuzishda amaldagi qonunchilik talablariga qat’iy rioya qilish;\n- tuzilgan shartnomalarni bajarish uchun qonun hujjatlarida nazarda tutilgan harakatlarni amalga oshirish;\n- Institut rahbariyat rezolyutsiyasi bilan laboratoriyaga kelib tushgan barcha xujjatlarni belgilangan muddatda ijrosini ta’minlash;\n- Institut rahbariyatining qonun hujjatlariga muvofiq alohida boshqa topshiriqlarini bajarish;\n- laboratoriya, shuningdek, qonunchilikda taqiqlanmagan boshqa faoliyatlarni amalga oshirish;",
+        "ru": "- проведение научных исследований, направленных на охрану земельных ресурсов, разработка научно обоснованных предложений по борьбе с процессом деградации земель и его предотвращению, оценка уровня таких критериев, как разработка технологий защиты от засоления, опустынивания, химического загрязнения с помощью отходов производства, а также для предотвращения деградации;\n- в охране земельных ресурсов разработка технологии выдавливания катионов натрия в поглощающем комплексе засоленных почв за счет природных мелиорантов и предоставление научно обоснованных рекомендаций по сохранению и защите плодородия почв;\n- разработка инструкций и рекомендаций по рекультивации деградированных земель в области охраны земельных ресурсов, повторного введения в оборот пашни, сохранения и защиты плодородия почв;\n- привлечение научных работников и научные разработки докторантов в проектах, заявленных Министерством инновационного развития; создание новых проектов на основе изучения и сбора информации в информационных ресурсах в области разработок и научных исследований; в целях внедрения результатов интеллектуальной деятельности в форма оказания поддержки в делах, связанных с публикацией статей в республике и зарубежных странах; координация работы над методическими и патентными документами;\n- строгое соблюдение требований действующего законодательства при заключении договоров; обеспечить оформление всех документов в рамках указанное время;",
+        "en": "- conducting scientific research aimed at the protection of land resources, developing scientifically based proposals for combating the process of land degradation and its prevention; assessment of the level of criteria such as; development of technologies to protect against salinity, desertification, and chemical pollution with production waste, as well as to prevent degradation;\n- in the protection of land resources, development of technology to squeeze out sodium cations in the absorption complex of saline soils through natural ameliorants and to provide scientifically based recommendations for the preservation and protection of soil fertility;\n- development of instructions and recommendations for the recultivation of degraded lands in the protection of land resources, re-introduction into the circulation of arable land, preservation and protection of soil fertility;\n- Involvement of scientific research workers and scientific developments of doctoral students in projects announced by the Ministry of Innovative Development; creation of new projects based on the study and collection of information in information resources in the field of development and scientific research; in order to implement the results of intellectual activity in the form of providing support in cases related to the publication of articles in the republic and foreign countries; , coordination of work on methodical and patent documents;\n- strictly complying with current legal requirements when concluding contracts; to ensure the execution of all documents within the specified time;"
+    },
+    "faoliyat5": {
+        "uz": "Ilmiy ishlanmalarni tijoratlantirish va patentlash bo‘limi",
+        "en": "Commercialization of scientific developments and patent department",
+        "ru": "Коммерциализация научных разработок и патентный отдел"
+    },
+    "Aboutfaoliyat5": {
+        "uz": "- Tizimli ravishda bozorni tahlil qilish va innovatsion mahsulotlarga (ishlar, xizmatlar) bo‘lgan talab, innovatsion mahsulotlarni tijoratlashtirish bilan bog‘liq bo‘lgan qoplash muddatini baholash, rentabellik va risklarni o‘rganish;\n- Yuqori tijorat salohiyatiga ega va realizatsiya qilish uchun tayyor bo‘lgan istiqbolli loyihalarni tanlab olish;\n- Innovatsion loyihalarni amalga oshirish uchun investorlar, hamkorlar va boshqa manfaatdor shaxslarni jalb qilish;\n- Yangi texnologiyalar va innovatsion mahsulotlarni ishlab chiqishni joriy qilish maqsadida sanoat korxonalari bilan hamkorlik qilish.\n- Respublikaning iqtisodiy raqobatbardoshligini yanada oshirish maqsadida ilmiy va ilmiy-texnikaviy faoliyat natijalarini jadallashtirish va keng joriy etish;\n- Ilmiy va ilmiy-texnikaviy faoliyatni yo‘naltirish va amaliy natijalar olish, boshqa iqtisodiy va ijtimoiy sohalarni rivojlantirishga yo‘naltirish va aniq vazifalarni xal etish, shuningdek, ichki va tashqi bozor ehtiyojlarini qondirish;\n- Innovatsion tadqiqotlarni amalga oshirish va fanni ko‘p talab qiluvchi, qo‘llab-quvvatlovchi qurilmalar fanni ko‘r talab qiluvchi mahsulotlarni hududiy rivojlantirish;\n- Mamlakatning jadal rivojlanishining zamonaviy talablariga javob beradigan yuqori darajadagi tijoratlashtirilgan mahsulot va texnologiyalarni jadal rivojlantirish bo‘yicha ilmiy-tadqiqot yo‘nalishi bo‘yicha ishlarni amalga oshirish;",
+        "en": "- Systematic analysis of the market and demand for innovative products (works, services), assessment of the payback period associated with the commercialization of innovative products, study of profitability and risks;\n- High commercial potential and realization to select prospective projects ready for;\n- To attract investors, partners and other interested parties for the implementation of innovative projects;\n- To cooperate with industrial enterprises in order to introduce the development of new technologies and innovative products.\n- In order to further increase the economic competitiveness of the republic, to accelerate and widely introduce the results of scientific and scientific and technical activities;\n- To direct scientific and scientific and technical activities and obtain practical results, to direct them to the development of other economic and social spheres, and to solve specific tasks , as well as meeting the needs of the domestic and foreign markets; carrying out work in the direction of scientific research on the rapid development of high-level commercialized products and technologies;",
+        "ru": "- Системный анализ рынка и спроса на инновационную продукцию (работы, услуги), оценка сроков окупаемости, связанных с коммерциализацией инновационной продукции, изучение рентабельности и рисков;\n- Высокий коммерческий потенциал и реализация для отбора перспективных проектов, готовых к реализации ;\n- Привлекать инвесторов, партнеров и иных заинтересованных лиц для реализации инновационных проектов;\n- Сотрудничать с промышленными предприятиями с целью внедрения разработок новых технологий и инновационной продукции.\n- В целях дальнейшего повышения экономической конкурентоспособности республики, ускорять и широко внедрять результаты научной и научно-технической деятельности;\n- Направлять научную и научно-техническую деятельность и получать практические результаты, направлять их на развитие других экономических и социальных сфер, и для решения конкретных задач, а также удовлетворения потребностей внутреннего и внешнего рынков, проведения работ в направлении научных исследований по опережающему развитию коммерциализированных продуктов и технологий высокого уровня;"
+    },
+    "faoliyat6": {
+        "uz": "Ilmiy-tajriba stansiyasi",
+        "en": "Scientific-experimental station",
+        "ru": "Научно-экспериментальная станция"
+    },
+    "Aboutfaoliyat6": {
+        "uz": "- Atrof muhitning joriy holatini o‘rganish, ifloslantiruvchi moddalarning bioxilma-xillikka, jumladan, noyob, yo‘q bo‘lib ketish arafasida turgan o‘simlik hamda hayvon turlariga ta’sirini o‘rganish;\n- yer resurslarini muhofaza qilish bo‘yicha ilmiy tadqiqotlar olib borish, yerlar degradatsiyasiga qarshi kurashish va uning oldini oluvchi texnologiyalar bo‘yicha ilmiy asoslangan takliflar ishlab chiqish;\n- yer osti va yer usti suvlari ifloslanishining oldini olish, oqova suvlarni tozalash va qayta ishlash bo‘yicha samarali usul hamda texnologiyalarni ishlab chiqish bo‘yicha fundamental va amaliy tadqiqotlar o‘tkazish;\n- atmosfera havosining joriy holati, undagi ifloslantiruvchi moddalarning atrof muhit va tabiatga ta’siri masalalari bo‘yicha chuqur fundamental va amaliy tadqiqotlar olib borish, atmosfera havosining ifloslanishini kamaytirishni ta’minlovchi yangi, samarali uslub va texnologiyalarni ishlab chiqish;\n- maishiy va turli chiqindilarni qayta ishlash va utilizatsiya qilishni ta’minlovchi samarali uslub hamda texnologiyalarni ishlab chiqish bo‘yicha amaliy tadqiqotlar olib borish;\n- «yashil» texnologiyalarga o‘tishni jadallashtirish va resurs tejamkor texnologiyalarni keng joriy etish orqali «yashil» iqtisodiyotni rivojlantirishga qaratilgan fundamental, amaliy va innovatsion tadqiqotlar o‘tkazish;\n- global iqlim o‘zgarishining ekologiya va atrof muhitga salbiy ta’sirini kamaytirish bo‘yicha ilmiy asoslangan takliflar ishlab chiqish;\n- ekologiya va atrof muhitni muhofaza qilish sohasida ekotizim xizmatlarini amalga oshirish orqali atrof muhitni muhofaza qilish va tegishli normativ hujjatlarni ishlab chiqish;\n- ekologiya va atrof muhitni muhofaza qilish sohasi uchun malakali ilmiy kadrlarni tayyorlash, ta’lim, ilm-fan va ishlab chiqarish o‘rtasida hamkorlikni rivojlantirish, xorijiy ta’lim va ilmiy-tadqiqot muassasalari hamda xalqaro tashkilotlar bilan aloqalar o‘rnatish va grantlar asosida ilmiy tadqiqotlar olib borish;\n- zamonaviy ilmiy-laboratoriya bazasini shakllantirish, uni ilg‘or texnologik asbob-uskunalar bilan jihozlash hamda sohani rivojlantirishga qaratilgan ilmiy-innovatsion tadqiqotlarni kengaytirish va ularning integratsiyasi bo‘yicha samarali tizimni shakllantirishda ishtirok etish.",
+        "en": "- To study the current state of the environment, to study the impact of pollutants on biodiversity, including rare, endangered plant and animal species;\n- protection of land resources to carry out scientific researches, fight against land degradation and develop science-based proposals on technologies to prevent it; conducting fundamental and practical researches on the development; development of new, effective methods and technologies;\n- conducting practical research on the development of effective methods and technologies that ensure the processing and disposal of household and various wastes;\n- accelerating the transition to green technologies and conducting fundamental, practical and innovative research aimed at the development of the green economy through the widespread introduction of resource-saving technologies; n- environmental protection by implementing ecosystem services in the field of ecology and environmental protection and development of relevant normative documents;\n- training of qualified scientific personnel for the field of ecology and environmental protection, education, science and development development of cooperation between production, establishment of relations with foreign educational and scientific-research institutions and international organizations and conducting scientific research on the basis of grants;\n- formation of a modern scientific-laboratory base, equipped with advanced technological equipment equipping with and participating in the formation of an effective system for the expansion of scientific and innovative research aimed at the development of the field and their integration.",
+        "ru": "- Изучать современное состояние окружающей среды, изучать влияние загрязнителей на биоразнообразие, в том числе редкие, исчезающие виды растений и животных;\n- Охрана земельных ресурсов для проведения научных исследований, борьбы с деградацией земель и разработки научно-обоснованных предложения по технологиям его предотвращения; проведение фундаментальных и практических исследований по разработке; разработка новых, эффективных методов и технологий;\n- проведение практических исследований по разработке эффективных методов и технологий, обеспечивающих переработку и утилизацию бытовых и различных отходов ;\n- ускорение перехода на «зеленые» технологии и проведение фундаментальных, практических и инновационных исследований, направленных на развитие «зеленой» экономики за счет широкого внедрения ресурсосберегающих технологий; n- охрана окружающей среды путем реализации экосистемных услуг в области экологии и охраны окружающей среды и разработка соответствующих нормативных документов;\n- подготовка квалифицированных научных кадров в области экологии и охраны окружающей среды, образования, науки и развития развитие кооперации производства, установление связей с зарубежными образовательными и научно- научно-исследовательских институтов и международных организаций и проведения научных исследований на основе грантов;\n- формирование современной научно-лабораторной базы, оснащенной передовым технологическим оборудованием, оснащение и участие в формировании эффективной системы расширения научно-инновационной исследования, направленные на развитие области и их интеграцию."
+    },
+    "faoliyat7": {
+        "uz": "Chiqindilarni qayta ishlash va utilizatsiya qilish laboratoriyasi",
+        "en": "Waste processing and disposal laboratory",
+        "ru": "Лаборатория переработки и утилизации отходов"
+    },
+    "Aboutfaoliyat7": {
+        "uz": "- sanoat va maishiy chiqindilarni qayta ishlash va zararsiz utilizatsiya qilish bo‘yicha ilmiy-tadqiqot ishlarini o‘tkazish orqali olingan natijalarni amaliy tajribalar bilan muvofiqlashtirish;\n- Atrof-muhitni ishlab chiqarish va iste’mol chiqindilaridan muhofaza qilish tabiiy resurslardan oqilona foydalanish hamda ekologik toza texnologiyalarni amaliyotga tatbiq etish, muayyan ilmiy takliflar kiritish orqali ekologik xavfsizlikni ta’minlash.\n- chiqindilarini qayta ishlash va utilizatsiya qilishni joriy holatini, undagi ifloslantiruvchi moddalarning atrof-muhit va tabiatga ta’sirini tahlil qilish masalalari bo‘yicha chuqur fundamental va amaliy tadqiqotlarni o‘tkazish;\n- chiqindilarini qayta ishlash va utilizatsiya qilishni ta’minlovchi mutlaqo yangi va samarali uslub va texnologiyalarni ishlab chiqish;\n- chiqindilarini qayta ishlash va utilizatsiya qilish sohasidagi ilg‘or xorijiy texnologiyalar va innovatsiyalarni moslashtirish va amaliyotga tatbiq etish;\n- chiqindilarini qayta ishlash va utilizatsiya qilish masalalari bo‘yicha talab va standartlarni ishlab chiqishda ishtirok etish;\n- chiqindilarini qayta ishlash va utilizatsiya qilish sohasida xorijiy ilmiy-tadqiqot muassasalari va markazlari bilan hamkorlikni rivojlantirishda, ilmiy konferensiyalarda, seminarlarda, qo‘shma tadqiqotlarda, loyihalarda, xodimlarning malakasini oshirish va ularni o‘qitishni tashkil etishda ishtirok etish;\n- xalqaro standartlar darajasida yuqori malakali kadrlar tayyorlash, ekologiya va atrof-muhitni muhofaza qilish sohasidagi oliy o‘quv muassasalari o‘qituvchilari hamda mutaxassislarini qayta tayyorlash va ularning malakasini oshirishda ishtirok etish",
+        "en": "-Coordination of the results obtained by carrying out scientific and research works on the processing and harmless disposal of industrial and household waste with practical experiences; implementation of clean technologies, ensuring environmental safety by introducing certain scientific proposals.\n- in-depth fundamental and practical analysis of the current state of waste processing and disposal, the impact of pollutants on the environment and nature conducting research;\n- development of completely new and effective methods and technologies that ensure waste processing and disposal;\n- adaptation and implementation of advanced foreign technologies and innovations in the field of waste processing and disposal; \n- participation in the development of requirements and standards for waste processing and disposal issues;\n- in the development of cooperation with foreign research institutions and centers in the field of waste processing and disposal, scientific conferences, seminars, participation in researches, projects, improving the qualifications of employees and organizing their training; participation in professional development",
+        "ru": "- согласование результатов, полученных при проведении научно-исследовательских работ по переработке и обезвреживанию промышленных и бытовых отходов, с практическим опытом, внедрение чистых технологий, обеспечение экологической безопасности путем внедрения отдельных научных предложений.\n- углубленное фундаментальное и практический анализ современного состояния переработки и захоронения отходов, воздействия загрязняющих веществ на окружающую среду и природу проведение исследований;\n- разработка совершенно новых и эффективных методов и технологий, обеспечивающих переработку и захоронение отходов;\n- адаптация и внедрение передовые зарубежные технологии и инновации в области переработки и утилизации отходов;\n- участие в разработке требований и стандартов по вопросам переработки и утилизации отходов;\n- в развитии сотрудничества с зарубежными научно-исследовательскими учреждениями и центрами в области переработка и утилизация отходов, научные конференции, семинары, участие в исследованиях, проектах, повышение квалификации работников и организация их обучения, участие в повышении квалификации"
+    },
+    "faoliyat8": {
+        "uz": "Ekologik ta’lim va targ‘ibot bo‘limi",
+        "en": "Department of environmental education and promotion",
+        "ru": "Департамент экологического образования и пропаганды"
+    },
+    "Aboutfaoliyat8": {
+        "uz": "- Aholining ekologik madaniyatini yanada oshiradigan istiqbolli tadqiqotlar bilan shug‘ullanish;\n- Tabiiy resurslardan oqilona foydalanish muammolari bo‘yicha ilmiy-amaliy konferensiyalar tashkil etish.\n- Hududiy ekologiya va atrof muhitni muhofaza qilish boshqarmalari bilan hamkorlikda joylardagi maktabgacha ta’lim tashkilotlari hamda umumiy o‘rta va o‘rta maxsus ta’lim muassasalarida ekologik ta’lim yuzasidan seminar va davra suhbatlarini tashkil qilish.\n- Muhim ekologik sanalarga bag‘ishlab ommaviy tadbirlar tashkil etish.\n- Ekologik muammolar va ularning yechimlari bilan bog‘liq mavzular bo‘yicha materiallar tayyorlash.\n- Ekologik ta’lim bo‘yicha rivojlangan mamlakatlar tajribalarini o‘rganish va qo‘llash ustida ilmiy tadqiqotlar olib borish",
+        "en": "- Engaging in promising researches that will further increase the ecological culture of the population; and organization of seminars and roundtable discussions on environmental education in general secondary and special secondary educational institutions.\n- Organization of public events dedicated to important ecological dates. Preparation of materials on related topics.\n- Conducting scientific research on the study and application of the experiences of developed countries in environmental education.",
+        "ru": "- Проведение перспективных исследований, способствующих дальнейшему повышению экологической культуры населения, организация семинаров и круглых столов по экологическому воспитанию в общеобразовательных средних и средних специальных учебных заведениях.\n- Организация массовых мероприятий, приуроченных к знаменательным экологическим датам. материалы по смежным темам.\n- Проведение научных исследований по изучению и применению опыта развитых стран в области экологического образования."
+    },
+    "faoliyat9": {
+        "uz": "“Suv resurslarini muhofaza qilish texnologiyalari” laboratoriyasi",
+        "en": "”Water resources protection technologies” laboratory",
+        "ru": "Лаборатория ”Технологии охраны водных ресурсов”"
+    },
+    "Aboutfaoliyat9": {
+        "uz": "- Suv resurslarini muhofaza qilish borasida istiqbolli tadqiqotlar bilan shug‘ullanish;\n- Respublikaning ishlab chiqarish tarmoqlarida xosil bo‘ladigan turli oqova suvlar tarkibini o‘rganish va shartnoma asosida tavsiyalar berish, shuningdek tozalash texnologiyalarini yaratish;\n-Turli korxonalar oqova suvlarini taxlil qilish, o‘rganish va ifloslanish omillarini asoslab berish, ulardan texnik aylanma suvlar olish ustida tadqiqotlar olib borish.\n- Oqova suvlarni zamonaviy zamonaviy va kombinirlangan usullarda tozalash texnologiyalari ustida ilmiy tadqiqotlar olib borish, tadqiqot natijalarini ilmiy jurnallarda nashr etish;\n- Turli sanoat korxonalari tozalash inshootlarini loyihalash jarayonlari uchun tavsiyalar ishlab chiqish;\n- Sanoat oqova suvlarini tozalashda rivojlangan mamlakatlar tajribalarini o‘rganish va qo‘llash ustida ilmiy tadqiqotlar olib borish.",
+        "en": "- Engage in prospective research on water resources protection; to study and substantiate the factors of pollution, to conduct research on obtaining technical circulating water from them.\n- To conduct scientific research on the technologies of wastewater treatment using modern and combined methods, to publish the research results in scientific journals;\n- Various development of recommendations for the design process of treatment facilities of industrial enterprises;\n- Conducting scientific research on the study and application of the experiences of developed countries in the treatment of industrial wastewater.",
+        "ru": "- Заниматься перспективными исследованиями по охране водных ресурсов, изучать и обосновывать факторы загрязнения, проводить исследования по получению из них технических оборотных вод.\n- Проводить научные исследования по технологиям очистки сточных вод современными и комбинированными методами, публиковать результаты исследований в научных журналах;\n- Разработка различных рекомендаций по проектированию технологических очистных сооружений промышленных предприятий;\n- Проведение научных исследований по изучению и применению опыта развитых стран по очистке промышленных сточных вод."
+    },
+    "faoliyat10": {
+        "uz": "Ekotizim xizmatlari va normativ hujjatlarni ishlab chiqish bo‘limi",
+        "en": "Department of Ecosystem Services and Development of Regulatory Documents",
+        "ru": "Департамент экосистемных услуг и разработки нормативных документов"
+    },
+    "Aboutfaoliyat10": {
+        "uz": "- ekotizim xizmatlarini yo‘lga qo‘yish va normativ hujjatlarni ishlab chiqish bo‘yicha ilmiy-tadqiqot ishlari natijalarini amaliy tajribalar bilan muvofiqlashtirgan holda Institut bo‘limlari bilan hamkorlikda uslubiy qo‘llanmalar va metodologiyalar hamda tegishli normativ-huquqiy hujjatlar tayyorlash;\n- respublikada ekologik holatni yaxshilash, ekologik xavfsizlikni ta’minlash maqsadida ilmiy-tadqiqot ishlari natijalarni amaliy tajribalar bilan muvofiqlashtirish orqali ekotizim xizmatlari bo‘yicha va sohaga oid normativ hujjatlar loyihalarini tayyorlash.\n- ekotizim xizmatlarini amalga oshirishni xalqaro talablar darajasiga yetkazish choralarini ko‘rish;\n- tizimga aloqador bo‘lgan va Institut zimmasiga yuklatilgan uzoq muddatli, o‘rta va qisqa muddatli ichki va davlat maqsadli dasturlari hamda davlatlararo maqsadli dasturlarni shakllantirishga ishtirok etish;\n- tabiatni muhofaza qilish va ulardan oqilona foydalanish va ekotizim xizmatlari sohasiga oid qo‘llanma, metodolgiya hamda normativ-huquqiy hujjatlarni ishlab chiqishda ishtirok etish;\n- tabiatni muhofaza qilish va ulardan oqilona foydalanish va ekotizim xizmatlari sohasidagi ma’lumotlar bazasini va axborotlashtirish tizimining uzluksizligini ta’minlash, shu jumladan, bu boradagi loyihalarni ishlab chiqilishida hamda amaliyotga tadbiq etilishida faol ishtirok etish;\n- yuridik va jismoniy shaxslar, shu jumladan, hususiy tadbirkorlarning buyurtmasiga asosan tabiatni muhofaza qilish va ulardan oqilona foydalanish va ekotizim xizmatlari sohasidagi normativ loyihalarini ishlab chiqish/ ishlab chiqishda qatnashish;\n- Institut bo‘limlar bilan xo‘jalik yurituvchi subyektlarning buyurtmalariga asosan shartnomalarga muvofiq tabiatni muhofaza qilishva ulardan oqilona foydalanish va ekotizim xizmatlari sohasidagi ilmiy-tadqiqot, monitoring qilishga oid texnologiyalarni ishlab chiqarish va xizmatlar (ishlar) ko‘rsatish faoliyatida qatnashish;\n- respublika va xalqaro ilmiy konferensiyalarda, yarmarkalarda, innovatsion ko‘rgazmalarda ishtirok etish, orttirilgan ko‘nikmalarni amaliyotda, shuningdek, olib boriladigan ilmiy-tadqiqot, nomativ-hujjatlar ishlab chiqishda qo‘llash;\n- shartnomalarni tuzishda amaldagi qonunchilik talablariga qat’iy rioya qilish;\n- tuzilgan shartnomalarni bajarish uchun qonun hujjatlarida nazarda tutilgan harakatlarni amalga oshirish;\n- institut rahbariyat rezolyutsiyasi bilan bo‘limga kelib tushgan barcha hujjatlarni belgilangan muddatda ijrosini ta’minlash;\n- institut rahbariyatining qonun hujjatlariga muvofiq alohida boshqa topshiriqlarini bajarish;",
+        "en": "- preparation of methodological manuals and methodologies and relevant normative legal documents in cooperation with departments of the Institute, coordinating the results of scientific research works with practical experiences on the establishment of ecosystem services and development of regulatory documents;\n- in order to improve the ecological situation in the republic, to ensure ecological safety, by coordinating the results of scientific research works with practical experiences, preparing projects of regulatory documents on ecosystem services and related to the field.\n- taking measures to bring the implementation of ecosystem services to the level of international requirements; \n- participation in the formation of long-term, medium and short-term domestic and state target programs and interstate target programs related to the system and assigned to the Institute; participation in the development of guidelines, methodology and regulatory legal documents;\n- ensuring the continuity of the database and information system in the field of nature protection and their rational use and ecosystem services, including the development and implementation of projects in this regard active participation in the implementation;\n- participation in the development/development of regulatory projects in the field of nature protection and their rational use and ecosystem services based on the order of legal entities and individuals, including private entrepreneurs;\n- the Institute cooperates with departments participation in the production and provision of services (works) of technologies related to scientific research and monitoring in the field of nature protection and their rational use and ecosystem services in accordance with the contracts based on the orders of the operating entities;\n- in republican and international scientific conferences, fairs, participation in innovative exhibitions, application of the acquired skills in practice, as well as in the development of research and documents; to carry out the actions provided for by the legislation;\n- to ensure the execution of all documents received by the department with the resolution of the institute's management within the specified period;",
+        "ru": "- подготовка методических пособий и методик и соответствующих нормативно-правовых документов совместно с подразделениями института, согласование результатов научно-исследовательских работ с практическим опытом по созданию экосистемных услуг и разработка нормативных документов;\n- в целях совершенствования экологической ситуации в республике, для обеспечения экологической безопасности, путем согласования результатов научно-исследовательских работ с практическим опытом, подготовки проектов нормативных документов по экосистемным услугам и связанных с ними мест.\n- принятие мер по доведению реализации экосистемных услуг до уровень международных требований; \n- участие в формировании долгосрочных, среднесрочных и краткосрочных внутренних и государственных целевых программ и межгосударственных целевых программ, относящихся к системе и закрепленных за институтом; участие в разработке методических указаний, методологии и нормативно-правовых документов;\n- обеспечение непрерывности базы данных и информационной системы в области охраны природы и их рационального использования и экосистемных услуг, в том числе разработка и реализация проектов, в связи с этим активное участие в реализации;\n- участие в разработке/разработке нормативных проектов в области охраны природы и их рационального использования и экосистемных услуг по заказу юридических и физических лиц, в том числе индивидуальных предпринимателей;\n- институт сотрудничает с отделами «участие в производстве и оказание услуг (работ) технологий, связанных с научными исследованиями и мониторингом в области охраны природы и их рационального использования и экосистемных услуг в соответствии с договорами на основании заказов эксплуатирующих организаций;\n- в республиканских и международных научных конференциях , ярмарках, участие в инновационных выставках, применение полученных навыков на практике, а также при разработке исследований и документов; осуществлять действия, предусмотренные законодательством;\n- обеспечить оформление всех документов, полученных кафедрой по решению руководства института в установленный срок;"
+    },
+    "faoliyat11": {
+        "uz": "Yashil o‘sish va iqlim o‘zgarishi bo‘lim",
+        "en": "Department of Green Growth and Climate Change",
+        "ru": "Департамент зеленого роста и изменения климата"
+    },
+    "Aboutfaoliyat11": {
+        "uz": "- yashillikning joriy holatini, hozirgi kunda iqlim o‘zgarishi holatlarini va keskinlashuvini keltirib chiqaruvchi omillarning ekologiya hamda atrof-muhitning buzilishiga ta’sirini tahlil qilish masalalari bo‘yicha chuqur fundamental va amaliy tadqiqotlarni o‘tkazish;\n- yashillik darajalarini kamayib ketishini oldini olishda monitoring tizimini ta’minlovchi mutlaqo yangi va samarali uslub va texnologiyalarni ishlab chiqish;\n- yashillik darajalarini kamayib ketishini oldini olishni ta’minlovchi ilg‘or xorijiy texnologiyalar va innovatsiyalarni moslashtirish va amaliyotga tatbiq etish;\n- yashil o‘sish va iqlim o‘zgarishi masalalari bo‘yicha talab va standartlarni ishlab chiqishda ishtirok etish;\n- yashil o‘sish va iqlim o‘zgarishi sohasida xorijiy ilmiy-tadqiqot muassasalari va markazlari bilan hamkorlikni rivojlantirishda, ilmiy konferensiyalarda, seminarlarda, qo‘shma tadqiqotlarda, loyihalarda, xodimlarning malakasini oshirish va ularni o‘qitishni tashkil etishda ishtirok etish;\n- xalqaro standartlar darajasida yuqori malakali kadrlar tayyorlash, ekologiya va atrof-muhitni muhofaza qilish sohasidagi oliy o‘quv muassasalari o‘qituvchilari hamda mutaxassislarini qayta tayyorlash va ularning malakasini oshirishda ishtirok etish.",
+        "en": "- conducting in-depth fundamental and practical research on the analysis of the current state of greenness, the impact of the factors causing climate change and its aggravation on ecology and environmental degradation; development of completely new and effective methods and technologies that provide a monitoring system;\n- adaptation and implementation of advanced foreign technologies and innovations that ensure the prevention of the reduction of levels of greenness;\n- green growth and climate o participation in the development of requirements and standards on climate change issues;\n- in the development of cooperation with foreign research institutions and centers in the field of green growth and climate change, in scientific conferences, seminars, joint research, projects, participation in training of highly qualified personnel at the level of international standards, retraining of teachers and specialists of higher educational institutions in the field of ecology and environmental protection and participation in training of employees ",
+        "ru": "- проведение углубленных фундаментальных и практических исследований по анализу современного состояния озеленения, влияния факторов, вызывающих изменение климата и его усугубление, на экологию и деградацию окружающей среды, разработка совершенно новых и эффективных методов и технологий, обеспечивающих систему мониторинга ;\n- адаптация и внедрение передовых зарубежных технологий и инноваций, обеспечивающих недопущение снижения уровней озеленения;\n- зеленый рост и климат o участие в разработке требований и стандартов по вопросам изменения климата;\n- в развитие сотрудничества с зарубежными научно-исследовательскими институтами и центрами в области зеленого роста и изменения климата, в научных конференциях, семинарах, совместных исследованиях, проектах, участие в подготовке высококвалифицированных кадров на уровне международных стандартов, переподготовке преподавателей и специалистов высших учебных заведений в области экологии и охраны окружающей среды и участие в обучении сотрудников."
+    },
+    
+    "maruza": {
+        "uz": "Yer resurslari muxofaza qilish labaratoriyasi",
+        "ru": "Лаборатория охраны земельных ресурсов",
+        "en": "Land Resources Conservation Laboratory"
+    },
+    "faol": {
+        "uz": "Instituti Faoliyati Tog'risida",
+        "ru": "О деятельности института",
+        "en": "About the activity of the institute"
+    },
+   
+    "sorovnoma": {
+        "uz": "Foydalanuvchilarning So'rovnomasi",
+        "ru": "Опрос пользователей",
+        "en": "User Survey"
+    },
+    "sorovnomaT": {
+        "uz": "Axborotdan foydalanuvchilarning soʻrovnomasi asosida Atrof muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti tomonidan axborotlarni taqdim etishga maʼsul shaxslar roʻyxati",
+        "ru": "Перечень лиц, ответственных за предоставление информации НИИ Экологии и природоохранных технологий на основании анкеты пользователей информации",
+        "en": "List of persons responsible for providing information by the Research Institute of Environment and Nature Protection Technologies based on the questionnaire of information users"
+    },
+    "SName1": {
+        "uz": "Kamolov Kenjaboy Abdugʻaniyevich",
+        "ru": "Камолов Кенжабой Абдуганиевич",
+        "en": "Kamolov Kenjaboy Abduganievich"
+    },
+    "SPosition1": {
+        "uz": "Boshliq oʻrinbosari",
+        "ru": "Заместитель начальника",
+        "en": "Deputy Chief"
+    },
+    "SName2": {
+        "uz": "Nazarov Fazliddin Zaylobiddinovich",
+        "ru": "Назаров Фазлиддин Зайлобиддинович",
+        "en": "Nazarov Fazliddin Zaylobiddinovich"
+    },
+    "SPosition2": {
+        "uz": "Bo'lim boshligi",
+        "ru": "Начальник отдела",
+        "en": "Head of Department"
+    },
+    "SName3": {
+        "uz": "Usmonov Alijon Anvarjon oʻgʻli",
+        "ru": "Усманов Алиджон Анваржонович",
+        "en": "Usmanov Alidjon Anvarjonovich"
+    },
+    "SPosition3": {
+        "uz": "Foydalanish va taʼmirlash tashkil etish boʻyicha bosh mutaxassis",
+        "ru": "Главный специалист по эксплуатации и ремонту",
+        "en": "Chief Specialist for Operation and Maintenance"
+    },
+    "SName4": {
+        "uz": "Xatamqulov Ilxomjon Atxamovich",
+        "ru": "Хатамкулов Илхомжон Атхамович",
+        "en": "Khatamkulov Ilhomjon Atkhamovich"
+    },
+    "SPosition4": {
+        "uz": "Bosh mexanik",
+        "ru": "Главный механик",
+        "en": "Chief Mechanic"
+    },
+    "SName5": {
+        "uz": "Kenjayev Mirzoulugʻ Mirzoxoshimovich",
+        "ru": "Кенжаев Мирзоулуг Мирзохошимович",
+        "en": "Kenjayev Mirzoulug` Mirzoxoshimovich"
+    },
+    "SPosition5": {
+        "uz": "Kadrlar boʻyicha bosh inspektor",
+        "ru": "Главный инспектор по кадрам",
+        "en": "Chief Inspector of Personnel"
+    },
+    "SName6": {
+        "uz": "Yakubov Isfandiyor Erkinovich",
+        "ru": "Якубов Исфандиёр Эркинович",
+        "en": "Yakubov Isfandiyor Erkinovich"
+    },
+    "SPosition6": {
+        "uz": "Moliya xoʻjalik boʻlimi boshligʻi",
+        "ru": "Начальник финансово-экономического отдела",
+        "en": "Head of Finance and Economy Department"
+    },
+    "SName7": {
+        "uz": "Yuldasheva Fotimaxon Maxmudjonovna",
+        "ru": "Юлдашева Фотимаксон Махмуджоновна",
+        "en": "Yuldasheva Fotimaxon Mahmudjonovna"
+    },
+    "SPosition7": {
+        "uz": "Ish yurituvchi kotiba",
+        "ru": "Исполнительный секретарь",
+        "en": "Executive Secretary"
+    },
+    "farmon": {
+        "uz": "Amaldagi",
+        "ru": "На практике",
+        "en": "In practice"
+    },
+    "farmon1": {
+        "uz": "SUV RESURSLARIDAN FOYDALANISh SOHASIDA DAVLAT BOShQARUVI VA NAZORAT TIZIMINI YaNADA TAKOMILLAShTIRISh HAMDA SUV XO‘JALIGI OB'EKTLARI XAVFSIZLIGINI TA'MINLASh ChORA-TADBIRLARI TO‘G‘RISIDA",
+        "ru": "СОВЕРШЕНСТВОВАТЬ СИСТЕМУ УПРАВЛЕНИЯ И КОНТРОЛЯ В ОБЛАСТИ ИСПОЛЬЗОВАНИЯ ВОДНЫХ РЕСУРСОВ И ОБЕСПЕЧЕНИЯ БЕЗОПАСНОСТИ ВОДНЫХ ОБЪЕКТОВ",
+        "en": "IMPROVE THE SYSTEM OF GOVERNANCE AND CONTROL IN THE FIELD OF USE OF WATER RESOURCES AND ENSURE THE SAFETY OF WATER FACILITIES"
+    },
+    "farmon2": {
+        "uz": "O‘ZBEKISTON RESPUBLIKASI SUV XO‘JALIGINI RIVOJLANTIRIShNING 2020 — 2030 YILLARGA MO‘LJALLANGAN KONSEPSIYaSINI TASDIQLASh TO‘G‘RISIDA",
+        "ru": "ОБ УТВЕРЖДЕНИИ КОНЦЕПЦИИ РАЗВИТИЯ ВОДНЫХ РЕСУРСОВ РЕСПУБЛИКИ УЗБЕКИСТАН НА 2020-2030 ГГ.",
+        "en": "ON APPROVAL OF THE CONCEPT OF WATER RESOURCES DEVELOPMENT OF THE REPUBLIC OF UZBEKISTAN FOR 2020-2030"
+    },
+    "farmon3": {
+        "uz": "QIShLOQ XO‘JALIGIDA YeR VA SUV RESURSLARIDAN SAMARALI FOYDALANISh ChORA-TADBIRLARI TO‘G‘RISIDA",
+        "ru": "О МЕРАХ ПО ЭФФЕКТИВНОМУ ИСПОЛЬЗОВАНИЮ ЗЕМЕЛЬНЫХ И ВОДНЫХ РЕСУРСОВ В СЕЛЬСКОМ ХОЗЯЙСТВЕ",
+        "en": "ON MEASURES FOR EFFICIENT USE OF LAND AND WATER RESOURCES IN AGRICULTURE"
+    },
+    "farmon4": {
+        "uz": "QIShLOQ VA SUV XO‘JALIGI DAVLAT BOShQARUVI TIZIMINI TUBDAN TAKOMILLAShTIRISh ChORA-TADBIRLARI TO‘G‘RISIDA",
+        "ru": "О МЕРАХ ПО КОНКРЕТНОМУ СОВЕРШЕНСТВОВАНИЮ СИСТЕМЫ СЕЛЬСКОГО ХОЗЯЙСТВА И УПРАВЛЕНИЯ СЕЛЬСКИМ ХОЗЯЙСТВОМ",
+        "en": "ON MEASURES TO DEFINITELY IMPROVE THE SYSTEM OF AGRICULTURE AND AGRICULTURE GOVERNANCE"
+    },
+    "normative": {
+        "uz": "Normativ Hujjatlar",
+        "ru": "Нормативная документация",
+        "en": "Normative Documents"
+    },
+    "normativeNavbar": {
+        "uz": "Tarixi",
+        "ru": "Нормативный",
+        "en": "History"
+    },
+    "normativeT": {
+        "uz": "YOSHLARGA OID DAVLAT SIYOSATI TO‘G‘RISIDA",
+        "ru": "О ГОСУДАРСТВЕННОЙ ПОЛИТИКЕ В ОТНОШЕНИИ МОЛОДЕЖИ",
+        "en": "ON THE STATE POLICY ON YOUTH"
+    },
+    "dastur": {
+        "uz": "Rejlashtirilayotgan",
+        "ru": "Being planned",
+        "en": "Планируется"
+    },
+    "dastur1": {
+        "uz": "\"2020-yil - Ilm-maʼrifat va raqamli iqtisodiyotni rivojlantirish yili\"",
+        "ru": "\"2020 - the year of education and development of the digital economy\"",
+        "en": "«2020 год – год образования и развития цифровой экономики»"
+    },
+    "Loyihalar": {
+        "uz": "Yakunlangan",
+        "ru": "Завершенный",
+        "en": "Completed"
+    },
+    "Loyiha1": {
+        "uz": "OʻZBEKISTON RESPUBLIKASI QONUNI “GIDROTEXNIKA INShOOTLARINING XAVFSIZLIGI” TOʻGʻRISIDA (Yangi tahrir)",
+        "ru": "ЗАКОН РЕСПУБЛИКИ УЗБЕКИСТАН «О БЕЗОПАСНОСТИ ГИДРОТЕХНИКИ» (Новая редакция)",
+        "en": "LAW OF THE REPUBLIC OF UZBEKISTAN ON \"SAFETY OF HYDRAULIC ENGINEERING\" (New edition)"
+    },
+    "Hujjatlar": {
+        "uz": "Loyihalar",
+        "ru": "Проекты",
+        "en": "Projects"
+    },
+    "bHaqida":{
+        "uz":"Toshkent suv ta’minoti, kanalizatsiya, gidrotexnika inshootlari va muhandislik gidrogeologiyasi (ToshNII 'VODGЕO') instituti, 1960 yilda Markaziy Osiyo arxitektura va qurilish ilmiy-tadqiqot institutida aholi punktlari sanoatining suv xo‘jaligi laboratoriyasi sifatida tashkil etilgan, 1964 yilda U 'VODGЕO' Butunittifoq ilmiy-tadqiqot institutida suv xo‘jaligi bo‘limi, 1978 yilda esa 'VODGЕO' Butunittifoq ilmiy-tadqiqot institutining Toshkent filialiga aylantirildi. 1992 yil dekabr oyidan boshlab institut O‘zbekiston Respublikasi Tabiatni muhofaza qilish davlat qo‘mitasining tarkibiy bo‘linmasi hisoblanadi. O‘zbekiston Respublikasi Prezidentining 2017 yil 21 apreldagi PQ-2915-sonli 'O‘zbekiston Respublikasi Ekologiya va atrof-muhitni muhofaza qilish davlat qo‘mitasi faoliyatini tashkil etishni ta’minlash chora-tadbirlari to‘g‘risida' gi farmonini bajarish maqsadida, shuningdek, 2017 yil 26 apreldagi 146-sonli va 17-sonli, 91-son buyruqlariga muvofiq. Guvohnomaning 2017 yil 21 avgustdagi 538681-sonli ma’lumotiga ko‘ra, O‘zbekiston Respublikasi Ekologiya va atrof-muhitni muhofaza qilish davlat qo‘mitasi, O‘zbekiston Respublikasi Ekologiya va atrof-muhitni muhofaza qilish ilmiy-tadqiqot instituti ish faoliyatini boshladi. O‘zR Davlat Ekologiya qo‘mitasi huzuridagi Ekologiya va atrof-muhitni muhofaza qilish ilmiy-tadqiqot instituti ToshITI 'SUVGЕO', 'ITLTI ATMOSFЕRA' va NPGP 'Suvni boshqarish ekologiyasi' ning huquqiy vorisi bo‘lgan. O‘zbekiston Respublikasi Vazirlar Mahkamasining 2018 yil 26 noyabrdagi 958-sonli 'Ekologiya va atrof-muhitni muhofaza qilish sohasidagi ilmiy tadqiqot bazasini yanada rivojlantirish chora-tadbirlari to‘g‘risida' gi qarorini bajarish, shuningdek, O‘zbekiston Respublikasi Ekologiya bo‘yicha davlat qo‘mitasining 2018 yil 29 noyabrdagi 417-sonli buyrug‘iga asosan va atrof-muhitni muhofaza qilish 'O‘zbekiston Respublikasi Davlat ekologiya qo‘mitasi huzuridagi Ekologiya va atrof-muhitni muhofaza qilish ilmiy-tadqiqot instituti''O‘zbekiston Respublikasi Davlat ekologiya qo‘mitasi huzuridagi Atrof-muhit va tabiatni muhofaza qilish texnologiyalar ilmiy-tadqiqot instituti' ga aylantirildi. Institut sanoat va maishiy chiqindilarni qayta ishlash va yo‘q qilish, atrof-muhitni muhofaza qilish sohasida me’yoriy-uslubiy hujjatlarni ishlab chiqish bilan shug‘ullanadi. Institut faoliyati Tabiatni muhofaza qilish davlat qo‘mitasining tabiiy resurslarni muhofaza qilish sohasidagi dolzarb va istiqboldagi vazifalarini hal qilishga qaratilgan. Hozirgi vaqtda chiqindilarni va tabiiy suvlarni toksik moddalardan, og‘ir metallardan, biogen elementlardan tozalash, suv, tuproq va tuproqlarni neft mahsulotlaridan tozalash bo‘yicha ishlanmalar eng katta qiziqish va dolzarblikdir. Institut respublikamizdagi ifloslanishni kamaytirish va sanoat, qishloq xo‘jaligi va kommunal obyektlardan tabiiy suv manbalariga quyiladigan chiqindi suvlar hajmini kamaytirishga qaratilgan.Suvni muhofaza qilish texnologiyalarini ishlab chiqish bo‘yicha asosiy tadqiqot tashkilotlaridan biri hisoblanadi, shuningdek ichimlik suvi sifatini oshirish texnologiyalarini rivojlantirish bilan bog‘liq muammolarni hal qiladi. Shahar kanalizatsiya tizimiga va ochiq suv havzalariga tushirish me’yorlariga erishish, shu bilan ochiq suv havzalari hamda atrof-muhitga antropogen bosimni kamaytirishga imkon beradigan maishiy va ishlab chiqarish chiqindi suvlari, ularning aralashmalarini tozalash va tozalashdan so‘ng qilinadigan tadbirlarni ishlab chikadi. Suv resurslarini muhofaza qilish laboratoriyasi Laboratoriya maishiy, sanoat chiqindi suvlari va ularning aralashmalarini tozalash va keyingi tozalash texnologiyasini ishlab chiqish bo‘yicha xizmatlarni taqdim etadi, bu shahar kanalizatsiya tizimiga va ochiq suv havzalariga tushirish stavkalariga erishishga imkon beradi va shu bilan ochiq suv havzalari hamda atrof muhitga antropogen bosimni pasaytiradi. Biotesting xizmatlari. ZVOS, ZEP, PDV, PDO, PDS, RSV kabi me’yoriy hujjatlarni ishlab chiqadi.\n 'Chiqindilarni qayta ishlash va utilizatsiya qilish texnologiyalarini ishlab chiqish' bo‘limi Respublikaning ilmiy ishlanmalarini, institutning tarkibiy bo‘linmasidagi olimlari va mutaxassislarni birlashtirgan, shu jumladan o‘zining ilmiy va texnologik ishlanmalarini hamda respublika iqtisodiyoti tarmoqlarida ikkilamchi xomashyodan foydalanish bo‘yicha ishlarni olib boradi. Atmosfera havosini muhofaza qilish laboratoriyasiLaboratoriya faoliyatining asosiy yo‘nalishlari:\n – sanoat korxonalaridan chiqadigan zararli moddalar chiqindilaridan havoning ifloslanishini kamaytiradigan usul va uskunalarni ishlab chiqish va loyihalash bo‘yicha tadqiqotlarni o‘tkazish vazifalarini hal qilish;\n– atmosferani ifloslantiradigan zaharli sanoat, qishloq xo‘jaligi, maishiy chiqindilarni utilizatsiya qilish, qayta ishlash va yo‘q qilish;\n– inventarizatsiya hajmini ishlab chiqish va atmosferaga ifloslantiruvchi moddalarni chiqarilishini kamaytirish bo‘yicha chora-tadbirlar, korxonalarning ekologik xavfi toifasini hisoblash.\n Bioxilma-xillikni saqlash bo‘limi Asosiy muammo shundaki, biologik xilma-xillik barqaror emas. U tabiatning barcha biologik qismlarining o‘zaro bog‘liqligi va o‘zaro bog‘liqligini tan oladi. Ko‘pincha, ushbu tushunchaning uch turi mavjud:\n– turlarning bioxilma-xilligi - barcha o‘simliklar va hayvonlarning, shu jumladan turli bakteriyalar va mikroorganizmlarning xilma-xilligi;\n– genetik xilma-xillik - turning genetik materialining xilma-xilligi va ular orasidagi bioxilma-xillik;\n– turli xil ekologik tizimlar - ekologik tizimlarning boyligi (masalan, tog‘ o‘rmonlari, cho‘llar yoki savannalar, cho‘llar va dengizlar va boshqalar).\n Ushbu uch tur birgalikda biologik xilma-xillikni tashkil qiladi. Shuning uchun ushbu darajalarning har birini saqlab qolish umuman bioxilma-xillikni saqlash uchun juda muhimdir. Yer resurslarini muhofaza qilish laboratoriyasi Asosiy vazifalar O‘zbekiston Respublikasi hududida ekologik-meliorativ holatni yaxshilash va tuproqlarning atrof-muhitini muhofaza qilishga qaratilgan. O‘zbekiston Respublikasi Prezidentining farmonlari:\n– 'O‘zbekiston Respublikasini yanada rivojlantirish bo‘yicha harakatlar strategiyasi to‘g‘risida', 2017 yil 7 fevraldagi UP-4947-sonli;\n– 'Yerlarni muhofaza qilish, ulardan oqilona foydalanish, geodeziya va kartografiya faoliyatini takomillashtirish, davlat kadastrini yuritishni tartibga solish ustidan nazoratni kuchaytirish chora-tadbirlari to‘g‘risida' 2017 yil 31 maydagi UP-5065-sonli;\n– O‘zbekiston Respublikasi Vazirlar Mahkamasining 2017 yil 19 iyuldagi 'O‘rmonni boshqarish tizimini yanada takomillashtirish chora-tadbirlari to‘g‘risida' gi qarori;\n Ushbu faoliyatga tegishli boshqa me’yoriy hujjatlar ma’lum darajada ushbu laboratoriyaning ilmiy tadqiqotlari natijalariga xizmat qiladi. Institut o‘z faoliyati davomida 2000 dan ortiq ilmiy-tadqiqot ishlarini yakunladi, ularning aksariyati O‘zbekiston Respublikasi, ittifoq respublikalari, hozirgi MDH davlatlari, shuningdek chet ellarda (Germaniya, Estoniya) xalq xo‘jaligi obyektlarini loyihalash va qurishda ishlatilgan. Institut 2002 yilda Oliy Majlisning 8-sessiyasida qabul qilingan 'Chiqindilar to‘g‘risida' gi O‘zbekiston Respublikasi Qonunini ishlab chiqishda ishtirok etdi, shuningdek 25 ta me’yoriy-uslubiy hujjatlar ishlab chiqildi. Institutning Xalqaro forumlar, ko‘rgazmalar va tanlovlarda namoyish etgan ishlari quyidagilar bilan taqdirlandi:\n– SSSR va Uz SSR VDNX ko‘rgazmalarida kumush medallar, 1 va 2 darajali diplomlar olingan;\n– Xalqaro yangi texnologiyalar va mahsulotlar ixtirolari ko‘rgazmasida bitta kumush va ikkita bronza medal olindi (Jeneva, Shveysariya);\n – Sog‘liqni saqlash va atrof-muhit bo‘yicha 1-Xalqaro Kongressda (Manila. Filippin) ikkita oltin medal olindi;\n– eng yaxshi ixtiro uchun O‘zR Patent idorasi tanlovlarida 1 va 3 o‘rinlar va sovrinlar olindi;\n Institut xodimlari bir qator xalqaro dasturlarda qatnashdilar. O‘zbekiston Respublikasi mustaqilligining 29 yilida institut tomonidan 300 dan ortiq ilmiy loyihalar amalga oshirildi, ularning asosiylari Buxoro neftni qayta ishlash zavodi, Sho‘rtan gaz-kimyo majmuasi, Asaka avtomobil zavodi, shuningdek Nukus, Urganch, Qoraulbazar shaharlari suv ta’minoti tizimlarida amalga oshirildi. 2004-2017 yillarda institut rejalashtirilgan tadbirlar doirasida O‘zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Fan va texnologiyalarni muvofiqlashtirish va rivojlantirish qo‘mitasining Davlat ilmiy-texnik dasturi (keyingi o‘rinlarda O‘zbekiston Respublikasi Fan va texnologiyalar agentligi) bo‘yicha ilmiy-tadqiqot ishlarini olib bordi. Hammasi bo‘lib 12 ta grant, 8 ta innovatsion loyiha amalga oshirildi, institut 29 ta ishni yakunladi, ular Respublika tabiatni muhofaza qilish jamg‘armasi mablag‘lari hisobidan moliyalashtirildi. Koreyaning 'KOICA' xalqaro hamkorlik agentligi bilan 'O‘zbekiston Respublikasida qayta ishlatish uchun qishloq xo‘jaligi chiqindi suvlarining sho‘rlanish darajasini pasaytirish texnologiyalarini ishlab chiqish' qo‘shma loyihasi amalga oshirildi.Izlanishlar va tajriba-konstruktorlik ishlari natijasida qurilmalarning prototiplari ishlab chiqildi, texnologiyani takomillashtirish, qimmatbaho materiallarni qimmatbaho mahsulotlarni olish uchun qimmatbaho materiallarni mahalliy va chuqur qayta ishlash bilan almashtirish: Ilmiy-tadqiqot ishlari natijalariga ko‘ra 250 mualliflik guvohnomalari, GDR patentlari (Shimoliy Berlindagi tozalash inshootlarini rekonstruksiya qilish), Chexoslovakiya, Vengriya olingan. 1000 dan ortiq ilmiy maqolalar mahalliy va xorijiy nashrlarda nashr etilgan, 6 ta O‘zbekiston Respublikasining patentlari olingan . 2016-2018 yillarda institut davlat grantlari asosida 1 ta fundamental va 6 ta amaliy loyihalarni yakunladi. Loyihalar doirasida 50 dan ortiq ilmiy maqola va tezislar nashr etildi, xodimlar mahalliy va xalqaro konferensiyalarda ma’ruzalar bilan qatnashdilar. Foydali model uchun ariza O‘zbekiston Respublikasi Patent idorasiga ro‘yxatdan o‘tkazildi. FAP 20180159-son. Qattiq chiqindilarning organik qismini termal va termokimyoviy qayta ishlash uchun o‘rnatish (Piroliz o‘rnatish). Institut O‘zbekiston Respublikasi Fan va texnologiyalarni rivojlantirishni muvofiqlashtirish qo‘mitasi (keyingi o‘rinlarda O‘zbekiston Respublikasi Fan va texnologiyalar agentligi) bilan tuzilgan shartnomalar bo‘yicha davlat ilmiy-texnik dasturlarini amalga oshirishda ishtirok etdi.",
+        "ru":"Ташкентский институт водоснабжения, канализации, гидротехнического строительства и инженерной гидрогеологии (ТошНИИ «ВОДГЕО»), с начала 1960-х годов лабораторию водного хозяйства сельской промышленной застройки при Среднеазиатском научно-исследовательском архитектурно-строительном институте, а в 1964 г. преобразовано в 'ВОДГЕО' Одель водного хозяйства при Всесоюзном научно-исследовательском институте, а в 1978 г. 'ВОДГЕО' преобразовано в Ташкентский филиал Всесоюзного научно-исследовательского института. В декабре 1992 года институт стал членом Государственного комитета Республики Узбекистан по охране природы. и реализации постановления Президента Республики Узбекистан от 21 апреля 2017 года №ПП-2915 «О мерах по обеспечению организации деятельности Государственного комитета экологии и охраны окружающей среды Республики Узбекистан», а также в соответствии с приказами №146 и №17, №91 от 26.04.2017. Согласие информации справки № 538681 от 21 августа 2017 года, Государственный комитет Республики Узбекистан по экологии и охране окружающей среды в своей работе Научно-исследовательский институт экологии и охраны окружающей среды Республики Узбекистан. Научно-исследовательский институт экологии и охраны окружающей среды Государственного комитета по экологии Республики Узбекистан является правопреемником ТошИТИ «СУВГЕО», «ИТЛТИ АТМОСФЕРА» и НПГП «Экология водного хозяйства». Реализация постановления Кабинета Министров Республики Узбекистан от 26 ноября 2018 года № 958 «О меракс по дальнейшему развитию научно-исследовательской базы в области экологии и охраны окружающей среды», а также Республики Узбекистан по экологии Согласованному приказу Государственного комитета № № 417 от 29 ноября 2018 года по охране окружающей среды 'Научно-исследовательский институт экологии и охраны окружающей среды Комитета по охране окружающей среды Государственного комитета Республики по экологии' Институт занимается разработкой нормативно-методических документов в области переработки и использования промышленных и бытовых отходов, охраны окружающей среды. Деятельность института направлена ​​на решение текущих и перспективных задач Госкомприроды в области охраны природных ресурсов. В настоящее время наибольший интерес и актуальность представляют разработки по чистоте точных и природных вод от токсичных веществ, тяжелых металлов, биогенных элементов, чистой воды, почвы и почвы от нефтепродуктов. Институт направлен на снижение загрязнения в нашей республике и уменьшение количества сбросов точных вод промышленных, сельскохозяйственных и коммунальных объектов в природные водные источники, решает задачи. В городе разрабатываются мероприятия по чистоте и доочистке хозяйственно-бытовых и промышленных сточныx вод, ix смесей, для достижения нормативных сбросов в канализацию и открытые воды, что позволяет низить технологическую. Лаборатория оказывает услуги по охране водных ресурсов и разработке технологий очистки и очистки хозяйственно-бытовых и производственных сточных вод и сточных вод, позволяющих снизить норму городских сточных вод и открытых водоемов, а также производство воды и открытых водоемов. антропогенная нагрузка на воду и окружающую среду. Метод биотестирования. Разрабатывает нормативные документы, такие как ЗВОС, ЗЭП, ПДВ, ПДО, ПДС, РСВ. прочее, осуществляет свои научно-технические разработки и работы по использованию вторичного сырья в отраслях экономики республики. Лаборатория охраны атмосферного воздуха Основные направления деятельности лаборатории:\n - решение задачи по проведению исследований и разработок приборов, методов и оборудования, создающих подогрев атмосферного воздуха, вибрации вредных веществ промышленных предприятий; и уничтожение бытовых отходов ;\n– мероприятия по разработке инвентаризации и снятию выбросов загрязняющих веществ в атмосферу, расчет категории экологического риска предприятий.\n Отдел сохранения биоразнообразия Основная проблема заключается в том, что биоразнообразуется необразуется. Он признает взаимосвязь и взаимосвязь всех биологических частей природы. Часто выделяют три вида этого понятия:\n– видовое биоразнообразие – разнообразие сэш растений и животных, включая различные бактерии и микроорганизмы; \n– различные экологические системы – богатая экологическая система (например, горные леса, пустыни и саванны, пустыни и моря и др.). Следовательно, поддержка кай",
+        "en":"Tashkent Institute of Water Supply, Sewerage, Hydrotechnical Structures and Engineering Hydrogeology (ToshNII 'VODGEO'), was established in 1960 as a laboratory of water management of the settlement industry at the Central Asian Research Institute of Architecture and Construction, in 1964 it became 'VODGEO' The department of water management at the All-Union Scientific Research Institute, and in 1978 'VODGEO' was transformed into the Tashkent branch of the All-Union Scientific Research Institute. Since December 1992, the institute has been a constituent unit of the State Committee for Nature Protection of the Republic of Uzbekistan. In order to fulfill the decree of the President of the Republic of Uzbekistan dated April 21, 2017 No. PQ-2915 'On measures to ensure the organization of the activities of the State Committee for Ecology and Environmental Protection of the Republic of Uzbekistan', as well as in accordance with orders No. 146 and No. 17, No. 91 dated April 26, 2017. According to the information of the certificate No. 538681 of August 21, 2017, the State Committee for Ecology and Environmental Protection of the Republic of Uzbekistan, the Research Institute of Ecology and Environmental Protection of the Republic of Uzbekistan started its work. Scientific Research Institute of Ecology and Environmental Protection under the State Ecology Committee of the Republic of Uzbekistan was the legal successor of ToshITI 'SUVGEO', 'ITLTI ATMOSFERA' and NPGP 'Ecology of Water Management'. Implementation of the decision of the Cabinet of Ministers of the Republic of Uzbekistan dated November 26, 2018 No. 958 'On measures to further develop the scientific research base in the field of ecology and environmental protection', as well as the Republic of Uzbekistan on Ecology According to the order of the state committee No. 417 dated November 29, 2018 and environmental protection 'Research Institute of Ecology and Environmental Protection under the State Ecology Committee of the Republic of Uzbekistan' State of the Republic of Uzbekistan It was transformed into the Scientific-Research Institute of Environment and Nature Protection Technologies under the Ecology Committee. The institute is engaged in the development of normative and methodological documents in the field of processing and disposal of industrial and household waste, environmental protection. The activity of the Institute is aimed at solving the current and prospective tasks of the State Committee for Nature Protection in the field of natural resources protection. At present, developments in cleaning waste and natural waters from toxic substances, heavy metals, biogenic elements, cleaning water, soil and soil from oil products are of the greatest interest and relevance. The institute is aimed at reducing pollution in our republic and reducing the amount of waste water discharged from industrial, agricultural and communal facilities into natural water sources. solves problems. The city develops measures for the treatment and post-treatment of domestic and industrial waste water, their mixtures, to achieve standards for discharge into the sewage system and open water bodies, thereby reducing the anthropogenic pressure on open water bodies and the environment. Water Resources Protection Laboratory The laboratory provides services in the development of treatment and post-treatment technology for domestic and industrial waste water and their mixtures, which allows to achieve discharge rates to the municipal sewage system and open water bodies, thereby reducing the impact on open water bodies and the environment. reduces anthropogenic pressure. Biotesting services. Develops regulatory documents such as ZVOS, ZEP, PDV, PDO, PDS, RSV.\n The 'Development of waste processing and disposal technologies' department unites the scientific developments of the Republic, scientists and specialists from the structural division of the institute. among other things, it carries out its scientific and technological developments and works on the use of secondary raw materials in the sectors of the republic's economy. Atmospheric air protection laboratory. The main directions of the laboratory's activity: \n - solving the tasks of carrying out research on the development and design of methods and equipment that reduce air pollution from the emissions of harmful substances from industrial enterprises; \n - toxic industry that pollutes the atmosphere, rural areas economy, disposal, processing and destruction of household waste;\n– measures to develop the inventory and reduce the emission of pollutants into the atmosphere, calculation of the environmental risk category of enterprises.\n \n Department of Biodiversity Conservation The main problem is that biodiversity is not sustainable. It recognizes the interconnectedness and interconnectedness of all biological parts of nature. Often, there are three types of this concept:\n– species biodiversity - the diversity of all plants and animals, including different bacteria and microorganisms;\n– genetic diversity - the diversity of the genetic material of a species and biodiversity between them;\n– different ecological systems - the richness of ecological systems (for example, mountain forests, deserts or savannas, deserts and seas, etc.).\n Together, these three types of biodiversity constitutes diversity. Therefore, maintaining each of these levels is critical to maintaining biodiversity as a whole. The main tasks of the laboratory for the protection of land resources are aimed at improving the ecological and amelioration situation and protecting the soil environment in the territory of the Republic of Uzbekistan. Decrees of the President of the Republic of Uzbekistan:\n– 'On the strategy of actions for the further development of the Republic of Uzbekistan', No. UP-4947 of February 7, 2017;\n– 'Protection of lands, their rational use', on measures to improve the activities of geodesy and cartography, and to strengthen control over the regulation of state cadastre administration' dated May 31, 2017 No. UP-5065; Decision on measures to further improve the forest management system;\n Other normative documents related to this activity serve to some extent the results of scientific research of this laboratory. During its activity, the Institute completed more than 2,000 scientific research works, most of which were used in the design and construction of national economy objects in the Republic of Uzbekistan, the Union Republics, the current CIS countries, as well as abroad (Germany, Estonia). The Institute participated in the development of the Law of the Republic of Uzbekistan 'On Waste', adopted at the 8th session of the Oliy Majlis in 2002, and 25 regulatory and methodological documents were developed. The institute's works presented at international forums, exhibitions and competitions were awarded as follows:\n– silver medals, 1st and 2nd degree diplomas were received at the VDNX exhibitions of the USSR and Uz SSR;\n– one at the International Exhibition of New Technologies and Product Inventions received silver and two bronze medals (Geneva, Switzerland);\n – received two gold medals at the 1st International Congress on Health and Environment (Manila, Philippines);\n– OZR for the best invention The 1st and 3rd places and prizes were taken in the competitions of the Patent Office; employees of the Institute participated in a number of international programs. In the 29 years of the independence of the Republic of Uzbekistan, the institute implemented more than 300 scientific projects, the main of which were implemented in the Bukhara oil refinery, Shu'rtan gas-chemical complex, Asaka automobile plant, as well as in the water supply systems of the cities of Nukus, Urganch, Karaulbazar. increased. In 2004-2017, within the framework of the planned activities, the institute carried out scientific and research work under the State Scientific and Technical Program of the Science and Technology Coordination and Development Committee under the Cabinet of Ministers of the Republic of Uzbekistan (hereinafter referred to as the Science and Technology Agency of the Republic of Uzbekistan) took In total, 12 grants, 8 innovative projects were implemented, the institute completed 29 works, which were financed from the funds of the Republican Nature Protection Fund. The joint project 'Development of technologies for reducing the salinity level of agricultural waste water for reuse in the Republic of Uzbekistan' with the international cooperation agency of Korea 'KOICA' was implemented. improvement of technology, replacement of valuable materials with local and deep processing of valuable materials to obtain valuable products: 250 copyright certificates, patents of the GDR (reconstruction of treatment plants in North Berlin), Czechoslovakia, Hungary were obtained according to the results of scientific research. More than 1000 scientific articles were published in local and foreign publications, 6 patents of the Republic of Uzbekistan were obtained. In 2016-2018, the institute completed 1 fundamental and 6 practical projects based on state grants. More than 50 scientific articles and theses were published as part of the projects, employees participated in local and international conferences with lectures. The application for the utility model was registered with the Patent Office of the Republic of Uzbekistan. FAP No. 20180159. Installation of organic part of solid waste for thermal and thermochemical processing (Pyrolysis installation). The Institute participated in the implementation of state scientific and technical programs under the agreements concluded with the Science and Technology Development Coordinating Committee of the Republic of Uzbekistan (hereinafter referred to as the Science and Technology Agency of the Republic of Uzbekistan)."
+    },
+    "FooterAddress": {
+        "uz": " Farg’ona viloyati, Bag’dod tumani, Bag’dod shaxarchasi 25-uy.",
+        "ru": "Ферганская область, Багдадский район, город Багдад, дом 25.",
+        "en": "Fergana region, Baghdad district, Baghdad town, house 25"
+    },
+    "bHaqidaTitle2":{
+        "uz": "Toshkent suv ta’minoti, kanalizatsiya, gidrotexnika inshootlari va muhandislik gidrogeologiyasi (ToshNII 'VODGЕO') instituti,",
+        "ru": "Ташкентский институт водоснабжения, канализации, гидротехнического строительства и инженерной гидрогеологии (ТошНИИ «ВОДГЕО»)",
+        "en": "Tashkent Institute of Water Supply, Sewerage, Hydrotechnical Structures and Engineering Hydrogeology (ToshNII 'VODGEO')"
+    },
+    "iFraganus": {
+        "uz": "Barcha huquqlar himoyalangan 2021-2022",
+        "ru": "Все права защищены 2021-2022",
+        "en": "All rights reserved 2021-2022"
+    },
+    "Interaktiv": {
+        "uz": "Bog'lanish",
+        "ru": "Связь",
+        "en": "Contact"
+    },
+    "Alert": {
+        "uz": "So'rovingiz qabul qilindi !",
+        "ru": "Ваш запрос принят!",
+        "en": "Your request has been accepted!"
+    },
+    "AlertNot": {
+        "uz": "So'rovingiz qabul qilinmadi !",
+        "ru": "Ваш запрос не принят!",
+        "en": "Your request has not been accepted!"
+    },
+    "Jismoniy": {
+        "uz": "Jismoniy Va Yuridik Shaxslar Murojati",
+        "ru": "Обращение физических и юридических лиц",
+        "en": "Appeal of Individuals and Legal Entities"
+    },
+    "JismoniyT": {
+        "uz": "Atrof-muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti xuzuridagi jismoniy va yuridik shaxslarni",
+        "ru": "Физические и юридические лица в присутствии НИИ экологических и природоохранных технологий",
+        "en": "Individuals and legal entities in the presence of the Scientific-Research Institute of Environmental and Nature Protection Technologies"
+    },          
+    "JismoniyJ": {
+        "uz": "Qabul qilish jadvali",
+        "ru": "График приема",
+        "en": "Reception Schedule"
+    },
+    "HeadDepartment": {
+        "uz": "Instituti  boshligi",
+        "ru": "Начальник институт",
+        "en": "Head of Institute"
+    },
+    "JismoniyJ1": {
+        "name": {
+            "uz": "Xoshimov Ilxomjon Inomovich",
+            "ru": "Хошимов Илхомжон Иномович",
+            "en": "Hoshimov Ilhomjon Inomovich"
+        },
+        "day": {
+            "uz": "Xaftani  dushanba juma kuni",
+            "ru": "Неделя с понедельника по пятницу",
+            "en": "The week is Monday through Friday"
+        },
+        "time": {
+            "uz": "Soat 8:00 dan 10:00 gacha",
+            "ru": "с 8:00 до 10:00",
+            "en": "8:00 a.m. to 10:00 p.m."
+        }
+    },
+    "JismoniyJ2": {
+        "name": {
+            "uz": "Kamolov Kenjaboy Abdug‘anievich",
+            "ru": "Камолов Кенжабой Абдуганиевич",
+            "en": "Kamolov Kenjaboy Abduganievich"
+        },
+        "day": {
+            "uz": "Xaftani  seshanba  payshanba  kuni",
+            "ru": "Неделя со вторника по четверг",
+            "en": "The week is Tuesday through Thursday"
+        },
+        "time": {
+            "uz": "Soat 8:00 dan 10:30 gacha",
+            "ru": "с 8:00 до 10:30",
+            "en": "8:00 a.m. to 10:30 p.m."
+        }
+    },
+    "HeadDepartmentDeputy": {
+        "uz": "Boshliq  o‘rinbosari",
+        "ru": "Заместитель начальника",
+        "en": "Deputy Chief"
+    },
+    "OQonun": {
+        "uz": "O‘zbekiston Respublikasining Qonuni",
+        "ru": "Закон Республики Узбекистан",
+        "en": "Law of the Republic of Uzbekistan"
+    },
+    "OQonunT": {
+        "uz": "«Jismoniy va yuridik shaxslarning murojaatlari to‘g‘risida»gi O‘zbekiston Respublikasi qonuniga o‘zgartish va qo‘shimchalar kiritish haqida",
+        "ru": "О внесении изменений и дополнений в Закон Республики Узбекистан \"Об обращениях физических и юридических лиц\"",
+        "en": "On amendments and additions to the Law of the Republic of Uzbekistan \"On appeals of individuals and legal entities\""
+    },
+    "OQonunText": {
+        "uz": "Qonunchilik palatasi tomonidan 2017 yil 15 avgustda qabul qilingan \n Senat tomonidan 2017 yil 24 avgustda maʼqullangan \n 1-modda. Oʻzbekiston Respublikasining 2014 yil 3 dekabrda qabul qilingan “Jismoniy va yuridik shaxslarning murojaatlari toʻgʻrisida”gi OʻRQ-378-sonli Qonuniga (Oʻzbekiston Respublikasi Oliy Majlisi palatalarining Axborotnomasi, 2014 yil, № 12, 340-modda) oʻzgartish va qoʻshimchalar kiritilib, uning yangi tahriri tasdiqlansin (ilova qilinadi). \n 2-modda. Oʻzbekiston Respublikasi Vazirlar Mahkamasi: \n hukumat qarorlarini ushbu Qonunga muvofiqlashtirsin; \n  davlat boshqaruvi organlari ushbu Qonunga zid boʻlgan oʻz normativ-huquqiy hujjatlarini qayta koʻrib chiqishlari va bekor qilishlarini taʼminlasin; \n ushbu Qonunning ijrosini, ijrochilarga yetkazilishini hamda mohiyati va ahamiyati aholi oʻrtasida tushuntirilishini taʼminlasin. \n 3-modda. Ushbu Qonun rasmiy eʼlon qilingan kundan eʼtiboran kuchga kiradi. \n Ushbu Qonun “Xalq soʻzi” gazetasining 2017 yil 12 sentyabrdagi 182 (6876)-sonida eʼlon qilingan. \n Oʻzbekiston Respublikasining Prezidenti Sh. MIRZIYOYEV \n Toshkent sh., \n 2017 yil 11 sentabr, \n OʻRQ-445-son \n Oʻzbekiston Respublikasining Qonuni \n Jismoniy va yuridik shaxslarning murojaatlari toʻgʻrisida \n (yangi tahriri) \n 1-bob. Umumiy qoidalar \n 1-modda. Ushbu Qonunning maqsadi va qoʻllanilish sohasi \n Ushbu Qonunning maqsadi davlat organlari va davlat muassasalariga (bundan buyon matnda davlat organlari deb yuritiladi), shuningdek ularning mansabdor shaxslariga jismoniy va yuridik shaxslarning murojaatlari (bundan buyon matnda murojaatlar deb yuritiladi) sohasidagi munosabatlarni tartibga solishdan iborat. \n Qonunning amal qilishi davlat ishtirokidagi tashkilotlarga va fuqarolarning oʻzini oʻzi boshqarish organlariga (bundan buyon matnda tashkilotlar deb yuritiladi) nisbatan ham tatbiq etiladi. \n Ushbu Qonunning amal qilishi: \n Oldingi tahrirga qarang. \n koʻrib chiqish tartibi maʼmuriy javobgarlik toʻgʻrisidagi, fuqarolik protsessual, jinoyat-protsessual, jinoyat-ijroiya, iqtisodiy protsessual qonun hujjatlari va boshqa qonunlar bilan belgilangan murojaatlarga; \n (1-moddaning uchinchi qismi ikkinchi xatboshisi Oʻzbekiston Respublikasining 2018 yil 29 yanvarrdagi OʻRQ-463-sonli Qonuni tahririda — Qonun hujjatlari maʼlumotlari milliy bazasi, 30 01.2018 y., 03/18/463/0634-son — 2018 yil 1 apreldan kuchga kiradi) \n davlat organlarining, shuningdek ular tarkibiy boʻlinmalarining oʻzaro yozishmalariga nisbatan tatbiq etilmaydi. \n 2-modda. Murojaatlar toʻgʻrisidagi qonun hujjatlari \n  Murojaatlar toʻgʻrisidagi qonun hujjatlari ushbu Qonun va boshqa qonun hujjatlaridan iboratdir. 3-modda. Asosiy tushunchalar \n Ushbu Qonunda quyidagi asosiy tushunchalar qoʻllaniladi: \n ariza — huquqlarni, erkinliklarni va qonuniy manfaatlarni amalga oshirishda yordam koʻrsatish toʻgʻrisidagi iltimos bayon etilgan murojaat; \n taklif — davlat va jamiyat faoliyatini takomillashtirishga doir tavsiyalarni oʻz ichiga olgan murojaat; \n  shikoyat — buzilgan huquqlarni, erkinliklarni tiklash va qonuniy manfaatlarni himoya qilish toʻgʻrisidagi talab bayon etilgan murojaat; \n elektron murojaat — belgilangan tartibda axborot-kommunikatsiya texnologiyalari vositasida berilgan, shu jumladan davlat organining, tashkilotning rasmiy veb-saytiga joylashtirilgan murojaat, real vaqt rejimida axborot-kommunikatsiya texnologiyalaridan foydalangan holda berilgan ogʻzaki murojaatlar bundan mustasno; \n takroriy murojaat — ayni bir jismoniy yoki yuridik shaxsdan kelib tushgan, uning avvalgi murojaati yuzasidan qabul qilingan qaror ustidan shikoyat qilinayotgan yoki boshqacha tarzda norozilik bildirilayotgan, shuningdek, agar takroriy murojaat kelib tushgan paytga kelib qonun hujjatlarida belgilangan koʻrib chiqish muddati tugagan boʻlsa, ilgarigi murojaati oʻz vaqtida koʻrib chiqilmaganligi toʻgʻrisida xabar qilinayotgan murojaat; \n anonim murojaat — jismoniy shaxsning familiyasi (ismi, otasining ismi), uning yashash joyi toʻgʻrisidagi maʼlumotlar yoki yuridik shaxsning toʻliq nomi, uning joylashgan yeri (pochta manzili) toʻgʻrisidagi maʼlumotlar koʻrsatilmagan yoxud ular haqida yolgʻon maʼlumotlar koʻrsatilgan murojaat, shuningdek uni identifikatsiya qilish imkoniyatini bermaydigan elektron murojaat yoxud imzo bilan tasdiqlanmagan yozma murojaat; ",
+        "ru": "Принят Законодательной палатой 15 августа 2017 г. \n Одобрен Сенатом 24 августа 2017 г. \n Статья 1. Утвердить изменения и дополнения в Закон Республики Узбекистан «Об обращениях физических и юридических лиц» № ЗРУ-378 от 3 декабря 2014 года (Ведомости палат Олий Мажлиса Республики Узбекистан, 2014 г., № 12 статьи 340) и утвердить его в новой редакции (применяется). \n Статья 2. Кабинету Министров Республики Узбекистан: \n привести решения правительства в соответствие с настоящим Законом; \n Обеспечить пересмотр и отмену органами государственного управления их нормативных правовых актов, противоречащих настоящему Закону; \n Обеспечить исполнение настоящего Закона, доведение его до исполнителей и разъяснение его сути и значения общественности. \n Статья 3. Настоящий Закон вступает в силу со дня его официального опубликования. \n Настоящий Закон опубликован в газете «Народное слово» от 12 сентября 2017 года № 182 (6876). \n Президент Республики Узбекистан Ш. МИРЗИЁЕВ \n Ташкент, \n 11 сентября 2017 года, \n Закон Республики Узбекистан № ЗРУ-445 \n Об обращениях физических и юридических лиц (новая редакция) \n Глава 1. Общие положения \n Статья 1. Цель и сфера действия настоящего Закона Целью настоящего Закона является регулирование отношений между государственными органами и публичными учреждениями (далее - государственные органы), а также их должностными лицами в сфере обращений физических и юридических лиц (далее - как призывы). \n Закон распространяется также на государственные организации и органы самоуправления граждан (далее - организации). \n Применение настоящего Закона: \n См. предыдущую редакцию. Порядок рассмотрения обращений определяется законодательством об административной ответственности, гражданско-процессуальным, уголовно-процессуальным, уголовно-исполнительным, хозяйственным процессуальным и другими законами; \n (Пункт 2 части третьей статьи 1 в редакции Закона Республики Узбекистан от 29 января 2018 года № ЗРУ-463 - Национальная база данных законодательства, 30 01.2018, № 03/18/463/0634 - действует с 1 апреля 2018 года) не распространяется на переписку между государственными органами и их подразделениями. \n Статья 2. Законодательство об апелляциях \n Законодательство об апелляциях состоит из настоящего Закона и других законодательных актов. Статья 3 Основные понятия \n В настоящем Законе используются следующие основные понятия: \n заявление - заявление о содействии в осуществлении прав, свобод и законных интересов; \nпредложение - заявление, содержащее рекомендации по совершенствованию функционирования государства и общества; \n Жалоба - исковое заявление о восстановлении нарушенных прав, свобод и защите законных интересов; \n электронное заявление - заявление, поданное в установленном порядке с использованием информационно-коммуникационных технологий, в том числе заявление, размещенное на официальном сайте государственного органа, организации, за исключением устных заявлений, поданных в режиме реального времени с использованием информационно-коммуникационных технологий; \n Повторное обращение - предыдущее обращение того же физического или юридического лица, в котором обжалуется или иным образом опротестовывается ",
+        "en": "Adopted by the Legislative Chamber on August 15, 2017 \n Approved by the Senate on August 24, 2017 \n Article 1. To approve amendments and additions to the Law of the Republic of Uzbekistan \"On appeals of individuals and legal entities\" No. ZRU-378 of December 3, 2014 (Bulletin of the Chambers of the Oliy Majlis of the Republic of Uzbekistan, 2014, № 12, Articles 340) and approve its new edition (to be applied). \n Article 2. The Cabinet of Ministers of the Republic of Uzbekistan shall: \n bring government decisions into compliance with this Law; \n Ensure that public administration bodies review and repeal their normative legal acts that contradict this Law; \n Ensure that this Law is enforced, communicated to the executors, and that its essence and significance are explained to the public. \n Article 3. This Law shall enter into force on the day of its official publication. \n This Law was published in the newspaper \"People's Word\" on September 12, 2017, No. 182 (6876). \n President of the Republic of Uzbekistan Sh. MIRZIYOEV \n Tashkent, \n September 11, 2017, \n Law of the Republic of Uzbekistan No. ZRU-445 \n On appeals of individuals and legal entities (new edition) \n Chapter 1. General Provisions \n Article 1. Purpose and scope of this Law The purpose of this Law is to regulate the relations between state bodies and public institutions (hereinafter referred to as public bodies), as well as their officials in the field of appeals of individuals and legal entities (hereinafter referred to as appeals). \n The law also applies to state-owned organizations and citizens' self-government bodies (hereinafter referred to as organizations). \n Application of this Law: \n See previous edition. The procedure for consideration of appeals is determined by the legislation on administrative liability, civil procedure, criminal procedure, criminal executive, economic procedure and other laws; \n (Paragraph 2 of the third part of Article 1 as amended by the Law of the Republic of Uzbekistan No. ZRU-463 of January 29, 2018 - National Database of Legislation, 30 01.2018, No. 03/18/463/0634 - effective from April 1, 2018 ) does not apply to correspondence between government agencies and their subdivisions. \n Article 2. Legislation on Appeals \n Legislation on appeals consists of this Law and other legislation. Article 3 Basic concepts \n The following basic concepts are used in this Law: \n application - an application for assistance in the exercise of rights, freedoms and legitimate interests; \n proposal - a statement containing recommendations for improving the functioning of the state and society; \n Complaint - a statement of claim for the restoration of violated rights, freedoms and protection"
+    },
+    "murojatMatni": {
+        "uz": "Murojaat matni",
+        "ru": "Обратитесь к тексту",
+        "en": "Refer to the text"
+    },
+    "murojatWeb": {
+        "uz": "Web-sayt orqali murojaat shakli",
+        "ru": "Форма заявки через сайт",
+        "en": "Application form through the website"
+    },
+    "fio": {
+        "uz": "F.I.O",
+        "ru": "Ф.И.О",
+        "en": "Full Name"
+    },
+    "fioI": {
+        "uz": "To’liq ism-sharfingizni kiriting ...",
+        "ru": "Введите свое полное имя ...",
+        "en": "Enter your full name ..."
+    },
+    "HDate": {
+        "uz": "Tug’ilgan sanangiz",
+        "ru": "Твоя дата рождения",
+        "en": "Your date of birth"
+    },
+    "HDateI": {
+        "uz": "Tug’ilgan sanangizni kiriting ...",
+        "ru": "Введите вашу дату рождения ...",
+        "en": "Enter your date of birth ..."
+    },
+    "Passport": {
+        "uz": "Pasport ma’lumotingiz",
+        "ru": "Ваши паспортные данные",
+        "en": "Your passport information"
+    },
+    "PassportI": {
+        "uz": "Pasport ma'lumotingizni kiriting ...",
+        "ru": "Введите паспортные данные...",
+        "en": "Enter your passport information ..."
+    },
+    "AddressI": {
+        "uz": "Pochta manzilingizni kiriting ...",
+        "ru": "Введите свой почтовый адрес...",
+        "en": "Enter your mailing address ..."
+    },
+    "ZIPCode": {
+        "uz": "Pochta indekslari",
+        "ru": "почтовый индекс",
+        "en": "ZIP Code"
+    },
+    "ZIPCodeI": {
+        "uz": "Pochta indeksini kiriting ...",
+        "ru": "Введите почтовый индекс ...",
+        "en": "Enter zip code ..."
+    },
+    "Email": {
+        "uz": "Elektron pochta",
+        "ru": "Эл. адрес",
+        "en": "Email"
+    },
+    "EmailI": {
+        "uz": "Elektron pochta manzilingizni kiriting ...",
+        "ru": "Введите ваш адрес электронной почты ...",
+        "en": "Enter your email address ..."
+    },
+    "PhoneNumber": {
+        "uz": "Tel. raqam",
+        "ru": "Tелефонный номер",
+        "en": "Phone number"
+    },
+    "PhoneNumberI": {
+        "uz": "Telefon raqamingizni kiriting ...",
+        "ru": "Введите свой номер телефона ...",
+        "en": "Enter your phone number ..."
+    },
+    "Subyekt": {
+        "uz": "Subyekt turi",
+        "ru": "Тип темы",
+        "en": "Subject type"
+    },
+    "jismoniyShaxs": {
+        "uz": "Jismoniy shaxs",
+        "ru": "Индивидуальный",
+        "en": "Individual"
+    },
+    "yuridikShaxs": {
+        "uz": "Yuridik shaxs",
+        "ru": "Юридическое лицо",
+        "en": "Legal entity"
+    },
+    "qisqaMurojaat": {
+        "uz": "Qisqacha murojat matni",
+        "ru": "Краткий справочный текст",
+        "en": "Brief reference text"
+    },
+    "qisqaMurojaatI": {
+        "uz": "Qisqacha murojat matni kiriting...'",
+        "ru": "Введите краткий справочный текст...",
+        "en": "Enter a short reference text ..."
+    },
+    "send": {
+        "uz": "Jo'natish",
+        "ru": "Отправлять",
+        "en": "Send"
+    },
+    "tarjimaiy": {
+        "uz": "Tarjimayi Hol",
+        "ru": "Автобиография",
+        "en": "Autobiography"
+    },
+    "tarjimaiyTitle": {
+        "uz": "Bo`sh ish o`rinlariga tarjimayi hol jo`natish",
+        "ru": "Отправка резюме на вакансии",
+        "en": "Sending resumes to vacancies"
+    },
+    "fileBiriktir": {
+        "uz": "Fayl biriktirish",
+        "ru": "Прикрепить файл",
+        "en": "Attach a file"
+    },
+    "ishTartib": {
+        "uz": "Ish Tartibi",
+        "ru": "Рабочий график",
+        "en": "Work schedule"
+    },
+    "ishTartib1": {
+        "uz": "Institutining markaziy apparatida ish soat 8:00 da boshlanib, 17:00 da tugaydi.",
+        "ru": "Работа в центральном институт ведомства начнется в 8:00 и закончится в 17:00.",
+        "en": "Work in the central office of the Institute will begin at 8:00 and end at 17:00."
+    },
+    "ishTartib2": {
+        "uz": "Tushlik tanaffusi 12:00 dan 13:00 gacha.",
+        "ru": "Обеденный перерыв с 12:00 до 13:00.",
+        "en": "Lunch break from 12:00 to 13:00."
+    },
+    "ishTartib3": {
+        "uz": "Dam olish kunlari - shanba, yakshanba va bayramlar.",
+        "ru": "Выходные дни - суббота, воскресенье и праздничные дни.",
+        "en": "Holidays are Saturdays, Sundays and holidays."
+    },
+    "Boglanish": {
+        "uz": "Bog'lanish",
+        "ru": "Связь",
+        "en": "Contact"
+    },
+    "murojat": {
+        "uz": "Bog'lanish",
+        "ru": "Связь",
+        "en": "Contact"
+    },
+    "AloqaXizmati": {
+        "uz": "A'loqa ma’lumotlari",
+        "ru": "Контакты",
+        "en": "Contact information"
+    },
+    "AloqaXizmatiT": {
+        "uz": "Atrof muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti rahbariyatining Jismoniy shaxslar va yuridik shaxslar vakillarini qabul qilish jadvali",
+        "ru": "График приема руководства Научно-исследовательский институт экологии и природоохранных технологий для физических и юридических лиц",
+        "en": "Research Institute of Environment and Nature Protection Technologies Reception schedule for individuals and legal entities"
+    },
+    "fikrMulohaza": {
+        "uz": "Fikr mulohazalar qismi",
+        "ru": "часть обратной связи",
+        "en": "Part of the feedback"
+    },
+    "welcome": {
+        "uz": "Xush kelibsiz",
+        "ru": "Добро пожаловать",
+        "en": "Welcome"
+    },
+    "welcomeP": {
+        "uz": "Atrof-muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti",
+        "ru": "Научно-исследовательский институт экологии и природоохранных технологий",
+        "en": "Research Institute of Environment and Nature Protection Technologies"
+    },
+    "AboutUs": {
+        "uz": "Biz haqimizda",
+        "ru": "O нас",
+        "en": "About Us"
+    },
+    "AboutUsDesc": {
+        "uz": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ac consectetur pretium lectus ut. Dapibus enim tempus, fusce aliquet morbi quis. Arcu, ut tempor mauris morbi facilisis ultrices hendrerit ipsum arcu. Sed curabitur nunc proin euismod risus. Molestie vestibulum pharetra consectetur nunc. Lacus habitant accumsan sed vitae aliquam suspendisse a a ante.",
+        "ru": "O нас descr",
+        "en": "About Us descr"
+    },
+    "ReadMore": {
+        "uz": "Batafsil",
+        "ru": "Подробнее",
+        "en": "Read More"
+    },
+    "LatestNews": {
+        "uz": "So'ngi Yangiliklar",
+        "ru": "Последние новости",
+        "en": "Latest News"
+    },
+    "AllNews": {
+        "uz": "BARCHA YANGILIKLAR",
+        "ru": "ВСЕ НОВОСТИ",
+        "en": "All News"
+    },
+    "Statistics": {
+        "uz": "Statistika",
+        "ru": "Статистика",
+        "en": "Statistics"
+    },
+    "footerSmap": {
+        "uz": "Sayt xaritasi",
+        "ru": "Карта сайта",
+        "en": "Site map"
+    },
+    "bNizomTitle1": {
+        "uz": "Instituti nizomi",
+        "ru": "Устав института",
+        "en": "Statute of the institute"
+    },
+    "bNizomTitle2": {
+        "uz": "Umumiy qoidalar.",
+        "ru": "Основные правила.",
+        "en": "General rules."
+    },
+    "bNizom": {
+        "uz": "1. Ushbu ustav Sirdaryo-Soʻx irrigatsiya tizimlari xavza boshqarmasi xuzuridagi Soʻx-Oqtepa irrigatsiya tizimi boshqarmasi ( keyingi oʻrinlarda irrigatsiya tizimi boshqarmasi deb ataladi), maqomi, asosiy vazifalari, funktsiyalari va xuquqlarini hamda faoliyatini tashkiliy asoslarini belgilaydi. \n 2. Sox-Oqtepa irrigatsiya tizimi boshqarmasi Oʻzbekiston Respublikasi Prezidentining 2021 yil 6 apreldagi ʼSuvresurslaridan foydalanish soxasida davlat boshqaruvi va nazorat tizimini yanada takomillashtirish xamda suv xo`jaligi obʼektlari xavfsizligini taʼminlash chora- tadbirlari to`g`risidaʼʼ gi PF 6200- son Farmoni xamda ʼOʻzbekiston Respublikasi Suv xoʻjaligi vazirligi faoliyatini yanada takomillashtirish chora- tadbirlari toʻgʻrisida gi PQ 5055- son qarori xamda Oʻzbekiston Respublikasi Vazirlar Maxkamasining ʼO`zbekiston Respublikasi Suv xo`jaligi vazirligi faoliyatini tartibga soluvchi normativ-xuquqiy xujjatlarni tasdiqlash to`g`risidaʼ gi 2018 yil 3- iyuldagi 500- sonli qarori asosida tashkil yetilgan. \n 3. Soʻx-Oqtepa irrigatsiya tizimi boshqarmasi Sirdaryo-Soʻh irrigatsiya tizimilar havza boshqarmasi xuzurida boʻlib suv resurslarini boshqarish va undan foydalanishni tartibga solish boʻyicha tarkibiy tizimi hisoblanadi. Oʻz faoliyati jarayonida havza bьoshqarmasi va suv xoʻjaligi vazirligiga boʻysunadi. \n 4. Boshqarma oʻz faoliyatida Uzbekiston Respublikasi Kanstitutsiyasiga, qonunlarga, Oʻzbekiston respublikasi Oliy Majlis palatalarining Qarorlariga, Oʻzbekiston Respublikasi Prezidentining farmonlari, qarorlari va farmoyishlariga, Oʻzbekiston Respublikasi Vazirlar Mahkamasining qarorlari va farmoyishlariga, shuningdek suv Xoʻjaligi vazirligi va havza boshqarmasining boʻyruqlariga, hamda ushbu ustavga amal qiladi. \n 5. Boshqarma oʻz vakolatlari doirasida qabul qilingan qarorlari davlat va xoʻjalik boshqaruvi organlari, joylardagi davlat xokimiyati organlari va tashkilotlar, ularning mansabdor shaxslari shuningdek, yuridik va jismoniy shaxslar tomonidan bajarilishi majburiy xisoblanadi. \n 6. Boshqarma yuridik shaxs xisoblanadi, Oʻzbekiston Respublikasining Davlat gerbi tasviri tushirilgan va oʻz nomi davlat tilida yozilgan muxrga va ish blankalariga, mustaqil balansga, Oʻzbekiston Respublikasi Moliya vazirligi gʻaznachiligida gʻaznachilik shaxsiy hisob raqamlarga, banklarda milliy va xorijiy hisob raqamlarga ega. \n 7. Boshqarmaning rasmiy nomlanishi: \n - dalat tilida: toʻliq Sirdaryo-Soʻx irrigatsiya tizimlari havza boshqarmasi, qisqartirilgan nomi Sirdaryo-Soʻx ITXB xuzuridagi Soʻx-Oqtepa ITB \n - rus tilida: toʻliq-Upravlenniye irrigatsionix sistem Sox-Oktepa pri qisqartirilgan nomi-UIS Sox-Oktepa pri Sirdarьya-Soxskom BUIS. \n 8. Soʻx-Oqtepa irrigatsiya tizimi boshqarmasining joylashgan manzili (pochta manzili) 150700 Fargʻona viloyati, Qoʻqon shaxri, Imom Buxoriy koʻchasi 5-uy. \n 2-bob. Boshqarmaning vazifa va funktsiyalari. Boshqarmaning asosiy vazifalari quyidagilardan iborat: \n - Vazirlik va havza boshqarmasining irrigatsiya tizimi boshqarmasiga yuklangan vazifa va funktsiyalarni samarali amalga oshirish. \n - Kompleks ijtimoiy-iqtisodiy rivojlantirish sektorlari bilan xamkorlik qilish. \n - Tizim suv xoʻjaligi tarmogʻini kompleks moderinizatsiyalash, fan-texnika yutuqlari, suvni tejovchi zamonaviy texnalogiyalarni, ilgʻor maxalliy va xorijiy tajribalarni joriy qilishga yoʻnaltirilgan yagona suv xoʻjaligi siyosatini amalga oshirish. \n - Suv resurslarini boshqarish tamoillari va tizimini takomillashtirish, ulardan tejamli va oqilona foydalanishni taʼminlash, sugʻoriladigan yerlarni melorativ xolatini yaxshilash, suv xoʻjaligi obʼektlarini va gidrotexnika inshootlarini rekonstruktsiya qilish va zamonaviylashtirish choralarini koʻrish. \n 10. Boshqarma oʻziga yuklangan asosiy vazifalarga muvofiq quyidagi funktsiyalarni amalga oshiradi. \n - Suv xoʻjaligi soxasini rivojlantirish boʻyicha tarmoq va mintaqaviy dasturlarning samarali amalga oshirilishini taʼminlaydi. \n - iqtisodiyot tarmoqlarida, shu jumladan, qishloq xoʻjaligida suvni tejovchi texnalogiyalarni joriy etish ishlarini muvofiqlashtiradi. \n - Suv resurslarini si Boshqarma oʻz faoliyatida Oʻzbekiston Republikasi Konstitutsiyasiga, Oʻzbekiston Respublikasi Qonunlariga, Oʻzbekiston Respublikasi Oliy Majlisining qarorlari va boshqa xujjatlariga, Oʻzbekiston Respublikasi Prezidentining farmon, qaror va farmoishlariga, Oʻzbekiston Respublikasi Vazirlar Maxkamasining qarorlari va farmoishlariga, Oʻzbekiston Respublikasi Suv xoʻjaligi vazirligi, Xavza boshqarmasining qarorlari va buyruqlariga, hamda ushbu ustavga amal qiladi. \n 4. Boshqarma tizim tashkilot hisoblanadi. Oʻzbekiston Respublikasi Davlat gerbi tasviritushurilgan va oʻz nomi yozilgan muxrga, bank muassasalarida xisob raqamlariga yega boʻladi. \n 5. Sox-Oqtepa irrigatsiya tizimi boshqarmasining yuridik manzili: 151200 Fargʻona viloyati Qoqon shahri Istiqlol koʻchasi 5 uy. \n II Boʻlimning vazifalari va funksiyalari \n 6. Boshыarmaning asosiy vazifalari ыquyidagilardan iborat: \n - Vazirlik va havza boshqarmasining irrigatsiya tizimi boshqarmasiga yuklangan vazifa va funktsiyalarini samarali amalga oshirish. \n - Kompleks ijtimoiyiqtisodiy rivojlantirish sektorlari bilan xamkorlik qilish. \n - Tizim suv xoʻjaligi tarmogʻini kompleks moderinizatsiyalash, fan-texnika yutuqlari, suvni tejovchi zamonaviy texnalogiyalar, ilgʻor mahalliy va xorijiy tajribalarni joriy qilishga yoʻnaltirilgan yagona suv xoʻjaligi siyosatini amalga oshirish. \n - Suv resurslarini boshqarish tamoyillari va tizimni takomillashtirish, ulardan tejamli va oqilona foydalanishni taʼminlash, sugʻoriladigan yerlarning melorativ xolatini yaxshilash, suv xoʻjaligi obʼektlari va gidrotexnika inshootlarini rekonstruktsiya qilish va zamonaviylashtirish choralarini koʻrish. \n 10 Boshqarma oʻzitga yuklangan asosiy vazifalarga muvofiq quyidagi funktsiyalarni amalga oshirishiradi: \n - Suv xoʻjaligi soxasini rivojlantirish boʻyicha tarmoq va mintaqaviy dasturlarining samarali amalga oshiradi: \n - Suv xoʻjaligi soxasini rivojlantirish boʻyicha tarmoq va mintaqaviy dasturlarning samarali amalga oshirilishini taʼminlaydi. \n - Iqtitsodiyot tarmoqlarida, shu jumladan qishloq xoʻjaligida suvni tejovchi texnalogiyalarni joriy etish ishlarini muvofiqlashtiradi. \n - Suv resurslarini integratsiyalashgan boshqarish va ulardan oqilona foydalanishni, ularning samaradorligini oshirishni, suvdan foydalanish va suv istʼemolining innovatsion texnalogiyalari va mexanizmlarini faol joriy etish, suv resurslarini hisobga olishni tashkil eitsh va takomillashtirishni taʼʼminlaydi. \n - Suv isteʼmolchilari uyushmalari va boshqa birlashmalarini tuzishda uslubiy va amaliy yordam koʻrsatadi, suv isteʼmolchilari uyushmalarining suv xoʻjaligi obʼektlarini texnik ekspluatattsiya, rekonstruktsiya qilish va taʼmirlash ishlarini muvofiqlashtiradi. \n - Irrigatsiyani rivojlantirish va sugʻoriladigan yerlarning melorativ xolatini yaxshilash boʻyicha xududiy dasturlarni ishlab chiqish va amalga oshirishda qatnashadi. \n - Ilmiy asoslangan sugʻorish rejimlarini, tomchilatib sugʻorish tizimi va suvni tedaydigan boshqa sugʻorish texnalogiyalarni joriy etishni tashkil qilishda koʻmaklashadi. \n - Ichki xoʻjalik sugʻorish tizimlarini taʼmirlash va ularning rivojlantirish, shuningdek suvni tejovchi texnalogiyalarni joriy etishni muvofiqlashtiradi. \n - Suv resurslaridan foydalanishni taxlil qiladi va maʼmuriy tumanlar boʻyicha suv berish limitlarini belgilash, suvdan foydalanuvchilar va suv isʼtemolchilarini suvdan tejab foydalanishlarini ragʻbatlantirish boʻyicha takliflar kiritadi. \n - Suv isʼtemolchilari uyushmalariga suv isteʼmoli boʻyicha shartnomalar tuzish, sugʻorish tarmoqlarini suvdan boshqarish va suv oʻlchash vositalari bilan jixozlash ishlariga koʻmaklashadi va muvofiqlashtiradi. \n - Suv xoʻjaligi obʼektlari infratuzilmasini rivojlantirish, ularning moddiy-texnik bazasini mustaxkamlash boʻyicha kontseptsiyalari, strategiyalar va kompleks chora-tadbirlarning, shuningdek normativ-xuquqiy xujjatlarning bajarilishida ishtirok etadi. \n - Suv isteʼmolchilari va xizmat koʻrsatuvchilari uyushmalari oʻrtasida tuzilgan shartnomalarning bajarilishi monitoringini yuritadi. \n - Suv xoʻjaligi soxasidagi kadrlar va mutaxasisslar, shu jumladan, suv isteʼmolchilari uyushmalari raxbarlari va mutaxasislarining malakasini oshirishni tashkil qilishga yordam beradi. \n - Suv xoʻjaligi soxasidagi kadrlar va mutaxasisslar, shu jumladan suv isteʼmolchilari uyushmalari raxbarlari va mutaxasislarining malakasini oshirishni tashkil qilishga yordam beradi. \n - Suv xoʻjaligi soxasidagi oliy oʻquv muassasalari talabalari va kasb-xunar kollejlari oʻquvchilarining oʻquv ishlab chiqarish amaliyotini tashkil etishda xamkorlik qiladi. \n 3.bob. BЬoshqarmaning xuquqlari va majburiyatlari. \n 11. Boshqarma oʻziga yuklangshan vazifa va funktsiyalarni bajarish uchun quyidagi xuquqlarga ega: \n - Oʻz vakolitiga kiradigan masalalarni yechish uchun zarur boʻladigan maʼlumotlarni davlat va xoʻjalik boshqaruvi organlarining xududiy boʻlinmalaridan, maxalliy davlat xokimiyati organlaridan belgidangan tartibda soʻrash va olish. \n - Oʻz vakolitga kiradigan masalalar boʻyicha havza boshqarmasi, Vazirlikning hududiy boʻlinmalari va maxalliy xokimiyat organlariga koʻrib chiqish uchun takliflar kiritish. \n - Suv resurslaridan foydalanish toʻgʻrisida maʼqullash uchun taqdim qilayotgan qarorlarning loyihalari boʻyicha xulosalar berish. \n - Suv qonunchiligining buzilganligi uchun aybdor shaxslarni javobgarlikka tortish boʻyicha takliflar ki ritish. \n - iqtisodiy sudlarga suv xoʻjaligi tashkilotlarining manfaatlarini ximoya qiluvchi dvo arizalarini berish. \n - Boshgqarma qonun xujjatlarida koʻzda tutilgan boshqa xuquqlarga ham ega boʻli shlari mumkin. \n 12. Boshqarma: \n - Oʻziga yuklangan vazifa va funktsiyalarning oʻz vaqtida sifatli bajarilishini taʼminlash. \n - Maxalliy davlat xokimiyati organelariga va viloyatdagi hududiy boʻlinmalariga kiritiladigan xujjat va takliflar loyihalarining yakuniy natijalari va oqibatlari. \n - Suv xoʻjaligi tashkilotlari manfaaatlariga daxldor boʻlgan dolzarb muammolarni hamda suv xoʻjaligi infratuzitilmasini rivojlantirish dasturiga kiritish uchun takliflar tayyorlash va kiritish. \n - Suv xoʻjaligini rivojlantirish va muammoli masalalarni yechish boʻyicha dasturlar, chora-tadbirlar rejalari, “ yoʻl xaritalari” va boshqa dasturiy xujjatlarni samarali amalga oshirish uchun maʼsuldirlar. \n - Boshqarma zimmasida qonun xujjatlariga muvofiq boshqa majburiyatlar ham boʻlishi mumkin. \n 4-bob. Boshqarma raxbarining asosiy funktsiyasi \n Majburiyatlari quyidagilardan iborat. \n - Oʻzbekiston Respublikasi Kanstitutsiyasi va qonunlari shuningdek boshqa normativ xuquqiy xujjatlari talablariga rioya etish. \n - Boshqarma faolitini umumiy boshqaruvni amalga oshirish. \n - Fazilatlari kafolatlanganligini taʼminlash hamda ularning kasbiy malakasini kadrlar boʻyicha taqsimlash, ularning maʼsullik darajasini belgilash. \n - Oʻzbekiston Respublikasi Prezidenti va Oʻzbekiston Respublikasi Vazirlar Maxkamasining qarorlari va topshiriqlariining byuajarilishini taʼminlash, Oʻzbekiston Respublikasi Prezidentining Oʻzbekiston Respublikasi Pre5zidentining xujjatlari va topshiriqlarini samarali va natijali ijro etish, shuningdek ijro intizomni mustahkamlash uchun Oʻzbekiston Respublikasi Prezidentining Davlat maslahatchilari, Vazirlar Mahkamasi va uning komplekslari, davlat maslahatchilari, Vazirlar Maxkamasi va uning komplekslari, davlat va suv xoʻjalik boshqaruv organlari hamda barcha darajalardagi xokimliklar rahbarlarining shaxsiy javobgarligi toʻgʻrisida”gi 2017 yil 11 apreldagi PQ-2881-sonli qaroriga, shuningdek Oʻzbekiston Respublikasi Vazirlar Maxkamasining “ Ijro intizomni mustaxkamlash chora-tadbirlari toʻgʻrisida”gi 1999 yil 12 yanvardagi 12-sonli qaroriga asosan irrigatsiya boshqarmasi faoliyatida ijro intizomni mustaxkamlash uchun kompleks amaliy choralarni amalga oshirish, boshshqarma xodimlarining topshiriqtslarining oʻz vaqtida va sifatli bajarilishini taʼminlashi uchun shaxsiy maʼsuliyatini oshirish choralar koʻrish. \n - Vazirlik xayʼati qarorlari, buyruqlari, Vazir va uning oʻrinbosarlarining buyruq va topshitriqlari, havza boshqarmasining buyruq va topshiriqlari, maxalliy davlat boshqaruvi organlarining qaror va farmoishlarini oʻz vaqtida va sifatli ijro etishni taʼminlash. \n - Vazirlik va havza boshqarmasi faoliyati doirasiga kiradigan masalalar boʻyicha mahalliy davlat boshqaruvi organlari va kompleks ijtimoiy-iqtisodiy rivojlantirish sektorlari bilan oʻzaro xamkorlikda faoliyat yuritish. \n - Boshqarma kadrlarni tanlash va joylashtirish boʻyicha takliflar kiritish, ularning kasbiy mahorati, bilim darajasi, amaliy tajribasi va yuqori darajadagi ishchanlik va axloqiy-maʼnaviy bilimlarini Oʻzbekiston Respublikasi Vazirlar Maxkamasining “Davlat boshqaruvi organlari va maxalliy ijro etuvchi hokimiyat organlari xodimlarining odob-axloq namunaviy qoidaolarini tasdiqlash toʻgʻrisida”gi 2016 yil 2 martdagi 62-sonli qaroriga muvofiq chiqarilgan Vazirlik xodimlarining odob-axloq namunaviy qoidalari talablariga rioya etilishini taʼminlash. \n - Vazirlik va havza boshqarmasi faoliyati doirasiga kiradigan masalalar boʻyicha mahalliy davlat boshqaruvi organlari va kompleks ijtimoiy-iqtisodiy rivojlantirish sektorlari bilan oʻzaro hamkorlikda faoliyat yuritish. \n - Bьoshqarma kadrlarni tanlash va joylashtirish boʻyicha takliflar kiritish, ularning kasbiy mahorati, bilim darajasi, amaliy tajribasi va yuqori darajadagi ishchanlik va axloqiy- manaviy bilimlarini oʻzbekiston Respublikasi Vazirlar Mahkamasining “ davlat boshqaruvi organlari va maxalliy ijro etuvchi hokimiyat organlari xodimlarining odob-axloq namunaviy qoidalarini tasdiqlash toʻgʻrisida”gi 2016 yil 2 martdagi 62-sonli qaroriga muvofiq chiqarilgan Vazirlik xodimlarining odob-axloqi namunaviy qoidalari talablariga rioya etilishini taʼminlash. \n - Boshqarmada Oʻzbekiston Respublikasining “ Korruptsiyaga qarshi kurash toʻgʻrisida”gi Qonuni talablariga muvofiq korruptsiya va boshqa qonunbuzarliklarning oldini olish boʻyicha choralar koʻrish, shuningdek ularning yuzaga kelishiga sharoit yaratuvchi sabab va sharoitlarni aniqlash, tahlil qilish, amaldagi qonunchilikni takomillashtirish uchun takliflar kiritish yoʻli bilan ularni bartaraf qilish va ularnga qarshi kurashish chora-tadbirlarni ishlab chiqish va amalga oshirish. \n - Boshqarma xodimlariga mukofotlar, lavozim maoshiga qoʻshimchalar, moddiy yordam, ragʻbatlantirish toʻlovlarini toʻlash va intizomiy choralar qoʻllash, ularni davlat mukofotlari va idoraviy mukofotlar bilan taqdirlash toʻgʻrisidagi havza boshqarmasiga, Vazirlikka takliflar kiritish. \n - Davlat sirlari va qonun bilan muhofaza qilinadigan maxfiy maʼlumotlar toifalariga kiritilgan maʼlumotlar xisoyasini taʼminlash. \n 5-bob. Boshqarma faoliyatini tashkil etish. \n - Boshqarmani boshliq boshqaradi. Boshqarma bьoshligʻi viloyat hokimining tavsiyasiga asosan Vazirlikning Suv xoʻjaligi masalalari boʻyicha oʻrinbosarining kelishuviga binoan tayinlanadi. \n 14. Boshqarma boshligʻi: \n - Boshqarma faoliyatiga boshchilik asosida raxbarlik qiladi va boshqarmaga yuklangan vazifalar va funktsiyalar bajarilishi uchun shaxsan javob beradi. \n - Boshqarma boshligʻi oʻrinbosari lavozimiga tayinlash uchun nomzodni irrigatsiya tizimlari havza boshqarmasiga taqdim etadi. \n - Boshqarma apparat xodimlarini tanlov asosida lavozimga hamda oʻziga qarashli gidrouchastkalar boshliqlarini irrigatsiya tizimlari havza boshqarsmasi bilan kelishgan xolda tayinlanadi. \n - Qonun xujjatlarida belgilangan vakolatlari doirasida boshqa vakolatlarni amalga oshiradi. \n 15. Boьshqarma xodimdlarini ishga tayinlaydi va ishdan ozod etadi. \n 16. Buyruq va farmoishlar chiqaradi, boshqarma xodimlariga bajarilishi shart boʻlgan koʻrsatmalar beradi. \n 6-bob. Boshqarmaning mulki. \n 17. Boshыarmaning mulki ( bino, ogrotexnika, byudjet mabla-lari va boshыa kshchchar kshchchmas mol-mulklar) xavza boshыarmasi tomonidan foydalanish uchun berilgan tizim xududidagi resurslaridan samarali foydalanish va sugʻoriladigan yyerlarning melorativ xolatini yaxshilash siyosatini oʻtkazish hamda tuman suv isteʼmolchilari uyushmasi faoliyatini boshqarishda maʼsul xisoblanadi. \n 18. Boshыarma shchziga foydalanish uchun berilgan mulkni faыat xavza boshыarmasi ruxsati bilan shchrnatilgan tartibda tassaruf etadi. \n 7-bob.Boshqыarma faoliyatini moliyalashtirish va moddiy-texnika taʼminoti, xodimlari mexnatiga xaыq toʻlash va ularning moddiy ragʻbatlantirish. \n 19. Davlat byudjeti mablagʻlari, boshqarmaning xoʻjalik faoliyati xisobidan olingan daromadlari, shuningdek qonunda taqiqlanmagan boshqa mablagʻlar boshqarmanig moliyalashtirish manbaalari hisoblanadi. Bunda ish haqqi, ikki oylik ish haqi miqdoridagi mukofotlar va oylik ish haqi miqdoridagi moddiy yordam toʻlovlari, shuningdek, boshqa xarajatlar byudjet mablagʻlari hisobidan moliyalashtiriladi. \n 20. Boshqarmsaning hodimlari lavozim ish haqiga hodimlarning uzoq yillik xizmatlari asosida har oylik ustama va moddiy ragʻbatlantirish toʻlovlari Oʻzbekiston Respublikasi Suv xoʻjaligi vazirligi tomonidan tasdiqlangan “ Oʻzbekiston Respublikasi Suvs xoʻjaligi vazirligi va uning tarkibiga kiruvchi tashkilotlar xodimlarni moddiy ragʻbatlantirish tartibi toʻgʻrisida”gi ustavga muvofiq amalga oshiriladi. \n 8-bob. Boshqarma havza boshqarmasining oldidagi hisoboti. \n 21. Boshqarmaning faoliyati toʻgʻrisida havza boshqarmasiga muntazam ravishda hisobot beradi. \n 9-bob. Yakunlovchi qoida. \n 22. Boshqarmani qayta tashkil etish va tugatish qonunchilikda belgilangan tartibda amalga oshiriladi.",
+        "ru": "1. Настоящий устав определяет статус, основные задачи, функции и права Сырдарьинско-Сохского бассейнового управления ирригационных систем при Сох-Октепинском управлении ирригационных систем (далее - Управление ирригационных систем), а также организационные основы его виды деятельности. 2. Сох-Октепинское управление ирригационных систем Постановление Президента Республики Узбекистан № ПФ 6200 от 6 апреля 2021 года «О мерах по дальнейшему совершенствованию системы государственного управления и контроля при использовании водных ресурсов и обеспечению безопасности водного хозяйства» Постановление Кабинета Министров Республики Узбекистан № PQ 5055 «О мерах по дальнейшему совершенствованию деятельности Министерства водного хозяйства Республики Узбекистан» и Кабинета Министров Республики Узбекистан «О утверждение нормативных правовых актов, регулирующих деятельность Министерства, установлено на основании Постановления № 500 от июля. \n 3. Сох-Октепинское бассейновое управление ирригационных систем – структурная система по управлению и регулированию водных ресурсов в составе Сырдарьинско-Сохского бассейнового управления ирригационных систем. В своей деятельности подчиняется Бассейновому управлению и Министерству водного хозяйства. 4. Департамент в своей деятельности соблюдает Конституцию Республики Узбекистан, законы, постановления Олий Мажлиса Республики Узбекистан, указы, постановления и распоряжения Президента Республики Узбекистан, постановления и распоряжения Кабинета Министров. Министров Республики Узбекистан. 5. Решения, принятые Коллегией в пределах своей компетенции, обязательны для исполнения органами государственного и хозяйственного управления, органами государственной власти на местах и ​​организациями, их должностными лицами, а также юридическими и физическими лицами. 6. Департамент является юридическим лицом, имеет печать и бланк с изображением Государственного герба Республики Узбекистан и своим наименованием на государственном языке, самостоятельный баланс, лицевые счета в казначействе Министерства финансов Республики Узбекистан. Узбекистан, национальные и зарубежные счета в банках. \n 7. Официальное наименование кафедры: \n - в г. Далат: полное Сырдарьинско-Сохское бассейновое управление оросительных систем, сокращенное наименование Сырдарья-Сохское ИТХБ при Сох-Октепинском ИТБ \n - на русском языке: полное -Управление ирригационных систем Сокс-Октепа при сокращенном номи-УИС Сокс-Октепа при Сырдарья-Соксском БУИС. \n 8. Адрес Сох-Октепинского управления ирригационных систем (почтовый адрес) 150700 Ферганская область, г. Коканд, ул. Имама Бухари, 5. \n Глава 2. Задачи и функции Совета. Основными задачами Департамента являются: \n - Эффективное выполнение задач и функций, возложенных на Департамент ирригационных систем Министерства и Бассейновое управление. \n - Взаимодействие с отраслями комплексного социально-экономического развития. \n - Реализация единой водной политики, направленной на комплексную модернизацию водного хозяйства, внедрение научно-технических достижений, современных водосберегающих технологий, передового отечественного и зарубежного опыта. \n - Совершенствовать принципы и систему управления водными ресурсами, обеспечивать их экономное и рациональное использование, улучшать мелиорацию орошаемых земель, принимать меры по реконструкции и модернизации водохозяйственных сооружений и гидротехнических сооружений. \n 10. Правление осуществляет следующие функции в соответствии с возложенными на него основными задачами. \n - Обеспечивает эффективную реализацию отраслевых и региональных программ развития водного хозяйства. \n - Координирует внедрение водосберегающих технологий в различные отрасли экономики, в том числе в сельское хозяйство. \n - Департамент водного хозяйства в своей деятельности руководствуется Конституцией Республики Узбекистан, Законами Республики Узбекистан, Постановлениями и иными документами Олий Мажлиса Республики Узбекистан, Указами, Постановлениями и Распоряжениями Президента Республики Узбекистан, решениями и приказами Коллегии Министерства водного хозяйства, а также настоящим Уставом. \n 4. Система управления - это организация. Государственный герб Республики Узбекистан должен иметь печать со своим изображением и наименованием, номера банковских счетов. \n 5. Юридический адрес Сох-Октепинского управления ирригационных систем: 151200, Ферганская область, г. Коканд, ул. Истиклол, 5. \n Задачи и функции Секции II \n 6. Основными задачами Совета являются: \n n - Эффективное выполнение задач и функций, возложенных на Департамент ирригационных систем Министерства и Бассейновое управление. \n - Взаимодействие с отраслями комплексного социально-экономического развития. \n - Реализация единой водохозяйственной политики, направленной на комплексную модернизацию водного хозяйства, внедрение научно-технических достижений, современных водосберегающих технологий, передового отечественного и зарубежного опыта. \n - Совершенствование принципов и системы управления водными ресурсами, обеспечение их экономного и рационального использования, улучшение мелиорации орошаемых земель, проведение мероприятий по реконструкции и модернизации водохозяйственных сооружений и гидротехнических сооружений. \n 10 В соответствии с возложенными на него основными задачами Правление осуществляет следующие функции: \n - Эффективно реализует отраслевые и региональные программы развития водного хозяйства: \n - Обеспечивает эффективное выполнение отраслевых и региональных программ развития развитие водного хозяйства. \n - Координирует внедрение водосберегающих технологий в экономику, в том числе в сельское хозяйство. \n - Обеспечивает комплексное управление и рациональное использование водных ресурсов, повышение их эффективности, активное внедрение инновационных технологий и механизмов водопользования и водопотребления, организацию и совершенствование учета водных ресурсов. \n - Оказывает методическую и практическую помощь в формировании ассоциаций водопользователей и других объединений, координирует техническую эксплуатацию, реконструкцию и ремонт водохозяйственных сооружений ассоциаций водопользователей. \n - Участвует в разработке и реализации региональных программ развития ирригации и улучшения мелиорации орошаемых земель. \n - Помогает организовать внедрение научно обоснованных режимов орошения, систем капельного орошения и других водосберегающих технологий орошения. \n - Координирует ремонт и развитие отечественных оросительных систем, а также внедрение водосберегающих технологий. \n - Анализирует использование водных ресурсов и вносит предложения по установлению лимитов подачи воды в административных районах, стимулируя водопользователей и водопотребителей к рациональному использованию воды. \n - Содействует и координирует ассоциации водопользователей при заключении договоров водопотребления, управлении оросительными сетями и оснащении их счетчиками воды. \n - Участвует в реализации концепций, стратегий и комплексных мероприятий по развитию инфраструктуры объектов водного хозяйства, укреплению их материально-технической базы, а также нормативных документов. \n - Контролирует выполнение договоров между водопотребителями и поставщиками услуг. \n - Оказывает содействие в организации повышения квалификации кадров и специалистов в области водного хозяйства, в том числе руководителей и специалистов объединений водопользователей. \n - Оказывает содействие в подготовке кадров и специалистов водного хозяйства, в том числе руководителей и специалистов объединений водопользователей. \n - Сотрудничает в организации производственной практики студентов высших учебных заведений и студентов профессиональных колледжей в области водного хозяйства. \n Глава 3. Права и обязанности Совета. \n 11. Коллегия имеет следующие права для выполнения возложенных на нее задач и функций: \n - запрашивать и получать информацию от территориальных подразделений органов государственного и хозяйственного управления, органов государственной власти на местах в установленном порядке. \n - Вносить предложения в Бассейновое управление, территориальные подразделения Министерства и органы местного самоуправления по вопросам, входящим в его компетенцию. \n - Предоставление отзывов по представленным на утверждение проектам решений по водопользованию. \n - Вносить предложения о привлечении к ответственности виновных в нарушении водного законодательства. \n - Подавать заявления в хозяйственные суды в защиту интересов водохозяйственных организаций. \n - Правление может иметь и другие права, предусмотренные законодательством. \n 12. Менеджмент:\n - Обеспечение своевременного и качественного выполнения возложенных на него задач и функций. \n - Проекты документов и предложений для представления в органы местного самоуправления и региональные управления",
+        "en": "1. This charter defines the status, main tasks, functions and rights of the Syrdarya-Sokh Irrigation Systems Basin Department under the Sokh-Oktepa Irrigation System Department (hereinafter referred to as the Irrigation System Department), as well as the organizational basis of its activities. \n 2. Sokh-Oktepa Irrigation System Department PF of the President of the Republic of Uzbekistan dated April 6, 2021 \"On measures to further improve the system of public administration and control in the use of water resources and ensure the safety of water facilities\" Decree No. 6200 and Resolution No. PP 5055 \"On measures to further improve the activities of the Ministry of Water Resources of the Republic of Uzbekistan\" and the Resolution of the Cabinet of Ministers of the Republic of Uzbekistan \"On measures to further improve the activities of the Ministry of Water Resources of the Republic of Uzbekistan\" was established on the basis of the Resolution No. 500 of July 3, 2018 \"On approval of regulatory legal acts\". \n  3. Sokh-Oktepa Irrigation System Department is a part of the Syrdarya-Sokh Irrigation Systems Department under the Basin Department and is an integral part of the management of water resources and regulation of their use. In the course of its activities, it reports to the Basin Department and the Ministry of Water Resources. \n  4. In accordance with the Constitution of the Republic of Uzbekistan, laws, resolutions of the chambers of the Oliy Majlis of the Republic of Uzbekistan, decrees, resolutions and orders of the President of the Republic of Uzbekistan, the Cabinet of Ministers of the Republic of Uzbekistan, the Cabinet of Ministers and the Cabinet of Ministers of the Republic of Uzbekistan. \n  5. Decisions taken by the Board within its competence shall be binding on the state and economic administration bodies, local state authorities and organizations, their officials, as well as legal entities and individuals. \n  6. The Board is a legal entity, stamps and letterheads with the image of the State Emblem of the Republic of Uzbekistan and its name in the state language, independent balance sheet, treasury personal account numbers in the treasury of the Ministry of Finance of the Republic of Uzbekistan, national and foreign bank accounts. \n  7. Official name of the Board: \n   - in the state language: full Syrdarya-Sokh Irrigation Systems Basin Department, abbreviated name Sokh-Oktepa IDB under Syrdarya-Sokh \n - in Russian: full-Management of irrigation systems Sokh-Oktepa at the abbreviated name-UIS Sokh-Oktepa at Syrdarya-Sokh BUIS. \n  8.  Address of the Sokh-Oktepa Irrigation Department (postal address) 150700 Fergana region, Kokand city, 5 Imam Bukhari Street. \n   Chapter 2. Duties and functions of the Board. The main tasks of the Board are: \n   - Effective implementation of the tasks and functions assigned to the Department of Irrigation Systems of the Ministry and the Basin Department. \n   - Cooperation with the sectors of complex socio-economic development.  \n  - Implement a single water management policy aimed at comprehensive modernization of the water management system, the introduction of scientific and technical achievements, modern water-saving technologies, advanced local and foreign practices.  \n  - Improving the principles and system of water resources management, ensuring their rational and rational use, improving the reclamation of irrigated lands, reconstruction and modernization of water facilities and hydraulic structures. \n  10. The Board performs the following functions in accordance with the main tasks assigned to it. \n  - Ensures the effective implementation of sectoral and regional programs for the development of the water sector. \n  - Coordinates the introduction of water-saving technologies in the economy, including agriculture.  \n  - In its activities, the Department of Water Resources complies with the Constitution of the Republic of Uzbekistan, laws of the Republic of Uzbekistan, resolutions and other documents of the Oliy Majlis of the Republic of Uzbekistan, decrees, resolutions and orders of the President of the Republic of Uzbekistan. and orders of the Ministry of Water Resources of the Republic of Uzbekistan, decisions and orders of the Basin Administration, as well as this Charter. \n  4. The management system is an organization. The State Emblem of the Republic of Uzbekistan shall have a stamp with the image and its name, account numbers in banking institutions. \n 5. Legal address of Sokh-Oktepa Irrigation System Department: 151200, 5 Istiqlol Street, Qoqon city, Fergana region. \n Tasks and functions of Section II  \n 6. The main tasks of the Board are: \n - Effective implementation of the tasks and functions assigned to the Department of Irrigation Systems of the Ministry and the Basin Department. \n - Cooperation with the sectors of complex socio-economic development. \n - Implementation of a single water management policy aimed at comprehensive modernization of the water management system, the introduction of scientific and technical achievements, modern water-saving technologies, advanced local and foreign practices. \n - Improving the principles and system of water resources management, ensuring their efficient and rational use, improving the reclamation of irrigated lands, reconstruction and modernization of water facilities and hydraulic structures. \n 10. The Board performs the following functions in accordance with the main tasks assigned to it: \n - Effectively implements sectoral and regional programs for the development of the water sector: \n - Ensures the effective implementation of sectoral and regional programs for the development of the water sector. \n - Coordinates the introduction of water-saving technologies in the economy, including agriculture. \n - Integrated management and rational use of water resources, increase their efficiency, active introduction of innovative technologies and mechanisms of water use and consumption, organization and improvement of water resources accounting. \n - Provides methodological and practical assistance in the formation of water users 'organizations and other associations, coordinates the technical operation, reconstruction and repair of water facilities of water consumers' organizations. \n - Participates in the development and implementation of regional programs for the development of irrigation and improvement of reclamation of irrigated lands. \n - Assists in the introduction of science-based irrigation regimes, drip irrigation systems and other irrigation technologies. \n - Rehabilitation and development of on-farm irrigation systems, as well as the introduction of water-saving technologies. \n - Analyzes the use of water resources and makes proposals on setting water supply limits in administrative districts, encouraging water users and water consumers to use water sparingly. \n - Assists and coordinates water consumption organizations with the conclusion of contracts for water consumption, water management of irrigation networks and equipping them with water meters. \n - Participates in the implementation of concepts, strategies and comprehensive measures to develop the infrastructure of water facilities, strengthening their material and technical base, as well as regulatory documents. \n - Monitors the implementation of contracts between water consumers and service providers. \n - Helps to organize training of personnel and specialists in the field of water management, including leaders and specialists of water consumers' organizations. \n - Helps to organize training of personnel and specialists in the field of water management, including leaders and specialists of water consumer organizations. \n - Cooperates in the organization of educational and production activities of students of higher education institutions and students of professional colleges in the field of water management. \n Chapter 3. Rights and obligations of the Board. \n 11. The Board has the following rights to perform the tasks and functions assigned to it: \n - Request and receive information necessary for the resolution of issues within its competence from the territorial subdivisions of state and economic administration bodies, local state authorities in the prescribed manner. \n - Make proposals for consideration by the district administration, territorial subdivisions of the Ministry and local authorities on issues within its competence. \n - Giving conclusions on the draft resolutions submitted for approval on the use of water resources. \n - Make proposals to bring to justice those responsible for violations of water legislation. \n - Submission of applications to economic courts to protect the interests of water management organizations. \n- The Board may have other rights provided by law. \n 12. Management Board:  \n - Ensuring the timely and quality performance of assigned tasks and functions. \n - The final results and consequences of the draft documents and proposals submitted to the local authorities and territorial divisions of the region. \n - Preparation and introduction of proposals for the inclusion of current issues in the interests of water management organizations, as well as in the program for the development of water infrastructure. \n - Responsible for the effective implementation of guidelines, action plans, \"road maps\" and other guidelines for the development of water management and problem solving. \n - The board may have other obligations in accordance with the law. \n Chapter 4. The main function of management \n Obligations include: \n - Compliance with the requirements of the Constitution and laws of the Republic of Uzbekistan, as well as other normative legal acts. \n - Implementation of general management of the Board's activities. \n - Ensuring that their merits are guaranteed, as well as the distribution of their professional skills in personnel, to determine their level of responsibility. \n - President of Uzbekistan and Uzbekistan Vazirlar Maxkamasining qarorlari and topşiriqlariining ʙjuaƶarilişini ta'minlaş, Uzbekistan Prezidentining Uzbekistan Pre5zidentining xuƶƶatlari and topşiriqlarini samarali and natiƶali implemented etiş, Shuningdek implemented intizomni mustahkamlaş ucun Uzbekistan Prezidentining State maslahatcilari, Vazirlar Mahkamasi uning komplekslari, maslahatcilari, Resolution of the Cabinet of Ministers No. PP-2881 of April 11, 2017 \"On the personal responsibility of the heads of the Cabinet of Ministers and its complexes, state and water management bodies at all levels, as well as In accordance with the Resolution No. 12 of January 12, the implementation of a set of practical measures to strengthen the executive discipline in the activities of the Irrigation Department, the timely implementation of the tasks of the Department staff. Take measures to increase personal responsibility to ensure quality implementation. \n - Ensuring the timely and quality implementation of decisions, orders of the Ministry, orders and instructions of the Minister and his deputies, orders and instructions of the district administration, decisions and orders of local government. \n - Interaction with local governments and integrated socio-economic development sectors on issues within the scope of activities of the Ministry and the district administration. \n - Submission of proposals on selection and placement of personnel, their professionalism, level of education, practical experience and high level of activity and moral and spiritual knowledge of the executive body of the Cabinet of Ministers of the Republic of Uzbekistan. Ensuring compliance with the requirements of the Code of Conduct for employees of the Ministry, issued in accordance with the Resolution No. 62 of March 2, 2016. \n - Interaction with local governments and integrated socio-economic development sectors on issues within the scope of activities of the Ministry and the Basin Department. \n - Making proposals on the selection and placement of personnel, their professionalism, level of education, practical experience and high level of activity and moral and spiritual knowledge Ensuring compliance with the requirements of the Code of Conduct for employees of the Ministry, issued in accordance with the Resolution No. 62 of March 2, 2016. \n - To take measures to prevent corruption and other violations in accordance with the requirements of the Law of the Republic of Uzbekistan \"On Combating Corruption\". to develop and implement measures to combat them. \n - Make proposals to the district administration and the Ministry on the payment of bonuses to employees of the department, bonuses, financial assistance, incentives and the application of disciplinary measures, awarding them with state awards and departmental awards. \n - Ensuring the accountability of information included in the categories of state secrets and classified information protected by law. \n  Chapter 5. Organizing the activities of the Board. \n - The board is headed by the boss. The head of the department is appointed on the recommendation of the governor in accordance with the agreement of the Deputy Minister for Water Resources. \n 14.Head of the Board: \n - The Board manages the activities on a supervisory basis and is personally responsible for the implementation of the tasks and functions assigned to the Board. \n - The head of the department nominates the candidate for the position of the deputy head of the irrigation system to the district department. \n - On a competitive basis, the staff of the department is appointed to the position, as well as the heads of subordinate hydraulic sections in coordination with the irrigation system of the basin department. \n - Exercises other powers within the powers established by the legislation. \n 15. Appoints and dismisses employees of the department. \n 16. Issues orders and directives, gives instructions to employees of the department, which must be carried out. \n Chapter 6. Property of the Board. \n 17. Property of the Department (buildings, agricultural machinery, budget funds and other non-residential property) is responsible for management. \n 18. The administration shall dispose of the property transferred for personal use only in accordance with the procedure established by the permission of the head of the basin. \n Chapter 7. Financing and logistics of the administration, remuneration of employees and their financial incentives. \n 19. Sources of financing of the department are the funds of the state budget, the income of the department from economic activities, as well as other funds not prohibited by law. In this case, salaries, bonuses in the amount of two months' salary and financial assistance in the amount of monthly salary, as well as other expenses are financed from the budget. \n 20. The Ministry of Water Resources of the Republic of Uzbekistan and the Ministry of Water Resources of the Republic of Uzbekistan approve monthly bonuses and incentives for employees on the basis of long-term services. \n Chapter 8. Report to the District Basin Board. \n 21. Regularly reports on the activities of the Department to the Basin Department. \n Chapter 9. Closing rule. \n 22. Reorganization and liquidation of the Board shall be carried out in accordance with the procedure established by law."
+    },
+    "bNizomTitleBottom": {
+        "uz": "Atrof-muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti boshligʻi",
+        "ru": "Начальник Научно-исследовательский институт экологии и природоохранных технологий",
+        "en": "Head of Research Institute of Environment and Nature Protection Technologies"
+    },
+    "bHaqidaTitle1": {
+        "uz": "Instituti haqida",
+        "ru": "О институт",
+        "en": "About the Institute"
+    },
+    "bfunksiyavazifa":{
+        "uz": "Vazifa va Funksiyalar",
+        "ru": "Обязанности и функции",
+        "en": "Duties and functions"
+    },
+    "bfunksiyaHaqida":{
+        "uz": "– sanoat korxonalaridan chiqadigan zararli moddalar chiqindilarida havoning ifloslanishini kamaytirish; \n – yer osti va yer usti suvlarining ifloslanishining oldini olish,\n – tabiiy, sanoat, maishiy chiqindi suvlarni tozalash, chiqindi suvlarni tozalash jarayonida hosil boʼlgan choʼkindi qatlamlarni tozalash uchun zamonaviy, resurslarni tejaydigan, ekologik toza texnologiyalarni yaratish; \n – ishlab chiqarish va isteʼmol qilish chiqindilari bilan ishlash (zaharli sanoat, qishloq xoʼjaligi, maishiy chiqindilarni yoʼq qilish va qayta ishlash); \n – atrof-muhitni muhofaza qilish sohasida meʼyoriy-uslubiy hujjatlarni ishlab chiqish.\n – ekologik xavfsizlik, atrof-muhitni muhofaza qilish va tabiiy resurslardan oqilona foydalanish, yer va suv resurslaridan oqilona foydalanish va saqlash muammolarini hal qilish.\n Institutning asosiy vazifalari: \n – atrof-muhitning hozirgi holatini, ifloslantiruvchi moddalarning flora va fauna obʼektlariga taʼsirini tahlil qilish boʼyicha chuqur fundamental va amaliy tadqiqotlar oʼtkazish; \n – havoning ifloslanishini, suv va yer resurslarini kamaytirish, biologik xilma-xillikni saqlash, chiqindilarni qayta ishlash va yoʼq qilish boʼyicha printsipial jihatdan yangi va samarali usullar hamda texnologiyalarni ishlab chiqish; \n – atmosfera havosi, suv va yer resurslari ifloslanishining kamayishini taʼminlaydigan, shuningdek chiqindilarni qayta ishlash va yoʼq qilishni taʼminlaydigan maishiy va ishlab chiqarish maqsadlarida texnik vositalarni ishlab chiqish, eksperimental loyihalashtirish; \n – ekologiya va atrof-muhitni muhofaza qilish sohasida ilgʼor xorijiy texnologiyalar va yangiliklarni moslashtirish va amaliyotga tatbiq etish;\n – ekologik muammolar boʼyicha standartlar va talablarni ishlab chiqishda ishtirok etish va atrof-muhitni muhofaza qilish;\n – ekologiya va atrof-muhitni muhofaza qilish sohasida xorijiy ilmiy tadqiqot muassasalari va markazlari bilan hamkorlikni rivojlantirish, ilmiy konferentsiyalar, seminarlar, qoʼshma tadqiqotlar, loyihalar, stajirovkalar va xodimlarni tayyorlashni tashkil etish; \n – yuqori malakali kadrlarni tayyorlashda, oliy oʼquv yurtlari oʼqituvchilarini ekologiya va atrof-muhitni muhofaza qilish sohasidagi mutaxassislarni xalqaro standartlar darajasida qayta tayyorlash va malakasini oshirishda ishtirok etish.\n Xoʼjalik shartnomalari boʼyicha faoliyat\n– Oʼzbekiston Respublikasi Prezidentining 2017 yil 21 apreldagi PQ - 2916-sonli ”2017 - 2021 yillarda chiqindilarni boshqarish tizimini tubdan takomillashtirish va rivojlantirish chora-tadbirlari toʼgʼrisida” gi farmoni ijrosi yuzasidan institut tomonidan ”Oʼzbekiston Respublikasi hududida qattiq maishiy chiqindilarni toʼplash meʼyorlarini aniqlash boʼyicha eksperimental oʼrganish va xronometraj ishlarini olib borish”.\n– ”Tijorat mahsulotlarini olish uchun avtomobil shinalarini kompleks ravishda qayta ishlashning energiya tejaydigan usulini ishlab chiqish”. Eskirgan avtomobil shinalarini yaxlit quruq usulda qayta ishlash texnologiyasini ishlab chiqish. Ekologik toza va iqtisodiy jihatdan maqbul usul va texnologiyadan foydalangan holda rezina buyumlar va ishlatilgan polimer materiallarning umumiy hamda har yili ishlab chiqarilgan salohiyatini qayta ishlash zavodining yangi texnologik sxemasini ishlab chiqish. (Ish tashabbuskor ravishda olib borildi, laboratoriya sinovlari uchun qoidalar mavjud).\n – Bizning ekologik loyihalarni ishlab chiqishda tajribamiz bor 2017 yilda boʼlim xodimlari tomonidan ”INTER CAPS GROUP” MChJ kabi korxonalar va tashkilotlar uchun ZVOS va ZEP ishlari olib borildi (polipropilen va metall butlovchi qismlardan mahsulotlar ishlab chiqarish), MChJ ”MAX MILLING LEADER” (DSU ishlab chiqarishni tashkil etish uchun), MChJ QK ”MAXAM UZBEKISTAN” (konchilik sanoati uchun moʼljallangan patronli emultsion portlovchi moddalarni ishlab chiqarishni tashkil etish uchun) MChJ QK ”METAL SOLUTION TEHNOLOGIES” (sanitariya-texnik buyumlar (latun armaturalari) ishlab chiqarish ustaxonasini tashkil etish uchun va boshqalar.\n – TESlarining kul va siruf chiqindilaridan foydalangan holda gazni qayta ishlash zavodlaridan chiqadigan gaz chiqindilarini oltingugurt oksidlaridan sorbtsion-katalitik usul bilan tozalash texnologiyasini ishlab chiqish. Sanoat va issiqlik energetikasining qattiq chiqindilaridan elektrostantsiyalardan chiqadigan gaz chiqindilarini tozalash uchun, keyinchalik sanoat chiqindi suvlarini tozalash uchun sarflangan sorbtsiya-katalitik tizimidan foydalanish.\n – Tibbiy chiqindilarni zararsizlantirish uchun termokimyoviy usul texnologiyasini ishlab chiqish. \n – Eksperimental tadqiqotlar uchun respublikaning 6 ta viloyati tanlab olindi. Hududni 6 zonaga ajratish (janubiy, shimoliy, oʼrta zona va Fargʼona vodiysi). Bular Toshkent shahri, Toshkent, Sirdaryo, Samarqand, Qashqadaryo, Namangan viloyatlari va Qoraqalpogʼiston Respublikasi. Respublikamizning 6 mintaqasida bahor-yoz va kuz davrlari uchun chiqindi yigʼilishini aniqlash boʼyicha ishlar olib borildi. Ushbu mavzuni ijrochilar jadvallarni, birlamchi kundalik yozuvlarni, sanitariya pasportlarini toʼldirdilar, bahorgi va yozgi davrda bajarilgan ishlar toʼgʼrisida toʼliq hisobot tayyorladilar. Respublikamizning 6 mintaqasi boʼyicha olingan eksperimental maʼlumotlar tizimlashtirildi, olingan natijalar tahlili oʼtkazildi. Tahlil shuni koʼrsatdiki, chiqindilarni toʼplash mintaqalar boʼyicha har xil, shuning uchun har bir mintaqada tadqiqot obʼektlariga individual yondoshish zarur.\n – ”Navoiy kon-metallurgiya kombinatini 2026 yilgacha innovatsion rivojlantirish dasturi” doirasida shartnomaviy ishlar olib borilmoqda. Malik-Rabat qishlogʼining Navoiy uchastkasining IES tabiiy shamollatish bilan tozalash inshootlarini loyihalash boʼyicha tavsiyalar beriladi, quvvati kuniga 4200m. ”\n Qoraqutan konining maʼdan suvlarini tozalash va ulardan texnik ekinlarni sugʼorishda foydalanishga imkon beradigan texnologik sxema ishlab chiqilmoqda.\n – Oʼzbekistonning odatdagi qishloq aholi punktlarida maishiy chiqindi suvlarni tozalashning texnologik sxemalari variantlarini ishlab chiqish boʼyicha ilmiy ishlar olib borildi.\n - Oʼzbekistonning odatdagi qishloq aholi punktlarida maishiy chiqindi suvlarni tozalashning texnologik sxemalari variantlarini ishlab chiqish boʼyicha ilmiy ishlar olib borildi. Olingan maʼlumotlarning tahlili shuni koʼrsatdiki, tozalash jarayoni tabiiy shamollatish bilan inshootlarni oʼz ichiga olgan murakkab tozalash sxemasi yordamida barqaror davom etmoqda. Bunday sxemalardan foydalanish ochiq suv havzalariga oqizish uchun tozalangan chiqindi suvlarning sifatiga erishish, suv oqimlarining ifloslanishining oldini olish, ularga antropogen yukni kamaytirish va atrof-muhitning ekologik farovonligini saqlashga imkon beradi.]\nАtrof-muhitni muhofaza qilish chora-tadbirlari boʼyicha berilgan tavsiyalar ”Shurtanneftegaz” MChJ, ”Gazlineftegazdobыcha” MChJ, ”Ustyurtgaz” MChJ, ”Аndijanneftь” MChJ konlarida qazish quduqlarini qurish paytida burgʼulash chiqindilaridan foydalanish / yoʼq qilish qoidalarini ishlab chiqishda O`ZLTINEFTGAZ tomonidan ishlatilgan.\n – Bektimir tozalash inshootlarida tabiiy mikrobiologik hamjamiyatdan foydalangan holda oziq-ovqat sanoati korxonalarining maishiy va chiqindi suvlari aralashmasini aerobik tozalash jarayonining ishlab chiqilgan texnologiyasi qoʼllaniladi va qayta ishlash vaqtini qisqartirish va yuqori sifatli chiqindi suvlarni tozalashga imkon beradi.\n – Аngren-Pap temir yoʼl liniyasidan yomgʼir suvini tozalash boʼyicha ishlab chiqilgan tavsiyalar Аngren-Pap temir yoʼl liniyasi uchastkalarini tozalash inshootlarini qurishda amalga oshiriladi.\nBerlin, Germaniya, ”LARProcessAnalysersAG” firmasi bilan birgalikdagi ishlar boʼyicha Hamkorlik toʼgʼrisidagi Bitimga muvofiq koʼplab ishlar amalga oshirilmoqda.\n”Toʼqimachilik mahsulotlaridan chiqindi suvlarni boʼyoqlardan elektrokimyoviy usul bilan tozalashning chiqindisiz texnologiyasi” joriy etildi:\n– ”ShizoratTekstilьmash” tozalash inshootlarida, Buxoro viloyati, Jandor tumani \n – Аmin Invest Interneshnl QKning tozalash inshootlarida, Samarqand viloyati.\n– ”GLORIAINVESTTEKS” MChJ, Fargʼona viloyati, Oʼzbekiston viloyati, Katta Qaynar qishlogʼining chiqindi suvlarini tozalash uchun tozalash inshootlari loyihasi ishlab chiqildi.\n– Turkmanistonning Serdar va Bereket shaharlarida kanalizatsiya tozalash inshootlari, IFODAAGROKIMYOHIMOYAda oʼsimliklarni himoya qilish uchun pestitsidlar ishlab chiqarish natijasida sanoat chiqindi suvlarini tozalash inshootlari qurildi.\n – ”Toshkenttramvayi” QQ, ”JarkurgonnegtQaytalishlash” QK, Jarqoʼrgʼon, Guliston tozalash inshootlari loyihalari ishlab chiqilgan.\n – Bektimir tozalash inshootlari ishini kuchaytirish boʼyicha tavsiyalar ishlatilgan, Salar tozalash inshootlarida sinovlar olib borilmoqda.\n– ”LUKOYL Uzbekistan Opereyting Kompani” MChJ H / D-sonli UZ-20-8009-0035, 2020 yildagi OBP Jarquduq biologik tozalash inshootini texnik koʼrikdan oʼtkazish. \n– GNTP № А7-001 ”Qattiqlashtirilgan burgʼulash qalamchalarini oʼz ichiga olgan tuproqni unumdor tuproq qatlami sifatiga qayta tiklash texnologiyasini ishlab chiqish” 2015-2017 yillar.\n– GNTP № А7-003, ”Tabiiy mikrobiologik hamjamiyatdan foydalangan holda oziq-ovqat sanoati korxonalaridan maishiy va chiqindi suv aralashmasini tozalash texnologiyasini ishlab chiqish”.\n– GNTP № А7-004 ”Tabiiy suvlarni tabiiy seolitlar va uglerod oʼz ichiga olgan sorbentlar yordamida organik va noorganik ifloslanishlardan tozalashning samarali texnologiyasini ishlab chiqish”;\n– X/D № 11/01 - 2017 yil Goskomekologiya RUz ,, ”Oʼzbekiston qishloq joylaridagi tipik qishloqlar uchun chiqindi suvlarni tozalash va loyqalarni qayta ishlash sxemasini ishlab chiqish”, 2017 y.\nInnovatsion rivojlanish vazirligi va Mulkni boshqarish davlat qoʼmitasining Ekologik jamgʼarmasiga oʼtkazilgan loyihalar:\n 1. Tuproqdagi suvda eruvchan tuzlarning tarkibini kamaytirish texnologiyasini ishlab chiqish.\n2. Sirdaryo viloyatida keng tarqalgan tuproq unumdorligini tiklash texnologiyasini ishlab chiqish.\n3. Bobotog togʼ tizmalarining tabiatini oʼrganish va hududda milliy bogʼni tashkil etishning ilmiy asoslarini ishlab chiqish.\n 4. Toshkent shahrining bogʼlari va maydonlarida oʼsadigan daraxtlar va butalarning fitosanitar holatini oʼrganish, muammolarni bartaraf etish choralarini ishlab chiqish.\n . Invaziv turlarning tarqalishi va taʼsirini minimallashtirish boʼyicha chora-tadbirlarni ishlab chiqish orqali bioxilma-xillikni saqlash.\n6. ”Bobotog tizmalarining tabiatini oʼrganish va hududda milliy bogʼni tashkil etishning ilmiy asoslarini ishlab chiqish” \n7. ”Parrandachilik korxonalaridan chiqindi suvlarni tozalash uchun bioinjeneriya moslamasini yaratish”\n8. ”Chiqindi suvlarini biologik tozalash uchun reaktiv shamollatish tizimlaridan foydalanish imkoniyatlarini oʼrganish”\n9. ”Аvtotransport chiqindilaridan atrof-muhitga yetkazilgan zararini baholash metodologiyasini ishlab chiqish”\n10. ”Qurilish sanoatining gaz va chang bilan ifloslanishini kamaytirish uchun qurilishni loyihalashtirishni takomillashtirish va samaradorligini oshirish”\n11. ”Ekinlarni sugʼorishda hosil boʼlgan kollektor-drenaj suvlarini qayta ishlatish bilan tuproqqa salbiy taʼsirini kamaytirish texnologiyasini ishlab chiqish”.\n12. ”Ekinlarni tozalangan oqava suv bilan sugʼorishda tuproqlarning ekologik va meliorativ holatini yaxshilashga qaratilgan tavsiyalar ishlab chiqish”.",
+        "ru":"Основные направления деятельности НИИ экологических и природоохранных технологий: \n - снижение загрязнения атмосферного воздуха выбросами вредных веществ промышленных предприятий; \n - предотвращение загрязнения подземных и поверхностных вод, \n - создание современных, ресурсосберегающих, экологически чистых технологий очистки природных, промышленных, хозяйственно-бытовых сточных вод, очистки от отложений, образующихся в процессе очистки сточных вод; \n – работа с отходами производства и потребления (токсичная промышленность, сельское хозяйство, утилизация и переработка бытовых отходов); \n - разработка нормативно-методических документов в области охраны окружающей среды.\n - решение проблем экологической безопасности, охраны окружающей среды и рационального использования природных ресурсов, рационального использования и охраны земельных и водных ресурсов.\n Основные задачи института:\n – проведение углубленных фундаментальных и прикладных исследований по анализу современного состояния окружающей среды, воздействия поллютантов на растительный и животный мир; \n - разработка принципиально новых и эффективных методов и технологий снижения загрязнения атмосферного воздуха, водных и земельных ресурсов, сохранения биологического разнообразия, переработки и утилизации отходов; \n - разработка, опытно-конструкторские работы технических средств бытового и производственного назначения, обеспечивающих снижение загрязнения атмосферного воздуха, водных и земельных ресурсов, а также переработку и утилизацию отходов; \n - адаптация и внедрение передовых зарубежных технологий и инноваций в области экологии и охраны окружающей среды \n - участие в разработке стандартов и требований по экологическим проблемам и охране окружающей среды, развитие сотрудничества с зарубежными научно-исследовательскими учреждениями и центрами в области охраны, организации научных конференций, семинаров, совместных исследований, проектов, стажировок и обучения персонала; \n - участие в подготовке высококвалифицированных кадров, переподготовке преподавателей высших учебных заведений и специалистов в области экологии и охраны окружающей среды на уровне международных стандартов Деятельность по хоздоговорам\n- ПК Президента Республики Узбекистана 21 апреля 2017 г. - В связи с реализацией постановления № 2916 «О мерах по коренному совершенствованию и развитию системы обращения с отходами в 2017-2021 годах» институтом «проводятся экспериментальные исследования и сроки работ по определению нормы сбора твердых бытовых отходов на территории Республики Узбекистан».\n– «Разработка энергоэффективного способа комплексной утилизации автомобильных покрышек с получением товарной продукции. Разработка технологии комплексной сухой переработки бывших в употреблении автомобильных шин. Разработка новой технологической схемы завода по переработке всего и ежегодно вырабатываемого потенциала резинотехнических изделий и используемых полимерных материалов с использованием экологически безопасных и экономически приемлемых методов и технологий. (Работы проводились в инициативном порядке, есть правила проведения лабораторных испытаний).\n - Имеем опыт разработки экологических проектов производства изделий из комплектующих), ООО ”МАКС МИЛЛИНГ ЛИДЕР” (по организации производства ДСУ ), ООО «МАКСАМ УЗБЕКИСТАН» (за организацию производства патронных ЭВВ, предназначенных для горнодобывающей промышленности) ООО «METAL SOLUTION TECHNOLOGIES» (за создание цеха по производству санитарно-технических изделий (латунная арматура), и др.\n - Разработка технологии очистки газовых отходов газоперерабатывающих заводов от оксидов серы сорбционно-каталитическим методом с использованием золошлаковых отходов ТЭС.Промышленность и теплоэнергетика использование сорбционно-каталитической системы, применяемой для очистки газовых выбросов электростанций, а затем и для очистки промышленных сточных вод. \n - Для экспериментального исследования выбрано 6 регионов республики. Разделение территории на 6 зон (южная, северная, средняя зона и Ферганская долина). Это город Ташкент, Ташкентская, Сырдарьинская, Самаркандская, Кашкадарьинская, Наманганский области и Республика Каракалпакстан. Весна в 6 районах нашей республики",
+        "en":"The main activities of the Scientific-Research Institute of Environmental and Nature Protection Technologies: \n - reduction of air pollution in the emissions of harmful substances from industrial enterprises; \n - prevention of underground and surface water pollution,\n - creation of modern, resource-saving, environmentally friendly technologies for cleaning natural, industrial, domestic waste water, cleaning sediments formed in the process of waste water treatment; \n – work with production and consumption waste (toxic industry, agriculture, disposal and processing of household waste); \n - development of regulatory and methodological documents in the field of environmental protection.\n - solving the problems of ecological safety, environmental protection and rational use of natural resources, rational use and conservation of land and water resources.\n The main tasks of the institute : \n – conducting in-depth fundamental and applied research on the analysis of the current state of the environment, the impact of pollutants on flora and fauna; \n - development of fundamentally new and effective methods and technologies for reducing air pollution, water and land resources, preserving biological diversity, waste processing and disposal; \n - development, experimental design of technical means for domestic and production purposes, which ensure the reduction of pollution of atmospheric air, water and land resources, as well as waste processing and disposal; \n - adaptation and implementation of advanced foreign technologies and innovations in the field of ecology and environmental protection; \n - participation in the development of standards and requirements for environmental problems and environmental protection; development of cooperation with foreign scientific research institutions and centers in the field of protection, organization of scientific conferences, seminars, joint research, projects, internships and staff training; \n - participation in the training of highly qualified personnel, retraining of teachers of higher educational institutions and experts in the field of ecology and environmental protection at the level of international standards. Activity on economic contracts\n- PQ of the President of the Republic of Uzbekistan on April 21, 2017 - In connection with the implementation of the decree No. 2916 ”On the measures of fundamental improvement and development of the waste management system in 2017-2021”, the institute ”conducts experimental studies and timing works on determining the norms of solid household waste collection in the territory of the Republic of Uzbekistan”.\n– ” Development of an energy-efficient method of comprehensive recycling of car tires to obtain commercial products. Development of a technology for comprehensive dry processing of used car tires. Development of a new technological scheme of the processing plant for the total and annually produced potential of rubber products and used polymer materials using environmentally friendly and economically acceptable methods and technology. (The work was carried out on initiative, there are rules for laboratory tests).\n - We have experience in the development of environmental projects. production of products from components), LLC ”MAX MILLING LEADER” (for the organization of DSU production), LLC ”MAXAM UZBEKISTAN” LLC (for the organization of production of cartridge emulsion explosives intended for the mining industry) LLC ”METAL SOLUTION TECHNOLOGIES” (for the establishment of a workshop for the production of sanitary-technical items (brass fittings), etc.\n - Development of technology for the purification of gas waste from gas processing plants from sulfur oxides by the sorption-catalytic method using ash and syrup waste from TES. Industry and heat the hard chi of energy use of the sorption-catalytic system used for the treatment of gas emissions from power plants, and then for the treatment of industrial waste water. \n - 6 regions of the republic were selected for experimental research. Division of the territory into 6 zones (southern, northern, middle zone and Ferghana Valley). These are the city of Tashkent, Tashkent, Syrdarya, Samarkand, Kashkadarya, Namangan regions and the Republic of Karakalpakstan. Spring in 6 regions of our republic"
+    },
+    "bHaqidaTitle3": {
+        "uz": "TARIXI",
+        "ru": "ИСТОРИЯ",
+        "en": "HISTORY"
+    },
+   
+    "bFunksiyaTitle2":{
+        "uz":"Аtrof-muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot institutining asosiy faoliyati:",
+        "ru": "Основные направления деятельности Научно-исследовательского института экологических и природоохранных технологий:",
+        "en":"The main activities of the Scientific-Research Institute of Environmental and Nature Protection Technologies:"
+    },
+    "bFunksiyaTitle3":{
+        "uz":"bFunksiyaTitle2"
+    },
+
+    "bHaqidaTitleBottom": {
+        "uz": "Atrof-muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti boshligʻi",
+        "ru": "Начальник Научно-исследовательский институт экологии и природоохранных технологий",
+        "en": "Head of Research Institute of Environment and Nature Protection Technologies"
+    },
+    "bTuzilmaTitle1": {
+        "uz": "Instituti tuzilmasi",
+        "ru": "Структура институт",
+        "en": "Institute structure"
+    },
+    "bTuzilmaTitle2": {
+        "uz": "Atrof-muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti strukturasi",
+        "ru": "Структура НИИ экологии и природоохранных технологий",
+        "en": "Structure of the Research Institute of Environment and Nature Protection Technologies"
+    },
+    "load": {
+        "uz": "Yuklanmoqda",
+        "en": "Loading",
+        "ru": "Загрузка"
+    },
+    "rahbariyat": {
+        "uz": "Rahbariyat",
+        "en": "Leadership",
+        "ru": "Управление"
+    },
+    "lav": {
+        "uz": "Lavozimi",
+        "en": "Position",
+        "ru": "Позиция"
+    },
+    "handPhone": {
+        "uz": "Qo’l tel",
+        "en": "Mobile phone",
+        "ru": "Мобильный телефон"
+    },
+    "homePhone": {
+        "uz": "Uy tel",
+        "en": "Home phone",
+        "ru": "домашний телефон"
+    },
+    "email": {
+        "uz": "Elektron pochta",
+        "en": "Email",
+        "ru": "Эл. адрес"
+    },
+    "accceptDate": {
+        "uz": "Qabul kuni",
+        "en": "Reception day",
+        "ru": "Приемный день"
+    },
+    "accceptTime": {
+        "uz": "Qabul vaqti",
+        "en": "Reception Time",
+        "ru": "Время приема"
+    },
+    "bio": {
+        "uz": "Biografiya",
+        "en": "Biography",
+        "ru": "Биография"
+    },
+    "tasks": {
+        "uz": "Vazifalar taqsimoti",
+        "en": "Distribution of tasks",
+        "ru": "Распределение задач"
+    },
+    "Mapparat": {
+        "uz": "Markaziy aparat",
+        "en": "Central office",
+        "ru": "Центральный офис"
+    },
+    "Hayat": {
+        "uz": "Ilmiy kengash",
+        "en": "Scientific council",
+        "ru": "Ученый совет"
+    },
+    "HayatT": {
+        "uz": "Бошқарма ички буйруғи",
+        "en": "Internal order of the Board",
+        "ru": "Внутренний порядок правления"
+    },
+    "SuvBolimlari": {
+        "uz": "Institut bo’limlari",
+        "en": "Institute departments",
+        "ru": "институт ведомства"
+    },
+    "SuvBolimlariT": {
+        "uz": "Sariqo‘rg‘on Bosh inshooati suv bo‘limi",
+        "en": "Sarikurgan Main Construction Water Department",
+        "ru": "Сарыкурганское главное строительное водное управление"
+    },
+    "Byudjetto’g’risidagiqonunchilik": {
+        "uz": "Byudjet to’g’risidagi qonunchilik",
+        "en": "Budget legislation",
+        "ru": "Бюджетное законодательство"
+    },
+    "Ochiqma'lumotlar": {
+        "uz": "Ochiq ma'lumotlar",
+        "en": "Open data",
+        "ru": "Открытые данные"
+    },
+   
+    "ishOrni": {
+        "uz": "Bo’sh ish o’rinlari",
+        "en": "Vacancies",
+        "ru": "Свободные места"
+    },
+    "terms": {
+        "uz": "Shartlari",
+        "en": "Terms",
+        "ru": "Условия"
+    },
+    "ishOrniTitle": {
+        "uz": "BIZDAGI BO’SH ISH O’RINLARI",
+        "en": "WE HAVE VACANCIES",
+        "ru": "У НАС ЕСТЬ ВАКАНСИИ"
+    },
+    "tendrTanlov": {
+        "uz": "Tenderlar va tanlovlar",
+        "en": "Tenders and competitions",
+        "ru": "Тендеры и конкурсы"
+    },
+    "tadbir": {
+        "uz": "Tadbirlar",
+        "en": "Events",
+        "ru": "События"
+    },
+ 
+    "RDate": {
+        "uz": "Ro’yxatdan o’tish sanasi",
+        "en": "Registration date",
+        "ru": "Дата регистрации"
+    },
+    "Number": {
+        "uz": "Raqami",
+        "en": "Number",
+        "ru": "Количество"
+    },
+    "lex": {
+        "uz": "Lex.uz da o’qish",
+        "en": "Read on Lex.uz.",
+        "ru": "Читайте на Lex.uz."
+    },
+    "download": {
+        "uz": "Yuklab olish",
+        "en": "Download",
+        "ru": "Скачать"
+    },
+    "laws": {
+        "uz": "Qonunlar",
+        "en": "Laws",
+        "ru": "Законы"
+    },
+    "Decisions": {
+        "uz": "Qarorlar",
+        "en": "Decisions",
+        "ru": "Решения"
+    },
+    
+    "action": {
+        "uz": "Boshqarma faoliyat to’g’risida",
+        "en": "About board activities",
+        "ru": "О деятельности правления"
+    },
+    "axborotXizmati": {
+        "uz": "Axborot xizmati",
+        "en": "Information service",
+        "ru": "Информационная служба"
+    },
+    "bHaqidatoday": {
+        "uz": "O‘zbekiston Respublikasi Vazirlar Mahkamasining “Atrof muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti faoliyatini yanada takomillashtirish chora-tadbirlari to‘g‘risida” 2022 yil 18 avgustda VM-458-son qarori qabul qilindi.\nAsosiy yo‘nalishlari: atrof muhitning joriy holatini o‘rganish, ifloslantiruvchi moddalarning bioxilma-xillikka, jumladan, noyob, yo‘q bo‘lib ketish arafasida turgan o‘simlik hamda hayvon turlariga ta’sirini o‘rganish;\n yer resurslarini muhofaza qilish bo‘yicha ilmiy tadqiqotlar olib borish, yerlar degradatsiyasiga qarshi kurashish va uning oldini oluvchi texnologiyalar bo‘yicha ilmiy asoslangan takliflar ishlab chiqish;\nyer osti va yer usti suvlari ifloslanishining oldini olish, oqova suvlarni tozalash va qayta ishlash bo‘yicha samarali usul hamda texnologiyalarni ishlab chiqish bo‘yicha fundamental va amaliy tadqiqotlar o‘tkazish atmosfera havosining joriy holati, undagi ifloslantiruvchi moddalarning atrof muhit va tabiatga ta’siri masalalari bo‘yicha chuqur fundamental va amaliy tadqiqotlar olib borish, atmosfera havosining ifloslanishini kamaytirishni ta’minlovchi yangi, samarali uslub va texnologiyalarni ishlab chiqish;\n maishiy va turli chiqindilarni qayta ishlash va utilizatsiya qilishni ta’minlovchi samarali uslub hamda texnologiyalarni ishlab chiqish bo‘yicha amaliy tadqiqotlar olib borish;\n “yashil” texnologiyalarga o‘tishni jadallashtirish va resurs tejamkor texnologiyalarni keng joriy etish orqali “yashil” iqtisodiyotni rivojlantirishga qaratilgan fundamental, amaliy va innovatsion tadqiqotlar o‘tkazish;\n global iqlim o‘zgarishining ekologiya va atrof muhitga salbiy ta’sirini kamaytirish bo‘yicha ilmiy asoslangan takliflar ishlab chiqish;\n ekologiya va atrof muhitni muhofaza qilish sohasida ekotizim xizmatlarini amalga oshirish orqali atrof muhitni muhofaza qilish va tegishli normativ hujjatlarni ishlab chiqish;\nekologiya va atrof muhitni muhofaza qilish sohasi uchun malakali ilmiy kadrlarni tayyorlash, ta’lim, ilm-fan va ishlab chiqarish o‘rtasida hamkorlikni rivojlantirish, xorijiy ta’lim va ilmiy-tadqiqot muassasalari hamda xalqaro tashkilotlar bilan aloqalar o‘rnatish va grantlar asosida ilmiy tadqiqotlar olib borish;\nzamonaviy ilmiy-laboratoriya bazasini shakllantirish, uni ilg‘or texnologik asbob-uskunalar bilan jihozlash hamda sohani rivojlantirishga qaratilgan ilmiy-innovatsion tadqiqotlarni kengaytirish va ularning integratsiyasi bo‘yicha samarali tizimni shakllantirish. Ekologiya va atrof muhitni muhofaza qilish davlat qo‘mitasi huzuridagi Atrof muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot institutining tuzilmasi Xodimlarning umumiy soni – 35 nafar (ilmiy yordamchi va yordamchi xodimlardan tashqari).\n1.Yer resurslarini muhofaza qilish laboratoriyasi.\n2.Suv resurslarini muhofaza qilish laboratoriyasi.\n3.Chiqindilarni qayta ishlash va utilizatsiya qilish laboratoriyasi.\n4.Ekotizim xizmatlari va normativ hujjatlarni ishlab chiqish bo‘limi.\n5.Atmosfera havosini muhofaza qilish laboratoriyasi.\n6.“Bioxilma-xillikni saqlash” laboratoriyasi.\n7.Yashil o‘sish va iqlim o‘zgarishi bo‘limi.\n8.Ekologik ta’lim va targ‘ibot bo‘limi.",
+        "en": "Resolution VM-458 of the Cabinet of Ministers of the Republic of Uzbekistan On measures to further improve the activities of the Research Institute of Environment and Nature Protection Technologies” was adopted on August 18, 2022.\nMain directions: environment studying the current state of the environment, studying the impact of pollutants on biodiversity, including rare and endangered plant and animal species;\n scientific research on the protection of land resources development of science-based proposals for combating land degradation and technologies for its prevention; for prevention of groundwater and surface water pollution, development of effective methods and technologies for wastewater treatment and processing conducting fundamental and applied research on the current state of atmospheric air, conducting in-depth fundamental and practical research on the issues of the impact of pollutants in it on the environment and nature, developing new, effective methods and technologies that ensure the reduction of atmospheric air pollution; \n carrying out practical research on the development of effective methods and technologies that ensure the processing and disposal of household and various wastes; conducting fundamental, practical and innovative research aimed at development;\n developing scientifically based proposals to reduce the negative impact of global climate change on ecology and the environment;\n implementing ecosystem services in the field of ecology and environmental protection through environmental protection and the development of relevant normative documents; training of qualified scientific personnel for the field of science and environmental protection, development of cooperation between education, science and production, foreign education and scientific research establishing relations with institutions and international organizations and conducting scientific research based on grants;\nforming a modern scientific-laboratory base, equipping it with advanced technological equipment, expanding scientific-innovative research aimed at the development of the field and forming an effective system for their integration. The structure of the Research Institute of Environment and Nature Protection Technologies under the State Committee for Ecology and Environmental Protection. The total number of employees is 35 (except for scientific assistants and assistants).\n1.Laboratory of Earth Resources Protection.\n2. Laboratory of water resources protection.\n3.Laboratory of waste processing and disposal.\n4.Department of development of ecosystem services and regulatory documents.\n5.Laboratory of atmospheric air protection.\n6.Laboratory of ”Preservation of biodiversity” .\n7.Department of Green Growth and Climate Change.\n8.Department of Environmental Education and Promotion",
+        "ru": "Постановление Кабинета Министров Республики Узбекистан ВМ-458 «О мерах по дальнейшему совершенствованию деятельности Научно-исследовательского института окружающей среды и природоохранных технологий» принято 18 августа 2022 года.\nОсновные направления: экологическое изучение современного состояния окружающей среды, изучение влияния загрязняющих веществ на биоразнообразие, в том числе на редкие и исчезающие виды растений и животных;\n научные исследования по охране земельных ресурсов; разработка научно-обоснованных предложений по борьбе с деградацией земель и технологий ее предотвращения; по предотвращению загрязнение подземных и поверхностных вод, разработка эффективных методов и технологий очистки и переработки сточных вод, проведение фундаментальных и прикладных исследований современного состояния атмосферного воздуха, проведение углубленных фундаментальных и практических исследований по вопросам воздействия загрязняющих веществ в нем на окружающей среды и природы, разработка новых, эффективных методов и технологий, обеспечивающих снижение загрязнения атмосферного воздуха;\n проведение практических исследований по разработке эффективных методов и технологий, обеспечивающих переработку и утилизацию бытовых и различных отходов; проведение фундаментальных, практических и инновационные исследования, направленные на развитие;\n разработка научно обоснованных предложений по снижению негативного воздействия глобального изменения климата на экологию и окружающую среду;\n реализация экосистемных услуг в области экологии и охраны окружающей среды путем охраны окружающей среды и разработки соответствующих нормативных документы; подготовка квалифицированных научных кадров для области науки и охраны окружающей среды, развитие сотрудничества образования, науки и производства, зарубежное образование и научные исследования, установление связей с учреждениями и международными организациями и проведение научных исследований на основе грантов;\n "
+    },
+    "bHaqidatoday3": {
+        "uz":"Buguni",
+        "en":"Today",
+        "ru":"Сегодня"
+    },
+    "humidity":{
+        "uz":"Namlik",
+        "en":"Humidity",
+        "ru":"влажность"
+    },
+    "wind":{
+        "uz":"Shamol tezligi",
+        "en":"Wind Speed",
+        "ru":"Скорость ветра"
+    },
+    "clear":{
+        "uz": "Ochiq havo",
+        "en":"Clear",
+        "ru": "Под открытым небом"
+    },
+    "Clouds":{
+        "uz":"Bulutli",
+        "en":"Clouds",
+        "ru":"Облака"
+    },
+    "Rain":{
+        "uz":"Yomg'ir",
+        "en":"Rain",
+        "ru":"Дождь"
+    },
+    "Snow":{
+        "uz":"Qor",
+        "en":"Snow",
+        "ru":"Снег"
+    },
+    "Haze":{
+        "uz":"Tumanli",
+        "en":"Haze",
+        "ru":"Туман"
+    }
+
+}

@@ -57,10 +57,6 @@ const Sidebar = () => {
                 <NavLink to="/organisation/organisation">
                   <CDBSidebarMenuItem className={setActiveClass("/organisation/organisation")} icon="id-card">{t(`bTuzilmaTitle1.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>
-                <NavLink to="/organisation/central">
-                  <CDBSidebarMenuItem className={setActiveClass("/organisation/central")} icon="cogs">{t(`Mapparat.${lang}`)}</CDBSidebarMenuItem>
-                </NavLink>
-              
                 <NavLink to="/organisation/opendata">
                   <CDBSidebarMenuItem className={setActiveClass("/organisation/opendata")} icon="database">{t(`Ochiqma'lumotlar.${lang}`)}</CDBSidebarMenuItem>
                 </NavLink>

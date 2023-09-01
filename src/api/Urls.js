@@ -1,6 +1,5 @@
-// export const BASE_URL = "http://85.193.95.43/api";
 export const BASE_URL = "https://musojon.pythonanywhere.com/api/";
-// export const BASE_URL = "http://127.0.0.1:8000/api/";
+
 
 
 export const EMPLOYE_URL = "/employee/";

@@ -4,6 +4,11 @@
         "ru": "Ru",
         "en": "En"
     },
+    "working": {
+        "uz": "Web sayt test rejimida ishlayapti.",
+        "ru": "Сайт находится в тестовом режиме.",
+        "en": "The website is in test mode."
+    },
 
     "tName": {
         "uz": "Atrof muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti",
@@ -404,9 +409,9 @@
         "en": "Appeal of Individuals and Legal Entities"
     },
     "JismoniyT": {
-        "uz": "Sirdaryo-So‘x irrigasiya tizimlari xavza boshqarmasi xuzuridagi So‘x-Oqtepa irrigasiya tizimi boshqarmasi rahbariyatining jismoniy va yuridik shaxslarni",
-        "ru": "Физические и юридические лица Сох-Октепинского управления ирригационных систем Сырдарьинско-Сохского бассейнового управления ирригации",
-        "en": "Individuals and legal entities of the Sokh-Oktepa Irrigation System Department under the Syrdarya-Sokh Irrigation Basin Department"
+        "uz": "Atrof-muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti xuzuridagi jismoniy va yuridik shaxslarni",
+        "ru": "Физические и юридические лица в присутствии НИИ экологических и природоохранных технологий",
+        "en": "Individuals and legal entities in the presence of the Scientific-Research Institute of Environmental and Nature Protection Technologies"
     },          
     "JismoniyJ": {
         "uz": "Qabul qilish jadvali",
